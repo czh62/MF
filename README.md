@@ -16,7 +16,7 @@
 * **RAWJson/**
   该目录中存放需要处理的 JSON 文件。每个 JSON 文件中包含若干条记录，其中含有 `"Caption"` 字段。
 
-* **CzhNb.py**
+* **Caption.py**
   运行该脚本后，会自动遍历 `RAWJson` 目录中的所有 JSON 文件，将其中的 `"Caption"` 字段内容提取出来，并按行写入对应的 `.txt` 文件。
 
 * **data/**
