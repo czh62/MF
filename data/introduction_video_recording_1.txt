@@ -1,0 +1,1643 @@
+Maybe I need to be more about a cost starting first.
+So some house. Um, have you log into the Bible? Yes.
+Why? Yes. Why? So all the content will be posted in and then all the assessment will be submitted.
+So you say, um, cost management system in our portfolio.
+So you can find a lot of the information here. So I have uploaded most of the slide at least my part.
+Okay. My part have been uploaded. So this cost will be handled by, um, two separate lecturer.
+Uh. I'm here I'm Peter, and other one will be Wayman. So Wayman is a senior.
+Um, um, um, uh, college working in multimedia, working in mobile tech, working in the, uh, development center.
+So if you want to know more about the industrial center, uh, stand out.
+So Wayman will be another very, uh, expert in this field.
+So this is, um. Yeah, this is course handled by us.
+And then all the subject, all the, um, lessons will be over Kazakh file into different folder.
+So when you click easy so you can find the um orientation slide that we have discussed in the, in last two days before Saturday.
+And then we have that slide and um starting from last year.
+So we will provide you some video preview. So these are one three minutes video preview.
+So um if you want to know more before before the I would say the before the lecture.
+So you can go to the video people and then spend five minutes to watch the video I know about I don't know about us,
+but honestly the feedback last year is not so good. They say that hey, if you have the video video then why not?
+You just ask us to preview the slide? I don't know, we create something that we think is, um, better, but yeah, I'm not sure, honestly.
+So, um, um, yeah, that is the video that we have created last year.
+So this year we will also watch for you. And then we also have the question.
+Yeah. So, um, this is um, all the materials that you can find for each lesson question here is somehow about asking
+your motivation and then asking whether you have previously or previewed a video before.
+And then I want to hand mic questions to help you to understand more in this course.
+So, um, every last one we have these kind of settings. So we have the slide, we have the preview.
+And then we have some uh, we version exercise a little bit. And then at the end of this lesson.
+So most likely I will also prepare and set of virtual pizza.
+I will discuss with you later why we have these kind of settings.
+Because yes, um, I fans ChatGPT and most of you guys, um, just try to put in and try it out.
+And our headmaster designed to cancel all the assignment.
+And then leave the exam only. So I will discuss with you later.
+Paul chat. Um, I just could be here first, but I will, uh, I need to be just within this field.
+We. Perhaps, um, two is later of, uh, two is later.
+I will discuss more about the project, because this year we put a high percentage in the project, and then, um.
+Yeah, I need to think a little bit more, but honestly, the, um, the, uh, project has been put y there.
+Okay. So, yeah, we have start our work cutting and then let us to start our course.
+So, um, welcome. Yeah. Welcome to the metaverse. And and thanks a lot to come.
+So I'm your. Yeah. Pokemon meta together. I'm also the software leader of this course is called, uh, metaverse in this call fundamental of metaverse.
+So in this course we will study all the things about metaverse.
+So that means that after this course, I suppose that you have the ability to handle val al unity for change, etc., etc. and NLP etc.
+So we'll go through all the thing a little bit overview all the things a little bit.
+So Alice, or even if you um, I would say that, um, the newcomers of the we are newcomers of all these kind of metaverse colleges.
+After this course, you have the ability to create something. Yeah.
+You have okay. So you can start to think what is our project and then what should be inside this project, etc., etc.
+So I'm Peter, I'm a um, um, honestly, I have been in this university.
+This is the 25th year that I'm in the university.
+I start, um, undergrad here and then and master PhD, and then I stay in the university to keep working, and then finally I become the AP.
+So now I'm the assistant professor of department of computing.
+That means here, this department, together with that we have science.
+We have teacher science. So I have lots of the project that with, uh, that deal with the healthcare, that deal with the, um, um, we have patients.
+So honestly, one of the cutting edge research of, uh, of mine is about our work injury.
+Management. So our entry management systems handle our own 20% cases in Hong Kong.
+And then we have another ALM to Australia. We have an arm um to China.
+So that is one of my cutting edge. But of course if you want to do something that is related,
+we have welcome to find me and welcome to if I uh yeah loss of the application in healthcare.
+But in this beef hammer most likely a hand of the game that came to Ramos.
+So a one example. Remember how can I start in 2000 2005.
+Yeah 2005 2006. So almost 20 here here.
+So I take care about a game. Now I create a VR layout.
+That's why I want to a fiasco I one fiasco.
+So our have asked uh things that hey I need to start a new course that is related to VR.
+Let us they meet X metaverse and then he find me and because I am working in VR now.
+So my first role in this university is Apple.
+I picked out uh, um, um, um, another research initiative in Hangzhou.
+So who is that? Anyone come from honcho here? No.
+No. Okay. Last year we have two trophies.
+Student. That is, um, coming from honcho. And then they slashed, uh, my metaverse project one and project two.
+So they come to my office to work for a few months, something like that.
+So again, we have loss of the, um, office in, um, mainland China.
+So exam you remember we have, um, 115 to 16, um, this kind of research office in mainland China.
+So in Hangzhou, I'm responsible for the culture and tourism.
+And then we create some teachers who manage a lot of working.
+So we create some real, real things inside this car.
+And, um, so this is the workplace, and then, uh, we use your smartphone just like here,
+smartphone, you show camera and then we scan the video environment.
+So after we have scanned the video environment so we can, we can shut the whole video and walk environment again.
+So if we have the, um, um, sufficient time with so we can put the whole China into this virtual world.
+So this kind of the we are application. And then in mainland China we could because aren't uh the office is nice and also the showcase is online.
+So we have lots of different, um equipment in control.
+So this is one of the lead one. Okay.
+Full of lead in Hong Kong. We can only so you visit later.
+Our lead is just like this call. Yeah.
+Something like that. Yeah. This we small but you Hangzhou is we back and then we also take care about.
+Uh. Um, um, we are LP. So, um, so we have the, um, locational based learning.
+So have you go to we, our LP people. That means, um, there are a lot of, um, uh, let me show you.
+This kind of facility. So you spend A1I can remember almost $100 for 30 minutes, something like that.
+So, um. Um, yeah, we this one is the we our LP, we are LP spike.
+So we also, um, teach you how to use, um, the we all device.
+We are LP, and at least you will have, um, this kind of experience.
+So I have mentioned on Saturday. So, um, um, yeah, your school fee includes the results.
+So I will buy the ticket, um, to, uh, to let you to pay the motion capture with the real device.
+This one is time pass. We are, for example, the street cam or the this kind of the games.
+You will you at least we have pay. And at least you will have some experience in this kind of the commercial product.
+We will also bring you to the we are LP.
+So we will allowance and then let you to play this kind of uh with us.
+So at least we will have A15 discount with us or discount play together.
+Um, yeah. To lecture to explain. We are to lecture to expand into new territories.
+And then, um, another thing is to let you to form code.
+So most of our projects. So these are one, uh, for student unique group.
+So it's time to help you to join with each other.
+So just like the last two years. So there are lots of because I guess you are here because you love we our our game development, etc.
+Why hopes that or or you just want to study in uh poly you and that it did not give
+you at all for watching to like if you are alpha and finally you go to metaverse.
+So dice and all things. But if you love. Yeah.
+And yeah we have lots of discount party and honestly a lot of your, uh, um, um, senior classmate, they try to form some company and earn money.
+So some of them are quite successful. And then if you have formed a company, just let me know.
+So if I have too many job. So I have too many development work.
+So some of them I will outsource to the others. So I will still give you the job and then for your development etc.
+So um, yeah, we have the connection and then we have a strong network about we are and then we have different kinds of um, ability for example.
+So this is one of the project that we have uh, done with our previous classmate and classmate.
+We used, uh, figures. We do the 3D scanning, smartphone scanning.
+We go to somewhere else that is far away in China, do the interview, and then we create a teacher humor.
+Okay, we create a digital human and then put it into the, uh, environment just like this one.
+Okay. So that is what we are doing. And then that is, uh, some of the applications of we out.
+So that is one of our project. And um, yeah, this is the we are LP.
+This one is the feed scan model.
+So after they do they used a change to change and then do the face scanning and then put it into um will to change the rendering technique.
+And then um, to provide this kind of we are all I would say this kind of um, um and draw full and warm and to the user.
+So that is our, um, product. And then, yeah, there's our product and yeah, we are working with, uh, Simon Holt.
+And then we are working. Yeah. Carlos, we are working on your exhibition.
+So, um. Yeah. When you finish your metaverse project one and project two.
+So we will try our best to, um, to hold the exhibition and then let your product to be seen by other properties,
+not only, um, there are people in Hong Kong.
+We also launched, uh, I will say that the people in China and all the people they are interested in WiFi technology, so they will go to this one.
+This one is called digital DLF digital.
+Uh, yeah. Digital entertainment for digital entertainment.
+Foreign. And then today at this. Yeah. So yes. Uh, 12 to 14 uh of sometime that means two weeks later.
+So we are still we are organizing we are preparing the show.
+So you can have a look go to here. So we have the yeah you can play.
+You can understand what we have done in, um, last few years and then understand the other WiFi industry.
+And to get that there is lots of the games, lots of the interactive play to for you to pay and lots of lots of souvenir.
+Okay. Together with some cinematic cats, together with some top up.
+Take care. Something like that. So there are a lot of the interesting thing and yeah, we are here.
+Okay. We are here. So definitely we will provide you um, some interesting thing.
+So I guess this one is the video of last year. Right.
+Well the yeah, this one is the video of last year. So those are the.
+So I always think that for the exhibition we should not hole in party you because
+whole in of only the teacher not only the for you student will enjoy your podcast.
+So we will poll in a public area. So support is one of the um interesting okay unique location for this kind of show.
+So we hold in cyber pole and then those are the VIP in the WiFi and also in the government.
+So not only your uh, subject lecturer or not only your student, there are some we we important presence.
+So he just, uh, uh, just sent me, not.
+Uh, our BPL, uh, wise person of you.
+He is, uh, second chair in Hong Kong Government Central in Hong Kong.
+And then, um, she is the sponsor fo for Hong Kong.
+Um, technology innovation and it uh, innovation.
+Innovation technologies. Payroll. Yeah. Innovation technology support the second chair and he.
+I'm sorry I forget this guy, but he's a very important person in China.
+Yeah, but he is the very important person in China.
+I forget. So, um, can you recognize his face?
+No. So he's not my problem. Your problem? And then we have to show here, and then we have lots of the interesting thing.
+So who love Korean AI? Uh, Korean idol, Hong Kong, Hong Kong, Taiwan, Hunstanton Yaml.
+So this. Yeah. Um, in this show, they have mi loss of the K-pop insight.
+So spanner what fees like that. They spend a lot of money in this kind of popularity.
+Uh, popularity in this kind of. So that's why there are some a re idol come to try.
+And maybe they have this kind of static anthem north so they invite loss of the K-pop, that much loss of the, um, VIP person.
+So um, is very important and he is the cyber pop.
+Yeah. Cyber pop chairperson. Yeah. Tribal patrol persons.
+Okay, okay. Haendel. One of the most important thing in the I t here.
+So we have these kind of settings and all your products.
+Portal one and Project Hub will go to this kind of stage. Okay.
+So if you are looking for job, if you are looking for uh, initial start up position, money, funding, etc., uh, yeah.
+Join us. So we have lots of this kind of interesting thing for you to pay and then for you to, to, uh, exposure.
+Okay. So yeah, so that is the basic back one of our, uh, of our program.
+So any problems? No.
+So we continue. So we will comes in the first with rice fabrics.
+So, um, I guess here we are last year about a lot of things.
+So whether you should paint your a lot here or we will and other lab sessions and then we are going to um, um and our time slot so last discussed.
+So women will come and then discuss a lot of the things that is related to the um, um, hand on experience.
+So I focus on the periodic part.
+Yeah, I would say that for the part. And women will hand on lots of all the hands on experience.
+So every course in university. So always remember to read the program popular to which that all came up.
+But I guess none of you guys will with the book lab will read the information, right?
+Yeah, that is the situation. So that's why, um, every last time when we start, we will, um, focus on the internal learning outcome,
+because the internal outcome is just like a contract with, um, with you guys student.
+And then, uh, you try to all know all the things that we will, we will, um, learn in these lessons.
+So again, fundamental of metaverse is a fundamental course.
+And then we try to cover all the key words. Cover key was is very important because you or at least I want you to say professional okay.
+So professional with the profession. And they use the key keywords to communicate.
+So at least for example that I have um stay after this that we have used web exile and then uh NFT blockchain.
+Um and that's stable cons. Also all things they are the professional terms.
+So maybe you can understand all the algorithm behind, but at least you have to understand the key terms.
+And then in this course we will, we will discuss all the key terms and the existing solution systematically with you.
+So I guess a lot of you guys are from computer science, but after this course at least you will have the basic understanding of all the times.
+Okay. And we focus on the we will propose in this course not only about the research.
+We also want you to understand how to we are portraying um cryptos stable comp etc. to work in the we will problem.
+So we will tell you the we will application together with the standard not only in that time not only all the things in GitHub.
+So this castle for this program we want to connect you guys with the markets and some of um your cost.
+May us. Uh, yeah. Blockchain seems to be very sensitive in China, right?
+Honestly, blockchain is loss sensitive in China. I also developed ball chain in China.
+No problem. Maybe.
+Why now? I don't know, but yeah.
+Correct. Omni crypto is sensitive. Okay. Okay, so, um, if you want to do anything that is watching, no problem.
+Even the, uh, Adi group, they also develop blockchain. But Ali could also face a lot of the problem with trying to discover the life.
+So we don't know, but somehow the web watching problem, um, um, um, developed watching solution is no problem.
+And sometimes we will have to, um, chai, uh, Chinese police to come to our Honjo office and then discuss lots of things with us.
+But why now? Still? Is we small? No one stop our development and then no one stop our our poaching.
+Um, all the things. So. Okay, so it's still still no problems in China.
+They all. I don't know, but still, um, um, is like, here, and I guess it will be a trend.
+So later on we will discuss about the history and then trend of blockchain cryptocurrency.
+So um, yeah, we'll have a lot with this one. So yeah, we will learn all the things about the metaverse and Enable Technologies.
+We will focus on design and implementation.
+Lotta development in this course okay. Design and implementation.
+So somehow if you do not have any pouring skills in this course, you can still survive only in this course.
+Okay.
+Only in this course, maybe later on you, um, uh, I guess you have to experience in the which of some of your senior course may have discussed a lot.
+So if you are not hardcore programmer, let the game engine course.
+So there are too many mathematics, too many unreal things, too many, um, technologies things.
+So, um, yeah, they have this kind of, um, setting.
+So depends on, um, your background. So some course that you can handle.
+But don't worry. All the courses in poly, you you you are feel free to join.
+And then all the costs in poly they are wack quarter okay.
+They are record. So if you are we interest but you you are free that I can okay.
+Hi. Okay. In this course ask the subject that this gives us the subject lecture whether
+I can uh and in this course and then you can preview all the slide people,
+all the videos is still acceptable. Okay. You have paid the school fee is very expensive.
+I don't worry, you will be more and more expensive later.
+That data. You keep on increasing the price.
+I have no idea. It's not. It's low handled by me. The price increase month.
+You're still fee increase. I is handled by the central.
+Uh, central. Um, um, uh, management team. So, uh, I'm sorry about that.
+Except remember the first, um, costs of, uh, first year of is 540,000, and there are only 200 applicants, 200 or something.
+Last year is 360 or 70 something with 400 applicants this year, more than a hundred applicants.
+And then you have 400,000. This is one.
+Doing the DNA and science so super well.
+So you're like, you're cool how you can make one super tape.
+What's the what's on that? Uh, but, uh, I have no idea.
+Um, that's why there are so many, um, people want to, uh, want to get into this cast because at the very beginning,
+it's A12 hundred something, and then there are 57, 57 students.
+And why now this is I can draw something and we ask the material will be over 1000 lexia.
+So, um, some of your, uh, cast may, uh, some of your fail applicants, I will say fail.
+Fail. Um, cast me a fail applicants send me an email and campaign.
+Why? Why I'm not involved in this cast.
+I would like to say because your background is not charming XD Arthur I'll.
+And we'll raise these A1 10%, so I'm sorry about that.
+So if you are here, you already you are the winner. So, um.
+Yeah it's good. Okay. And yeah, that is our course settings and that is our schedule.
+So for the staff we have the videos. And then for the staff we have the question.
+Yeah. So starting from the first lesson we have the introduction to the chitchat.
+And then discuss all the things that is um related to the metaverse.
+Then we will go through all the things one by one. So we will, starting with the computer graphics DVD, uh, fossil and the metaverse development.
+So we will discuss all the new technologies. I would say that if you are the computer science guy, the first, um, 1.5 hour,
+you can skip it because he, I will start from 2D and 3D, but the another half we would go to uh, fossil.
+We will go to, for example, United will go to universal, uh, universal rendering Pi nights.
+We will go to some new times, new technologies. So for the, um, later on the um, um, the remaining 15.
+So we were talking about the new technology. So, um, it depends on whether you want to.
+Yeah, appear later or not. Then we will pass to women to discuss all the things that is technical, for example, panel workshop.
+So if you want to do some more fundamental and some will partake in the metaverse because um,
+um, in this view, yeah, loss of the loss of the people we have move into the metaverse.
+And honestly in honcho. So there are unity unity do not unity robotic yet she yan yan yan so so so young so young so so so you find that unity okay,
+so, um, we have the connection with them in Honjo.
+We have lots of the connection with different IP company bring called unity.
+And then I forget the remaining one. But don't ask me about the deep seats.
+So deep seat is some company that we cannot call neck.
+Uh, deep seat. And our office at the very beginning is still good.
+Uh, I will say that, um, um, last year, we have still a good connection,
+but starting from this year, they we asked to to connect with us, to do anything.
+So, uh, the Honjo, uh, our office and, um, um, deep sea office.
+It's only about ten minutes. Ten minutes. Um, um, traveling, um, by cars.
+But somehow we cannot, um, connect with them since I typically take, uh, special task force box.
+Also, fan chip toy. See which old timers all. Just like go to say title the super mega.
+Um, so the idea is, I guess, like a lot of title, like toys here.
+Um, um, uh, jetpack and deep sea. Depends. So yeah, you go fan to tide us out.
+So so so we jet to our title.
+Yeah, we got dinosaur. I'll show. Yeah. How? Since I commented on the phone.
+So, Han. So I'm back to you. Answer you already?
+So, uh. So. Yeah, absolutely. And to manipulate your data totally outward union legal effort to take her can't it hard.
+So you sent I but yeah. One more deep sea so yeah. That's it.
+When when are you going to pump with China? What do you want one.
+Okay. Yeah. And so I think with the gentleman. Yeah. Maybe I can touch you then.
+Sauna. So it has sent out to the new the near the. No.
+Okay. So, uh, then we will have the kimchi kimchi.
+So we have talked about a fundamental of the I mentioned how the metaverse used the new game engine.
+So device and, and we'll use it. Then we have another workshop that is used the tool spatial.
+The I o so one of the very famous um uh metaverse platform.
+So after this course, I guess after that we six, we six.
+So I guess you'll have the ability to develop some prototype metaverse based on the unity, based on the Penta, based on the spatial trial.
+So you can do some, um, application. Honestly, if you're using on unity and spatial, I o um, yeah.
+Should be cool programing maybe a little bit, but all. Test to pick program, and then you can still develop a metaverse design.
+Then we will go to the VR layout. And in 3D construction is a little bit overlap with your external reality, especially about the VR part.
+But for the um, um, exile. And then we do construction and definitely we will bring something to you that is new,
+then we will go to AI, uh, something missing AI and then focus on that.
+Um, um, NLP, natural language processing. So that is the fundamental of the digital human.
+So still remember we have a path for about human life.
+So after this course I guess you have 100% know how to build a digital human.
+So for our case, um, for our interview, if we want to do a digital human out of the, our platform is only a 30 minutes,
+uh, interview and then capture one of the photo of the elderly and then A15 minute, um, standby so we can con shot.
+We can shot their story together with their face and then put it into our WebEx, our platform.
+And A1I would, uh, give me, uh, 2 or 3 more month and then our, um, um, WebEx, our, uh,
+digital human platform will be fully launched because right now we are still prepared for patents.
+So after the patents for we will launch our platform and then, uh, you can try to use, see all programing and then create your metaverse.
+We will have these kind of settings. Then we will go to the blockchain okay.
+And uh we have two lessons about the blockchain.
+And then finally the last lessons we will focus on the uh I guess no one will be interested,
+but it is our responsibility to talk about a privacy affects, inclusion, all these kind of sad things.
+I know that you hate that, but you. I have the worst possibility to to, um, at least really talk about these kind of privacy attacks.
+Because when you go outside to, to to this kind of metaverse or blockchain.
+Um, think so. Somehow even the Chinese police, they, um, asked a lot of the questions about the privacy, about the ethical use.
+So, for example, now I, a teacher human of the elderly in our web platform.
+Yeah. You know what, Python? So what is the pop up post?
+Is potential pop up? Mao tse susu yao.
+Like all my hands, all the offers. Come on. Want you to go toe to toe that way.
+Say, yeah, I want ways. I'm always in.
+So some house. Um, if you, uh. What a yard. You are still in China, right?
+So there are lots of the, um, um, want, want, want, Monty.
+Want some saw to end up queen type out.
+One die, one die. Okay, so they are using your face.
+They are using your ID card. They are using all these kind of things. Why? So sometimes they ask you to close your left eye.
+Close your eyes left. Why something like that.
+Right. Outperform can handle all the things very well.
+And then we can use this time to do these kind of things. And then, uh, the police, uh, come to our office, say that.
+Hey, do you think that, um, um, you can, um, bypass the security chat of all discovery, uh, platforms or the other part of my answer?
+You should, um. Yeah, we can do, uh, yeah.
+So that is something we interesting. So, uh, somehow when we develop these kind of perform, now we have to work on all their Hong Kong I.D.,
+all the, um, information to make sure that they will not use these kind of technologies to do something bad.
+Okay? Okay. And of course, we have some watermark, um, inside here so they can, um, um, trace back.
+Hey, this is using our platform to to do this kind of fake information.
+So that's why, um, when you are concerned about the video today, IGC is two to is two powerful.
+So somehow you have to take care about this kind of the security issue okay.
+This is a way. So these are multiple sources to talk to.
+Yeah. Yeah it's a cinch. And the it's always a teensy bit uh, okay by far.
+So, um, um, and then we, we talk about, uh, spatial computing.
+So, um, I will invite Apple or ITC or both to come.
+So HTC will be come to talk about, uh, um, we are LP, we are locational based entertainment.
+And then, uh, Apple will come to our the we should import. So all the are device you can follow.
+So whatever use occurs HTC which I'm Paul so we are on hand.
+So uh you can you can ask me and then of course we with a good justification just let me load your justification.
+For example, you want to develop something, you want to start with your in queue, etc., etc. just let me know.
+Okay, I need a sentence of justification and then I will give you the device.
+And then yeah we have this kind of the setting. So we will also teach you how to develop um the things in HTC or in uh air pollution Pulse.
+So we have this kind of thing honestly, these uh, two years ago, uh, our student one, uh.
+I forgot the names. I forgot.
+Okay, Apple competition. I forgot the name of the apple competition.
+So if you won the Apple competition. So some house for the air.
+Take TAC to the Seattle and all the hotel free during the week.
+We will pay for you. Our department will pay for you. Okay.
+If you won. Okay, so this year, um, uh, lot you start, but some house.
+We have won the, um, um, home concessions Apple competition.
+We have won the home concessions. And then our student, uh, will join the competition in this this month or next month in Hangzhou.
+And we also go to Hangzhou to to to join this competition.
+If nothing, um, if nothing goes wrong.
+Okay. And then if they can, one that gets, uh, we will have the second group of 30th and go to the Seattle dotcom.
+And then they will enjoy all the things. At least you will have the photo in the book.
+And I remember one of the photo, uh, in team CoC x, our students are here.
+Yeah. We, uh, our student slapshot, uh, I was our student.
+Take a selfie. Oh, no, not our student.
+Our self esteem. Take a selfie with our student and then put on his icon.
+Shattered. So this we were able, especially when they took on.
+You want to, um, um, have up or do something.
+Um, that is part of our, our this kind of photo is important.
+And that's why um, if you are interested in start up, go to the DLF.
+At least you take some photo with our Hong Kong, um, senior management or with some VIP person.
+And this kind of foil can help you in Los of the area can get it.
+Uh, VIP your need to eat bar.
+You can use these tools and eat a lot of these. It's all start up towards it if you are 1 or 2.
+We umpired. You said to get even the okay, so try your best to do the project and then try your best to to um, yeah.
+To at least this year, uh, pay with the VIP. Uh, this cost only divide into two parts of your assessment last year.
+We have the two assignment. We have lots of interesting, uh, um, things about the, um, I would say that cost.
+What? But this year, only the project. Only one project.
+50% for the project. With one minute, ten more video, we will have a one.
+I will say that, um, um, 15 minutes for your presentation, ten minutes for your presentation,
+one minute for your demo video, and then one four minutes for our Q&A.
+So this is the project presentation side of things. And, uh, we always asking for one minute video, not only in this course.
+Project one. Project two. We watched your one minutes video, okay.
+Because none of, um, the investor will care a lot about your development work.
+They only care at the trailer, okay?
+They only care one videos about your, uh, your work.
+So that's, um, maybe I showed you. So that is my, um, my project, so.
+Yeah, I also. How can you truly grasp the digital divide?
+Empathy. And Spock's voice is missing from the.
+Cameron had forgotten village. We equip students with skills to digitize his.
+Smartphones, do drones and light up. We teach students to capture history, transforming forgotten places and dreamers to digital memories.
+Yeah. So just on a impossibly note, how do you how do we all sound?
+Until Yalta and 44th week, foreign students went to Google China for just over 160 buildings.
+Each bridge and elders saw their stories come alive.
+Students listen and create learning empathy.
+We tell their stories. Students meet war veterans and capture untold courage.
+That is multi-tasking taking acknowledge assess trades.
+And we were excited just to be able to control the viewing angle which get them assessed.
+The Digital Humans treats, uh, stories in healthy way.
+All possible 3D assets reusable and over for a WebEx are sites that all create and explore on any device.
+Our VR led spaces green stories digital humans, like students, gain skills and almost regain voice integrity.
+Tech with empathy times students teacher translators.
+If we are one always more to find coherent, I do or to tell you that either hand to like you how to and uh see some has a keto Luther.
+So you know the um, current situation. Right. That the kinds of and help without fighting that.
+Okay, so that's a pause. I tell you that. What what's the answer?
+So, um, um, one minutes video is really important because some slow lawn care about your department.
+They just care about your concept. If you want to get funding, we need this video.
+So prepare the videos. And at this course you have to prepare portal one.
+You have to prepare project two you have to prepare is a good part. That's for you to do this kind of um settings remember okay.
+And then um, yeah. So we only have to go project and that's why fast ChatGPT.
+And then our, um, headmaster thinks that all of the conduit assessment is useless because you just ChatGPT in trouble.
+You are so no more. Uh, I would say that, um.
+Yeah, they they cancel all the assignments, they cancel all the assignments.
+So I have put all our assignment, sample assignment of last year into our website and started our assignment to prepare for your examination.
+Because examinations is coastal face to face 70%.
+Last year, the examination is only 45%.
+So I'm going to that. Yeah, 45%. So the examination uh, the ratio is not so heavy but fast tragedy.
+And then now is 70%. So how to do the refresher.
+You can use ChatGPT. Please deposit or use the virtual to choose upload outline.
+Just upload our assignment pass paper into the um chat GPT and then ask can you see made the examination question of this year?
+And somehow you say we good example. You say we could practice for you to learn um, um, uh, for you to study for the examination.
+Useful. Okay. Okay. Honestly, for the, uh, um, deep said our deep sea is now we before the open.
+Uh, open. I 24.0. So they are their ability is better than university graduates.
+So somehow they are thinking that all their progress is good and.
+Well, I remember one of our students asked me, can do we have the VPN, right?
+We do not have the VPN, but we have a high volume.
+So we have the, uh, Podio join the AI and then um, um, Purdue China AI.
+So this is my icon. So, uh, you can upload the assignment and then you can find the answer.
+So we support, uh, not five, but we have the, uh, four.
+We have the deep sets, we have the chain one. We have total we have loss of the information that you are not.
+Three. Yes. Unless you use a lot.
+There is edema. There is edema.
+I, um, I'm not sure that, uh, for you, for the the mass is 5001 or 2000.
+And then for the deep seed you do not have, um, any limit.
+Something like that depends on different model. So you have to, uh, different.
+Nima, tragedy is very expensive for the. Ah. That is almost free of charge.
+Okay, okay. You have to limit the.
+I guess you will not touch or wish to limit. At least in last year or last two year.
+No one. We pulled that um, they they reached no one.
+Okay. So yeah that is the situation.
+And honestly in Hong Kong. So, uh, um, today's when you are going to use uh, church GPT we still need a VPN.
+So Hong Kong is not Hong Kong right now, but you can still use the Google.
+Google serve as it's still wearable in in Hong Kong.
+And then all the Microsoft Chinese offices were up in Hong Kong.
+Only the tips. Uh, don't need to touch you. Right? Uh, is open.
+AI is not working in Hong Kong. And then you did a VPN. But if you do not have a VPN, just use the Chinese office of our of our university.
+You have paid. Just enjoy. Okay, so this is, um, exam questions.
+So, uh, if you, uh, if you have study assignment.
+So, um, the assignment will be more or less similar to our examination.
+So most likely all the examination will be a case study.
+Case study. Um, most likely I will give you the case before the examination.
+For example, we have five questions. Then I will give you ten case before the examination.
+So you watch the video, you study about the link, and then you can understand what I'm going to ask for example here.
+I think as you get. So after reading takes a few seconds.
+So can you guess what is the topic that I'm going to ask? Maybe after this time, you understand.
+So we will ask the. We are a motion capture.
+We are. We asked a we are motion capture.
+So after I guess after watch the videos after understand a case, I guess you understand what I'm going to ask.
+So I gained five exam. Any questions. So I will give you ten these kind of case.
+And then you can study before before your examination.
+So I will say that we list some of your pressure above your examination.
+So yeah we will do these kind of things. And uh for this kind of uh we are device.
+So I will paint and then I will let you to experience before examinations.
+Okay. So, um, that is our examination style.
+We have a case study and then we will have the structure structured questions to ask you about the technical things to ask you about,
+uh, the, um, um, maybe game design, maybe prophecy, maybe also the things that we will include inside our examinations.
+Okay. Oh, sorry. So, yeah, more, uh, we saw just for you.
+Beside, I guess the Chinese is the most important resource us.
+And I'm not sure that you will with the books or not, but honestly, all the books, all the paper, our library have page for you.
+So all the paper or the ACM graph paper or the, um, um, um, box that is be a two meter by six here.
+And the examination paper is also in our library on our library website.
+So you can have a look with all sorts of this kind of resources.
+Okay. And then uh, x time is limited.
+So, um, perhaps you can do this kind of question here later.
+Don't worry. Later. So this is one of the question I want to ask whether you want people or preview the slide or preview the.
+We will. It's only a small for about your study, so don't worry about it.
+You can do it later. In this, uh, course our project will focus on something that is plc plc.
+Okay. Proof of concept. Proof of concept. So you we the why all the, uh, product from idea to MVP minimal viable poll type.
+So this one, uh, is for the marker. That means if you have achieve here so it can be put on the, um, Google market or you can be put in the App Store.
+So is where the to use and we p but in our course we are not asking for the MVP.
+We are asking for a prototype. Oh uh some how about the PLC proof of concept or proof of concept?
+So you have the idea. We always have lots of the idea.
+So for the idea, you need to implement a little p function to get together with one videos just like the previous one.
+Why we have the platform, we have some demo and then we have one video.
+After you have the PLC, then you can go to some um, um, fun wise from what I think.
+For example, you want to ask for some startup funding, so all you need is a PLC, a little bit demo a videos and assets, okay, maybe a website.
+And that is what we are going to do. Okay.
+So honestly, not only in uh, IT company, in game company or in the uh, the loss of the um, um, um, cutting edge company.
+They are only asking for plc. They bite your concept, they bite your appetite, they bite your, um, development, uh, potential.
+Then they will give you the money. Then you can continue.
+Otherwise, if you do not have the money. So what can you do is hard.
+And to the loss of the, um, it poured out. So they are core.
+They are saying using millions, millions of money or even hundred, uh, um, 100, uh, millions of money to compete a poor time.
+So it's very hard to, um, let's feel for all of you guys to, to create i.t company and then you can ask for a lot of, uh, you can win.
+The market is not a lot of trial. You need to go with the ah that you need to ask for the startup funding.
+Okay. And you now course not only in metal part one or project will be focus on the PLC.
+Maybe you can go to pull a little bit. Prototype means that you have the internal task type.
+So you have a small, um, small, uh, UAT task user.
+A certain task may be a 150, 50, 50 user to have task your system.
+Then you go to a part time, but most likely only few.
+Uh, only a videos and a, uh, demo.
+Can we fact all you need to your word. And then we are all looking at this one.
+So don't ask me. Hey, how complete I should finish my product.
+The answer is PLC shot pull tight shop videos then that's it.
+Okay, okay. And then, uh.
+So why do you have the posse? Why?
+You, uh, need the posse again? You do not have the money for Debarment.
+You do not have the money for for, uh, marketing.
+So, um. Yeah. Do you want to guess how many money will ten Sam put into a eight games?
+So, so, Tamsin, you probably go, uh, your TBR, the dreaded tower fantasy will tend to talk long.
+Carl take sitting in the panel. You mean callin?
+Yo, uh, need to figure out which one to tell.
+Yo yo yo yo yo yo.
+The title Daquan called that. Huh?
+But the title bar now the the that beat all y'all downtown, man, that can be yours without a doubt.
+With other title control. Thank you man. So Tanjong Chai tenzin ki sun God.
+Santa. Santa. I thought we found out until man told y'all now.
+Demon clan. So, uh, down to my yoga down.
+Have on what's in the mail. What's in meow say.
+And thus the howdy to configure yo cafe got apps the how they say uh, Daquan one quarter 10.42 for the latter mode.
+Final gay demon the posse k you said funding uh funding provider fundraising that time until we get, you know, k to two parts yet.
+Okay. So most likely you need pitching. And then pitching is one of the most important thing in our car.
+So you know program. So that's why metaverse project you have to pitching is as part of one project.
+Two you also have the pitch size okay. Ask for the money is very very important.
+So usually we keep it simple and keep it here. And that's why I asked one minutes video.
+So after my video. So can you understand what is the Twitch voice application behind our previous video.
+My video. At least you can get something right. So we do the vehicle instruction and then we turn the elderly into a digital humor.
+So at least you get the most important things right. So inside the video can be seen pop QB key very important.
+And then um social problem solving and then solution and then call to actions.
+So that is the basic fault. And one of the most important things about a parent is polite, creative and understandable solution.
+So what that means is contrast that with each other, right?
+If it's creative, how come it's understandable? How?
+The answer is provide the key terms to the user or your fund fundraising or fund manager provided key terms.
+So in my previous video so we have the video long shot short.
+We have the fatigues, nerf teacher, human lipsync, etc. etc. we provide the key times till we go to the alcohol.
+No. Did we go deep into the technology?
+For example, I try to squeeze the video construction into the WebEx,
+out into your mobile at the percentage of the improvement and the outcome from behind the video.
+Did you find this kind of information? No one will care about the technologies behind.
+They care about whether New York Times is hot and sassy, and they will fight for your terms, but for your technical word.
+Okay. For this kind of evolution, put it in your documentation, put it in your report, put it into somewhere else.
+Of course you have the one minute video or two minutes video.
+Of course you took out with a long piece of prose. Although you may be 500 pages, you may be 1000 pages.
+That is in all things. But somehow you need to keep it short.
+Because for all the VIP, I would say they're all the VIP.
+They will only give you few minutes for your PDA nature. If within this 1 or 2 minutes you can catch their eyes more than you get a fun day.
+If you cannot then you fails. Okay, so, um, I'm like, what?
+We show up, but somehow I'm a good, uh, people to attract the funding.
+So that is one of my small tips for you. So how to find the creative and understand understandable solution is from the keywords.
+Okay, so this is A12 years ago when we start to develop your course.
+And then we find the keywords and then put into the document.
+Now lots of the later on we have another slide to tell about the gender hype, um, cycle for the amazonians part.
+So we have another slide. But honestly some of the keywords are missing.
+They are not the keywords. Why you for example, one of them NFT is not right.
+So now when you talk about blockchain. So we talked about the stable coins this year.
+So the key was always changing.
+So you have to catch the correct keywords to match with your talk to understand how you can sell and how you can put it into the market.
+So this is our, um, fiasco. Some of the technologies are still, um, um, and are still developing.
+For example, metaverse still now is not we compete.
+For example, we are a device that we are devices we still we heavy and bulky is still under development.
+They say that our over ten years. So more than ten years is true.
+Metaverse is true. We still maybe we still need 5 or 6 years to make all the things that is already in the metaverse.
+But some of the technology, for example, digital human, do we still need ten years?
+No, no, it's ready to use right now. Right.
+Okay. So, um, they they are always changing and then cache the correct keywords, catch something that is wearable to your funding provider.
+Incubation. In Hong Kong, incubation is a larger space.
+We always ask for incubation. But not only Hong Kong. Hangzhou is also another, um, good opportunity for you to do the initial patience.
+In Hong Kong in particular, we have lots of the funding that is given to you without any share of your company can get my wording.
+So some of the angel fund they will get your company share.
+For example, if your product is funded by Tencent is quite good right?
+So they have lots of the money. But don't think that if Tencent fund your product, you can still own your product.
+If Tencent fund your product, your product is Tencent. They own the largest pieces of share of your company.
+But honestly that's is um, nothing back because, um, uh, for example, if you have a game and then put into Market Cafe some,
+someone will copy your, uh, your games idea and then they will reproduce your games.
+So we will set up a legal, um, um, um, legal, uh, document with them.
+No, you do not have the power. You don't have the money for the lawyer.
+But if your product is under tense and Tencent will pull your product, they will find a lawyer and then sue them.
+But in Hong Kong is good. You are part of your stuff now.
+You are part of your student body. You can give you money and power.
+You or Hong Kong government. They will not ask for any share of your product, they just want some successful case.
+So whatever. If you are poly, you or go to my office or go to the Hong Kong government,
+try your best to make these kind of good use of money so they will give you money.
+Starting from 120,000 to 500,000 fans, a thousand is still easy to get.
+Apple I would say not so easy, but you still get Apple.
+120,000 is pretty easy if you have an idea.
+If you have PowerPoint, go and you can get this 120,000 is easy.
+So there are lots of lots of different um, um, um, um, so I think here.
+So in Hong Kong, all university is first and then you will, uh, you can go to the Hong Kong Cyber Park or Hong.
+Science part doles out the government or university money and those money they will not ask for any share of your product.
+So if you win them, if you earn better money, that's good.
+If you if you lose all the money, it's okay, right?
+It's from the others people. Right? You're talking to a teacher.
+Yeah. You go, uh, your entire part as a junior. And in chapter ten, showcasing the 40 to the ten to the poor, and you show title that holds up.
+We want to talk about high power. Yeah.
+How will Panay title app store? I'll ask the band. Technical.
+Uh, song the South silk one got Ebola. You okay?
+Ma? See the channeling book? All well?
+Well, my well. My beacon. Yeah, well, my teeth had a concert.
+See that? Don't you told. Suppose you can, can can can holla.
+Go. Ah, that's what you also attend. Well he's only on YouTube.
+Told so. So even so so far any other tend to exceed.
+Okay so always thinking like that. So universal is one of that party used to always support you.
+And then the next one is the Hong government. So this type of pot size pot those are the tool major funding provider.
+So within this yeah try your best to form team. Try your best to prepare some good proposal.
+Try your best to earn that your school fee. Hmm.
+Honestly, um, one of your, uh, Sydney, uh, cast mates.
+So, um, they earned that school fee. At least for my size.
+I have give them, uh, more than 1 million, um, diamond cores to do this fun kind of project.
+So, yeah, you can earn back your school fee. Okay. Uh.
+Do you need a break? Yes. Why? Maybe 5 minutes to 10 minutes.
+Break and then fill in the questionnaire to slow your backwash.
+Okay. Choose a moment.
+And how do you. Sunwoo? What are your meal?
+Condiments? Uh, gender balance is a kind Mandar academically sound.
+That's even more so. Someone to Sorna woman University.
+Your local university lists you how to show, depend.
+Tell send to university. This the lotto tells you like.
+Yeah how just what it's either was so GPA so suntan or isn't actually.
+Yeah how tickets are contaminated Slidell. Uh so do you mind signing when your key light out abandon Sunday.
+That it's also uh um uh Tasha repent also for over Sunday but also looking Castle too.
+She's a super as a pastor the pastor.
+A parcel pinching for parcel tickets that you can't tell the you know it.
+I thought I might have made my my copyright law, but, uh, we canceled.
+Uh. So what? Do you wanna play it, huh?
+Just leave it for me. Yo, Ma.
+00000.
+DeSanto. Yeah, I see. Yeah yeah yeah yeah I know that's, um.
+011 Shenandoah. So two children.
+Two hangs out on the other side of the trail.
+Still Parker Lamar for so many people continue to. Watch you get to.
+Hold your toe. How are you going? Go. Gentle on. No. So you saw the other side of the dick, Anita, uh, Chittoor put onto.
+It's true. She lined up on the other side of art. So you can see.
+See the, uh. Yeah. How long before you find any key for the band?
+For 12 to, uh, consider put to Japanese, not to.
+That's into piece. I heard opposing.
+The. Project. Yo, you didn't end the time or how to treat any yo time, sir.
+Me? I taught them all damn fun them and then yo demo watch how how it doing?
+It's a young Epiphone. So, uh, with six two him and you wanna take on special the do what I can.
+I still hadn't quite, uh, had quite a kick out in. Uh, the Hyatt house.
+So the one t. If.
+You could just follow email by inc. I could leave your comp after one move.
+I thought the comp. Enjoyed your second?
+Semester too. She lied to him.
+No need. I will. I saw you got to meet the landlord.
+Come on, I'll take a taxi.
+You can check out the Economia ethics article by The Woods and how to download the Anglia 22 the egg.
+Uh oh. Yeah. How so? Oh, yeah. Um.
+And it was all about that. Uh.
+Um. Uh, so I guess our other cool super, um, title is Early Band Awards.
+So you could call the your listeners to your, uh, put on your Concord watches are open.
+I charge you with a bottle to a. The pitcher will carry their yellow, uh, cup of cream.
+Uh, please. I'm a woman. 30 under the ethics, uh, academic integrity.
+Uh, it is. It says a Z dance on my face and try to order sushi.
+Yeah, well, um, what's the lead lie? Uh, um, candy Manchu time bar.
+She'll answer yo up the stairs and shoot water. Yo.
+Yep. Do not, um.
+Uh, watch out time when you're talking about your whole time. Uh, till the time, I guess top both of them and, uh, uh, Masters of bunker.
+And so now we'll tell. You how puppy chow.
+You how. Pottinger, uh, feed the environmental tie.
+What's your down time? Integrity. So. Yeah. How yo you to the teams?
+Uh, Tom and chew united the story, Ben bar as I told, uh, as as my Sally Calhoun co toy.
+Common. What? Oh, well, well, well, if I can answer my mail, my time and can institute.
+How bout you been true such how you go. So it's such a yellow dot.
+This is a boy puzzle. Somebody says a so what can they possibly.
+It's all, uh, they told about you. How? What? Oh, uh, Tara, you have particle unity.
+The the link. It's actually about part, uh, that I not only keep my job to like.
+Yeah. How contextual. Capucine. Okay, well, Charlie.
+Two pi topic control. Charlie two. How?
+Like talking car to house. Answer. What's Audi true logic.
+Uh, owing to spa. The true 711 my in the in the.
+Okay. Well, yeah. How to even handle it now take a take a bottle, take a young child game on that.
+Yo, don't fish on the, uh, TV. Yeah. How to go to, uh, Python?
+These two 0%. Yeah. How? Well, uh, so, uh, yo, you can watch your partner d not the Audi title.
+Well, I, you know, like Suzanne Dante on for Subaru ion your whole, um, torch we hold, uh, we sell things, so CTA, CTA.
+Well, due to the high. Okay. Knee, my ankle will I will mail gate Eagle fail.
+You can go. See you, my woman, in case she got disappointed.
+Panopto so far. Uh, so. Wait.
+Choose out Toyota. Human decency, pamper, blah.
+Listen, my uncle. Well, I don't like that. Okay, so the answer.
+Yeah. How about Harman's auto? No. Uh, 2000. I'll show you how to sell.
+Who's been to, uh, you know, yo, yo, can people just a little, uh, twitch?
+I do binocular tune, pass audio, the PCR version larger and go through new panel.
+How to talk swallow tell you how to get your moolah.
+You may hear my comments. Is this a vote to put on cart a certain cadence?
+Uh uh. Loud. I booked my house, I saw someone, yeah, they saw you.
+I'll tell the team I concur that she's a type of woman.
+Your work quarter. These are most likely with my paycheck on my my child.
+I found a pet bottle. Some submission, new penalty.
+High up some. Okay, so it is a soya harmonizer.
+Yeah. So, you know. So. Yeah. So, um, to do it.
+Harmonizer. Yeah. So how that on top of handset Tyson.
+So fat. Ouch. Uh, Cuban. You how to buy time and how to advertise and the bar.
+Well my uncle well I would highlight also now sponsor the team put away the headset.
+There are two lines about the sunshine. So he is a monument.
+Enjoyment. Uh, integrity. Yeah. One, one and all the integrity.
+One. Why should you focus on getting more power?
+More? Uh d Michael yes, that's what it turns out to.
+Uh, so 18 to. 21.
+Yeah, the website to websites, uh, you know, to, uh, to like, uh, uh, fast scratchers.
+You can pick it up on cousin on your whole childhood, your website bar,
+you go to the website so you peuvent, uh, uh, contact your friend the function select copy and paste.
+Yeah. In chat he had a one year and I told him that's what this is.
+Um, water touch all the away way away like total one.
+Yeah, yeah. I'll take a second. Uh, um, chimpanzee Twitter, um, legal case.
+I'll just out the council cow war panel trial.
+Yeah. So that was a patent handled a ten foot tall house, and so want to use one to your piggy, uh, Charles Manson designs.
+How about you? The teams who fasten the the the, uh, concert.
+Uh, inshun image similar y'all to the the control.
+Panel. So it is to. And so anyhow, my concussive book, uh, to our talent.
+You're talking a book, you. That's like talking about how the how the.
+Yeah. How to fly the lights. Also, uh, you're listening to us try to answer this part.
+The the unity, the SS castle wall. It's also the the document you pencil out setting to take a poll.
+Find what's up. My I like the what's the latitude? And we saw satellite.
+You mean Baba Baba baba baba Pu yong cinema China native.
+Himanshu my Asus. That's a my the tool that people for a moment.
+I know you enjoyed it. You my Uncle Bela. You now talking cool.
+Yeah. How do you like to teach at home? Should I show? You know.
+Yeah. Hi. So he puts a dollar.
+Uh, Candido. So, boy, uh, these are the males, and I concur.
+They. And we're like, how, uh, dictate. How do you go see highway light consortia?
+Uh. Okay, so we will continue our cast.
+Thanks for your time to finish the question. Yeah. For the expectation.
+And then I guess you do not have any questions. Why? So we'll continue.
+Don't worry. I will stay in the cast. So after the break.
+Easter break. Okay, stop. Right after the break, I will stay in the cast.
+And then if you have any question you want to ask. Um, yeah, I will be here.
+And then, uh, answer your question, especially in these two ways, you will have lots of the pop up about and go in different subject folk.
+All that comes up. I will try my best to help. Don't worry. Uh, the first thing we have to understand is the metaverse fundamentals.
+So what is metaverse? Okay, so, um, I guess lots of the students, they do not have the idea about the metaverse.
+Why? So, um, here we'll discuss about metal.
+In fact, this is a way we we, we sanitize our own fiasco.
+So that's why, um, Facebook. So you heard about Facebook.
+They changed their name to meta meta Esrb to metaverse because among fiasco.
+So lots of the people want to step in to VR and step into this market to do something.
+And because of the I. So all the money is not go to the metaverse.
+Um, in this two you they go to the I but somehow something is coming back coming coming back.
+So I will discuss all this kind of history. And then, um, there is, there is always, uh, no, uh, I will say that computing computer, not computer.
+Well, not will not take all. So how you integrate the solution, how you come up with AI, how you comply with the,
+uh, are we all and then become your new product or Lex one investment.
+So you will be the one of the core in metaverse, in fact.
+So, uh, have you heard about, uh, brought it because of the tanto?
+Yeah, we got aliens in. Aliens voted. Later on we'll discuss.
+Okay. So I will also buy some ally cards.
+That's for you, ally. Maybe they connect with you.
+Maybe they call you if I. So some house, um, next gen of your extended reality will be with the I.
+Okay, so some house. They understand the context of the current environment.
+They do the we, uh, they do the, um, um, contact analysis and then they do to an analysis and suggest some of the content to you.
+And that is maybe this one is the next one, and not only about the real gases, whatever.
+So something about the history of um, metaverse.
+And then what is the metaverse in metaverse you can go to a free discussion to discuss voice metaverse,
+the first one in the it back to the second ones into a way really well man.
+Tense moment. Um, um times. The first one will be the industrial standard.
+So we will go to the very, um, um, um, direction.
+The first one is about the it how it people, how computer science people identify what is metaverse.
+So if you say the metaverse so we can say yes. What free what what people see what.
+So in the web technologies we have the 1.0, 2.0 and 5.0.
+So I guess you you was born here, right.
+Or after yet 2000. Yeah. So you are 20 something I am, yeah.
+Okay. I'm here. So when I'm, I lost primary school.
+So that is, um, um, uh, internet just happened.
+So internet, um, was introduced in Hong Kong.
+Ah, 190 lie piece free or latte latte for something like dilated latte for like that people.
+So they have the internet and then all the computer, ah, connect to data.
+And we say that there is 1.0 web 1.0 is handled by some big company or a government.
+So they create that website, for example, Hong Kong government, China government.
+They put all the information on their website universe. I put all the information on their website.
+Big company put all their information about their website. That's it.
+Okay. That's one what 1.0 and a one year 2000.
+So this again is the IT people I think people things that hey the content of the
+internet should not dominate by the big company should not dominate by the government.
+So we have the web 2.0. Listen to this part.
+Dominate whatever is 1.0, 2.0, 3.0.
+We concerned about dominate our We guys our IT people hates the company, hates the big party, hate the brick, bother to dominate all the things.
+So we always want to break for the dominate.
+Okay so what two possible they things that hate the, the um um information so not dominate by then we should do something.
+And at that time they say that the information should not only contribute by the become it,
+it can be contributed by us, by laymen, by a lot more people.
+And at that time. So they will say that we have the user generated content.
+And that's why we have the path forward. And starting from year 2000, all the path of wind, the market.
+So can you name some powerful name? How about anything else?
+Maiden season is about ding dong, all these kind of things.
+The content is not generated by the company. The content is about you.
+Okay. The cornerstone of Buyeo that is called use our chairman. Content is called dynamic content.
+And then in the year 2000. So the company the dynamics of the company change.
+At that time, we only care about a goal or we only care about Yahoo!
+But honestly, later on there are a lot of new comer and then in the market.
+So you have heard the pity party at the very beginning.
+We think that the bee Baidu will win all the market, right?
+But it's not the case by now.
+But I do think that, um, user generated content will not be the king, but Audi and Tencent and things that use our content will be okay.
+And now both of this kind of company dominate here dominate as well.
+Later on you have more and more. And then um, um, in the um, Western people, United States, you have to Facebook, you have to exist,
+you have the Snapchat, you have all these kind of things, and you have the TikTok Douyin.
+Okay. Do you know that one of our very famous professor is from Douyin, also partly as a DFW algorithm?
+They are they know Yahoo! He has also talked about one department inside the house.
+Until you go to a woman department and talk to a lot of you, open the cola has a new checkmark for you.
+Time for you to go for the high end tuples of high wind and has a directo in there.
+Uh, okay. So, um, this is one of the interesting point about web 2.0.
+All the things is about user generated content. So I want to ask what is the problem of the user generated content.
+And that's why I want year, um, 2010 and then 2020, 2010.
+We still find that this one is the web 2.0.
+They just bring all the things into mobile version from web from your PC to mobile.
+Okay, more or less they are still perform. They are still user generated content.
+But I want year 2000. Lot of the people they think that hey pop them again.
+So what is the problem. To still dominate.
+The information again is dominated by some big company.
+Okay. Okay, okay. So it's alright that two months until it January to it.
+Repent control. Yo he's on to it.
+So hung to Yen's is it to the band. Hi Tommy goes through that also then password three yo 29.
+Sorry, I don't see 2020 that has a camera. Yeah, okay, so I can't.
+There are too many information and these kind of information are dominated by the big company.
+So they are thinking that back can we control the content.
+Because today when you upload the content to TikTok or to YouTube or to different, um, ten sites or all the things who earn the money?
+It's time. Okay. YouTube. So can you earn a lot of money from YouTube?
+No. TikTok also tap out also.
+Right? All the money are earned by them. So can we use our content to earn the money by ourself?
+That is their thinking. That is our idea. And that's why we have to web 5.05.05.0 focus on one of the.
+One of the very interesting thing is can I use my own content to earn the money?
+So that's why people see what we call we always think that.
+Can we decentralize? The things decentralized here perform.
+They are centralized here. They are centralized. They use one company to hold all the documents, to hold all the knowledge.
+They dominate all the logic. Okay. In what people and see what we want to want them to decentralize.
+So that's why we have the power chain. That's why we have the other things.
+And because of web 2.0, there are two main content.
+Today is not easy to get the correct information. Most of the information information is pushed by the algorithm.
+Can we beat the algorithm and then unpacked our, uh, unpacked?
+The possibility for us to learn the knowledge is another things.
+So we focus on the machine learning. We focus on the AI.
+We focus on the new technologies. Because A is a one channel.
+Yes. Why? So not only the 2D? Yeah. We have two tasks.
+Most like these two paths. We have the 2D interface. Can we move to something 50 or even spatial computing.
+That means spatial computing is here. We use our algos has to understand all the content of this situation.
+So the beach, the virtual and the physical world together.
+And that is what people and see what we want to do.
+We want to break for all the things okay, okay.
+So if you can understand better then metaverse is somehow what people see, what they are talking about.
+We are al spatial computing, decentralized bartering and then also talking about AI and also talking about, uh, machine learning.
+That is what people see and that is what you have to learn. And that's done in this course.
+Okay. So, uh, satellite is here.
+So do you think that the computer Akon. Net before. Yeah, uh, before 1990.
+Yo. What? What? Nancy Chen yo yo, ma, I like I see more like the.
+PBS sees a ten hour aecai to eat your name.
+Tied to the title eating Sea Lions icy lager.
+How do you think? Um, um, OS i5 os i7 Yama descent.
+Tcpip Meghalaya seven. Yama lawsuit.
+Castlemaine remaining copper. So that's it. Yada. Tie each hour.
+Outwood in each hour t named Bonnie in Georgia. Young seven the other gender.
+Yeah IBM IBM seven seven the IBM PC sent out the internet to the see you go send a the network to the ten.
+I'll NTT each out in and chi to to the soil there now ten now you didn't and it that's a ten out and so so don't I guess so.
+Oh student Sanskrit and so some parcel I don't see 25. So Thomas a youtiao to anybody know about pink Microsoft 12 on a IBM two Panopto.
+Yeah. So ends up pink or um, um uh Microsoft total Kaiser about.
+Yeah. How Tom and the whole band put in put in put in the can to move either Google.
+Yeah. So Facebook. Yeah. So put in put in pan five. So Tom and so and so now the whole big would go would hold you back so you could uh fine.
+Good. Uh to go take a uh, spiritual event. Okay.
+So we always want to we built the whole well.
+So that's why lots of the people want to keep the money to the computer.
+Well, because they always have the new technologies.
+They always have the new times when you have to do torches due to, you can get a new investment, and then that is how the money go.
+So inside, uh, what frequency? Well, so there are two of people first group you guys computer expert computer corps Harcourt.
+And I just got another piece of Skype. So they use the NFT.
+They use the blockchain this few months is to stablecoins.
+They use this kind of concept to get the money and you have the money for the development.
+Okay. So easy understanding metaverse is a real ah spatial computing 3D modeling, blockchain.
+And I think all together we are web people and zero what people possible.
+So uh, when you are saying that are you what you metaverse how some of you guys cannot understand.
+But if you say that I'm working in web 3.0, money will come and then invest you in your, in your, um, uh, idea.
+Okay. So that is very interesting. And then always have a lot with this kind of, uh, web people point SEO because last year,
+Hong Kong government gave $50 million to do some work for us.
+And there are lots of lots of money comes. So if you go to sign up part.
+So, uh, definitely every month there are lots of the experts from all over the world.
+They go to a type of hole and then discuss. Do you have new idea of what fee do you have?
+New application? Do you have new business logic business concept for your application?
+If you have, let us have a look and then we will try to do that in last month.
+And that is the uh what fee situations. So yeah, it's that take task left chat and then all this kind of thing is um,
+the situation similar to this one and hopes that you also join this kind of settings.
+He can ask one questions. Cool. Want to do the start up after, uh, three quarters.
+Resolution to start over. Started to sell for me.
+Want to talk Yahoo mail.
+Mail okay. So uh okay. So we will give the opportunity to both whether you want to find job or whatever you want to do.
+Desktop, we will still find lots of the opportunity for you and then still to connect.
+Uh, um, um, different company uh, with you is easy.
+So, uh, yeah, I will skip this part because in our university we also focus on the, um, metaverse.
+So we have the full top, uh, full text. We have the video on short front that that is the, uh, data platform that I have.
+So you, we have the 2D, um, path. And then we also had, uh, Kong crypto crypto path.
+So we develop our own crypto. Honestly, here is my first crypto application, green Collins.
+Uh. Dual lens channel two lenses here.
+So my first, um, watching application is this one queen cast.
+And at that time, I discussed with my, um, um, um, we PR wise personnel and my wise partner, and then I, I yeah,
+I say that we should use f Abrams or we should use become X, our cryptocurrency for this kind of application.
+And our principles say that stop.
+We have our own algorithm. We have our portfolio plan brand name blockchain.
+We should use our crypto. So we have the Podio blockchain.
+We have the Podio crypto. If six years ago I used to poaching, I used the, um.
+Um. Because I used that. You feel that way. I'm not here to to beat that something that shop with you.
+Right. All the people in particular, we become very, very, very, very, very rich.
+So don't trust yourself to lecture.
+So we will, uh, say that, um, uh, some of the embarrassment, uh, maybe they have the potential, but honestly, loss of article making East wall.
+Okay. And now the people I go to, uh, HK, uh, p u to become the, uh, principal.
+Honestly, I one 5 to 60, I go, um, we we under his control.
+We have to use the polio botching polio crypto. And why now who use the polio and crypto is only okay.
+So only thing that join the other ecosystem. If you do not join the RSS ecosystem, you.
+If your application is only limited to a small group of people is useless.
+Okay, you need to join the other. You need to join the other uh, ecosystem.
+So we will discuss later. Okay. So what one tool fee, what free possible is to help us okay.
+That is one of the classification. And of course if you are a, uh, Soviet version, see if you love some old man.
+Times of metaverse. Metaverse is something you have heard about universe.
+Why universe? We are defined in one physical, physical universe.
+And I'm here. Okay, but metaverse, if you have watched, uh, um, um,
+doctor strange way metaverse is somehow about you go to any other universe but these come universe,
+maybe they are 2D, maybe they are undersea, maybe they have, uh, the we shop, we shop appearance, okay?
+We show our appearance. That means maybe they are 2D. They are. They are all different kinds of, um, rendering target.
+And they maybe have different role. Okay, okay.
+So one MMO RPG can be one universe.
+Do you agree? Whoa. Ball, one universe, and then, uh, one, uh, Santos expanding universe.
+And then, uh, Minecraft is another universe or this kind of small game.
+Small game, small game. They have different 2D art.
+They have different visual interface, they have different rendering, okay.
+They have different appearance, they have different role, they have different, uh, sociology society structure.
+So they are different universe. Okay. So if you look at the settings.
+Hey hey hey. Okay. So if you have the, um, uh, Phobos, Minecraft or other things so they can call multiverse.
+Multiverse. So how to become a metaverse? You need to have a economic layer and all the, uh, all the digital assets, all the money,
+all the investment can be transfer from one universe to another to another to another.
+So just like, for example, the money you spend on one MMO, RPG cannot be transfer into another MMO RPG, right?
+So they add the multiverse. It.
+Okay, but if all your weapons and all your money is and crippled by the ball chain, and this kind of ball chain NFT can be sell to the other platform,
+candy sales into other pays us to exchange for the money, then this one is called metaverse.
+Okay, okay. So in other easy understanding.
+So in your MMO RPG we have lots of lots of universe, different universe.
+They have the physical world, they have different opinions, they have different sociology, they have different society structure.
+But we need to use the ball chain.
+We use we need to use the NFT to standardize all the digital identity, maybe ISO or maybe lightning and standardize all the digital assets ownership.
+And if you have this layer, all the things can be linked up together.
+They are called metaverse. Okay.
+That is in the I will say in layman's terms or in a take away, all the technologies, take away all the technical jargon,
+web2 what we were, what one, two, three and four, etc. and that is the answer of the metaverse.
+Metaverse is the meaning of all the universe together.
+Is the term to describe all the universe that is called meta.
+Okay, okay. So yeah, another way is for you to understand what is a.
+Tension of the vat. So, um. We will. Yeah.
+This guy, uh, lots of the people hate this guy, so, um.
+Yeah. So you can watch the video, but honestly, uh, he bills a lot about the metaverse, about the VR, and they are.
+And still today, he is still working on it. But why?
+We hate them. Maybe you you you do not have this kind of feeling, but, um, lot of us,
+we have install WhatsApp, we have install it and then we have install, uh, Facebook etc.
+So today. So let me go some more.
+Tobit uh, means Detroiter Tyquan Cody.
+Ben the Shamokin tomorrow tough ABA.
+Paul. Total father. Sugiyama yeah. He put in us all too far, too far, too far too far too far too far.
+And then some house order WhatsApp all the Facebook uh, and also IG telling it together.
+And tonight I will receive this kind of advertisement.
+And that's why we hate this card. So, um, some of the, uh, developers say that, hey, if we give, um, uh,
+Masaya brother a chance to link all the physical world with the virtual world together.
+Definitely. We do not have any prophecy. And we will, um, we will live in the world that is full of his evil attachment.
+But what ever he contribute a lot into matter, into the metaverse.
+So you want to have a love with the videos? Just go and have a look.
+Okay. And then we also have the hey!
+We also have the vision poll, not only about, uh, matter, all the loss of the people, they still want to step into the VR.
+So Apple Vision pole is the last year all away.
+So they will have the vision pole two or a more reasonable, um, acceptable, uh, vision pole in, uh, in, in this year.
+Alexi I can't remember. It should be next year. So they will have a trip up vision pole for you and definitely a alcazar with the.
+I will be another market for all this kind of drama.
+And you have to understand what is the algorithm behind including the spatial computing,
+including the 3D reconstruction, including the NLP, including the lamp.
+This kind of that medium is some house we want to step in and then, uh, put the money inside.
+Okay. Structure of the metaverse.
+So, uh, you say we, we huge, um, uh, market.
+So I want to introduce one of the markets, um, marketing.
+Marketing, um, organization is called New Shoe here.
+New. So this one is name. Okay. All your marketing research, if you want to put it inside your assignment or it inside your report,
+go to the new show and then find their marketing data. They do very, very well in we are watching NFT games, etc. okay, they are marketing.
+Data is trustable. It's good. Okay, so um, yes, the ecosystem of the um, metaverse.
+Honestly do not build the metaverse by yourself.
+After this program, you can build your own metaverse. Yes, you can build.
+You have learned the blockchain. For example, you use the Podio.
+Cons Podio cryptos, uh, you learned at the, um, um, you learn the video construction, you learn the web,
+Excel, you learn all sorts of things, but somehow find a correct place inside this ecosystem, inside the map.
+Use the other watch, join with the other ones. Do not do all the things by yourself first.
+You do not have this kind of capital. You do not have this kind of money.
+Uh, another thing is, if you're just doing something by yourself in your funding, you all you must.
+Money cannot. You cannot attract the investment. Podio.
+Cons, green cons, uh, Queen consort fee com well, my etc.
+This is a very good example. You you you just stay inside the Podio campus.
+No one way to do this. Come invest. Investment is useless.
+Okay? That's why you want to watch out me, I titled 2022 hot House.
+I would answer how do you then see how to hopitaux?
+Uh, you know, like I sell my crypto to Longwood so that since I turned 1840, I that's the you know, that's a top 40 item.
+Okay, okay. The structure of the, uh, metaverse can be divided into two parts.
+One is onions. Onions. Okay.
+Another is corn. Onions mostly. You know, of course we use the onions a portion.
+So starting from where here. Starting from how we are here to the user experience okay.
+So hardware means that um hardware means that all the network that you need for example 5G network, for example 5G is not good enough.
+So you have the expert. I will say that later on you will have the experience.
+So um. We are if you are using 1561 2000 um, told us by five Walter can only um, um facilitate or only support 5 to 6.
+We all device communicate at the same time. The network bandwidth is still not enough.
+5G or data on six G will be the infrastructure,
+and then we need more and more bandwidth to synchronize all the video object to synchronize all the data.
+So those are the infrastructure. Um, because, um, um, um, uh, because of the IoT, Internet of Things, IoT, if you are.
+Yeah, if you love the sensor technologies, for example,
+you want to put a lot of time in the in the warehouse or into somewhere else to monitor all the things.
+So they are called digital twins. You can monitor how they IoT a IoT and then digital twins, they are core infrastructure.
+Somehow they are combine the sensor technology with the metaverse.
+Together we have the digital twins left in our property.
+You in I see, I see industrial center is facilitated by, uh, Nvidia the media, digital twins.
+You learn the torches and then you learn these kind of things later on.
+And we also have the HCI Za is somehow about the human computer interface,
+not only about the display, it also about all the hardware design and also software design.
+So if you are focus on the hardware design here, yes, we about the sensor torches up a little bit is about the hardware.
+So you can go to the next and know more things.
+We need to facilitate our, our meta, the uh, the sociology, the physical data we need to support our economically.
+Yeah. Right. So we need the blockchain. We need the NFT, we need this content, decentralized technologies.
+And here is the decentralization layer.
+Is the blockchain and smart control layer okay. Up here is the pieces of our Department of Computing.
+Oh I would say the core of your program. So we will talk more about spatial computing.
+We are all computer graphics game engine. Um um I together with you.
+Yeah, yeah. So this is the main piece of our computing.
+And when we move a little bit upstairs.
+So that is the cost that you cannot get involved as the school of design as a kind of in finance and also all things is here.
+So if you, uh, say that I'm not a core computer science guy, and then I also want to get a high grade or I want to understand more about business.
+So study more course about um, um, game design, metaverse application and also the metaverse economic ecosystem here.
+Okay. Because just like I have discussed with you, WiFi is two group of people.
+The first one is the largest guy here, tech guy. Another is the business guy here.
+Okay. You have to understand their thinking, okay? You have to understand their thinking.
+Okay? Okay. So yeah, that is our, uh, basic settings of the metaverse.
+And then we will move, um, into this seven are one by one and then use Stefan, um, example to, to illustrate this seven layer of metaverse.
+Daphne, one of your excitement question will be based on this kind of questions.
+How you can select 5 to 7 layers. And then if I give you an example, for example, will pass by example.
+Um, um, um, the same possible example. Um, um, Microsoft may be so how you classify this kind of layer okay.
+Voice inside. So we'll go through uh, yeah.
+We'll go through one by one data of time limit. And then uh, one of the interesting.
+Um, yeah. You just wait by yourself.
+So some, um, statistic from new. So what I'm going to do inside the metaverse most likely is we face.
+I have no idea why they need to be fancy in the metaverse, because somehow I'm not.
+I'm quite old school. So why not go out together and I have a Hulk hotspot or a.
+Yeah. For example, I would tell someone else, should I go find someone young that will also, uh, you know, continue to the design bug.
+You, me, uh, Neiman. Yo, the dancer, uh, a super TikToker and then hand-to-hand.
+You you ask about the United States over the United States or some metaverse dimension.
+Data will pass you how you how, um, uh, Microsoft, you how to mention Todd Japan.
+Yeah. So suicide virtual event. You talk a virtual Japanese high school society.
+Virtual Coppa above. It's a little bit louder. You that but, uh, welcome home.
+But, uh uh, that's a sense I will woman that in total.
+So anyhow, be sure to mention, uh, join the catering for how many?
+So zoom. It's also easy to find, a lot easier to find.
+It's. How do you kiasu. You know, you teach you virtual.
+Uh, uh, tutorial. So he puts it out.
+Okay. So honestly, uh, most of the, um, user, they think that me fans Academy is one of the most important part.
+So how you facilitate the communication is, uh, one of the most important thing in the metaverse.
+So yeah, that's the situation. And then in Hong Kong.
+So that is one good application for the metaverse.
+The same part here, the same place is Hong Kong company, Hong Kong Company.
+And they become one of the unicorn in Hong Kong.
+So what is the unicorn that means. They have I can't remember.
+Well they have one Guardians Hong Kong dollars. Super hard answer.
+So Taman la also you must have Santiago uh, silly.
+Uh, so yeah, absolutely the can be.
+So that is called unicorn. So, um, this is one of the.
+One of the successful applications in in Hong Kong.
+So they use the clear currents. They use the NFTs, they sell the land, they sell the pops, they sell all this kind of software.
+And then within their camps, you can create a camps by yourself, just like a robust you can create a camps.
+And most important thing is they at chat a lot of IP to go inside MacDonalds.
+And then uh Ocean Park in Hong Kong and a lot of lots of we,
+we expansive up the name web opening to go to that platform and then buy the lamb and then sell that product.
+So it's very interesting that today lot of the, um, teenager,
+they will not buy the Elvie or coochie bat, but they will buy the LV and coochie or Nike.
+So in the metaverse and this kind of the NFT, this kind of the, uh, product, usually they sell or the price is higher than the physical world.
+So I have no idea. But that's true. So you have to understand.
+So that is the situation. So let us, um, um, learn about the same one by one.
+Later on, we will have a workshop. Yeah, we will have a workshop about a sandbox.
+And then for the sandbox.
+So, um, you say SEO contact with the unity, you can create a games, create an NFT, create all the things by yourself so they have the experience.
+Player experience means that, um, you can go to that very well.
+So all day, uh uh, maybe. Yeah, maybe last look, I know have a lot with that video.
+Oh, if you're getting experiences using nonfungible tokens and NFTs.
+You should be able to see. Is it possible that what currently includes positive market place and dealmaker?
+Let's see what each of them does. Such as attractive they get become a non-fungible token NFT and so on.
+Marketplace assets are made to use it boxes the equivalent to 3D pixels to all sorts of assets.
+It can be also integrated with templates. Sequence is decentralized.
+Marketplace enables the trading of assets created by NFT maker.
+Now millions of players can enjoy for years exchanging and selling game assets.
+Obviously in theory blockchain the market gained full monetization.
+Finally, Justin wants his game maker because he built 3D games and.
+The second Spiritual World, uses blockchain technology to see utility tokens and NFTs to empower the players and creators.
+Through the use of an FTC, the teachers will be able to benefit from true digital security, ability training and cross application interoperability.
+The same Georgia is the currency that enables storing the values of land NFTs, governance of players while also being used for staking and governance.
+The sandbox platform runs exclusively on theory using quality standards is used for the same Jeff and Camilla tokens, while Ursula,
+55 and in 721 standards watering standard trading of land assets and asset is the name of
+the token that refers to bucks or assets on a marketplace created and possible enter.
+These assets are uploaded into the blockchain ecosystem marketplace and automatically converted into narratives.
+Finally Jim. And. Define the two year scarcity.
+Hundreds of NASA analysts and its empty sockets to the that can be filled with gems.
+The higher the quality of the carnivalesque, the more something stochastic will have.
+Singing is an essential part of the same lifestyle. It's the only way to own a piece of the metaverse by speak only.
+Is it the piece of real estate in the sandbox metaverse live in to create whatever experience you want on?
+Lands and everything on your land are truly yours.
+A total of 166,464 lands will ever be available, contending that it will form the sandbox metaverse.
+ERC 20 tokens from the theory of blockchain that serves as the basis for transactions within the
+sandbox and has the following users access the sandbox online for clear sensing content with leggings,
+buy equipment, or customize their avatar here while creators spend set to acquire assets players.
+Through second. Is IT governance that allows holders to participate in decisions off the platform, and whose structure they can exercise?
+Voting principles such as foundation grant contributions to content toward decentralized auto organization leaders in future prioritization.
+Don't worry, we'll learn these terms later. Which enables passive revenue means you get more seat less thinking.
+This is also the only method divergence that analysts needed for asset creation.
+As the Xbox grows a large portion of transactions.
+Seats are redistributed to sand Stakers through a foundation and staking pool covered by the community down.
+Okay, so that is the same pass one of the successful, um, unicorns in Hong Kong.
+Honestly, in this few years, they go so fast. So loss of the organization.
+They give the money to a Sam, pass by the land and then create their own IP, create their own,
+um, user experience inside it because the next generations definitely use um.
+Um, is feed by the robots already feed by the microwave.
+And then they are quite familiar with these kind of settings.
+So let us use the 70, uh, of the metaverse onion layer to go through the same boss, um, one by one.
+So the experience of the Sam pass is a fossil experience.
+So you have the two deep soul. You have the two deep soul.
+So in, in uh, metaverse, most likely if you want to create some video, well, we call it you say quip.
+It could be say fossil fossil. And then they combine lots of these kind of fossil, fossil,
+fossil together and import this kind of character or this kind of the, um, um, stuff inside, inside.
+Uh, uh, pretty well. So whatever you are using GoPros, you are using, uh, the same boss or you are using Microsoft.
+Okay. So they are using the fossil structure. Fossil structure.
+So fossil structure while fossil structure is good, right.
+Honestly, they get on maybe the primary school student, maybe they are nine or below or ten or below.
+So somehow you cannot, as a student, 9 or 10 years old, to use the brand or to use some 3D modeling techniques to create a 3D model.
+Right? But they know that they know this kind of the, uh, Minecraft side of things.
+And then this kind of fossil can be easy. Create the whole world, easy, create all these kind of standards,
+and then they create another kind of, um, um, artist to extend that to the whole world.
+And this kind of artistic standard is quite attractive or I would say acceptable.
+I said about by a lot of the people, that's why Lego, that's why Minecraft, they have this kind of standards.
+And this is the experience that, um, they launched to, they launched to the user.
+They also x, I have mentioned before. So he also uh, connect with different IP.
+So these kids, they connect with them, they connect with um um I can remember quickly uh,
+these kind of proclaim and then put inside their virtual world to let the user to experience to do lots of things metaverse or we call it virtual.
+Well, always remember, you have to create lots of the content.
+Again, inside user time content, you need to call, uh,
+you need to create lots of the content and lots of the interesting tasks inside, inside this kind of platform.
+Otherwise no one will chat or no one will be, uh, no one will use your metaverse platform if you do not have no you if you do not have anything to do.
+So we important about the experience and then they have the uh discovery.
+So today feed is one of them. Feed they have the feed is also experience.
+You also need to create some two day experience. So if you still remember they have the day old decentralized auto organizations.
+So this a connection between the 3D world with the 2D. So how is working if for example you do something in the video?
+Well for example, I want to all those in my meal sat in the feed well.
+And this kind of the experience can be call net to the will to the applications of Madonna apps.
+And then you can we get a true Madonna. Uh, I don't know, Madonna uppercuts or Coke or Mozart in this kind of thing.
+So you have to connect all these kind of thing with the, uh, the ecosystem in the web 2.0 or even 1.0.
+Most like these two points. You want to connect with the other, uh, experience.
+Okay. So move on. Uh, always remember that, um, um, metaverse.
+We are always asking what can we use? Or our digital assets.
+So they have their, um, creator economic.
+So somehow all their, uh, feeds is encrypted by the blockchain, so they have fee standard.
+So, um, yeah, like 20 for the cryptocurrency.
+So they have the sense. The sense and these contact sense can be exchanged by with the WiFi Rams if Abrams.
+So they can be exchanged with other cryptocurrencies. So they provide that economics for the whole background.
+So this one they provide the cryptocurrency. Then all the assets is uh is equipped by the NFT.
+So they use the standard 7 to 1 and then 1155 for the, um, assets.
+If you are only equipped by one as us, by one teacher, as us.
+So 7 to 1, if you say collection stock, that means a, a, um, a work pass together with the hand mat, etc., etc.
+You say collections ten 1155. Okay, so they use this kind of the blockchain for change.
+How to to recognize this is the one and the only one teacher as us that I create for you.
+This is you will need you cannot con you cannot use okay you cannot control C control B okay.
+So if you cannot copy and paste this teacher assets can be we sell in different marketplace.
+So this digital assets can be come variables.
+So they that have you heard about OpenSea. So OpenSea is one of the biggest marketplace.
+Because your teacher ask us is you need because your teacher asked us cannot control C ctrl V um to copy and paste.
+So somehow you can put your land your teacher assets into this kind of method.
+And we sell your teacher as us. And this kind of teacher asked us is using iframes and the difference is US dollar.
+US dollar is money. So all the things become still wearable and you can be sales all the things in this kind of platform okay.
+So yeah they create the economic for all their user.
+So they have the photo at it. You can create it as us.
+If you have creator as us, you can equip with the crypto.
+You can view and group with the blockchain. After you have and with the blockchain you can put into OpenSea or their sales
+or their marketplace to sell and is and is the engage with the cryptocurrency
+is engage with you feel about all the things is money all the things can be you
+will use and that is one of the attractive layer inside inside the metaverse.
+Can we missing, can we, um, do the metaverse without um, you kind of economic layers.
+You also. Yeah. That's so magical economically advantage of the high school metaverse mom.
+Tender even leads me all the while hoping one once, I thought.
+But most likely I always think that this is the killer application.
+This is the most important layer inside the metaverse, because if you cannot be self, all the things become useless.
+And then, um, yeah, all the things becomes, um, not so wearable.
+And then, um, yeah, you cannot buy and sell, you cannot attract the investor and all the things.
+Yeah. We'll be just like our queen, cause we will be just like, ah, polio.
+Crypto. Boring, useless. Okay, after that we go to the spatial computing.
+So that's radio computing inside the same place they use the unity.
+Except for there is there are only two of us.
+Sort of like there are only three platform that you can slap.
+One is unity, another is um, will unveil.
+Another is. Web exile.
+Web exile. We are experienced in this kind of pain because just like our previous metaverse settings.
+So we are not going to use unveil. We are not going to use the um, um, um, uh, until we are using the web exile.
+So you just use a link and then you can open this kind of, um, we are environments, you can open these kind of say, spatial computing.
+Okay. And who are the, um, uh, who are the unity user here and the unity user?
+Yes that's good. Right. So unity is starting from four four years ago.
+So they have in other not mono direct mono behavior.
+So they have an art of Benjamin Pi night. So we have to um up universal windowing panning.
+We have to see X. We have the dots.
+We have the new technologies for the unity engine, specially designed for, uh,
+lot of the user to enjoy the moment together because, um, at the very beginning, unity is not designed for the ML RPG.
+They cannot allow lots of the user to exchange the, uh, information, feeding information together.
+So that's why they have the dots. They have the X, they have the job, um, system, they have the update,
+they have a new and set of new standard instead of the mono developer mono behavior.
+I always mix on mono behavior. So we would teach um, this kind of the things later on.
+And this kind of the um, um, um, game engine structure is useful for the virtual engine is useful for the whole use.
+Okay. So they have the decentralized so they have the blockchain, they have the NFTs, they have the smart contract.
+And then um, um, they have the, uh, cryptocurrency that could tokenize call send or.
+Yeah, another one is call you free press. And this kind of the, um, crypto stand up will follow the standard of the crypto world.
+So Yousif 2721.
+1155 so they are the startup they, uh, human interface.
+Do you think that, uh, we are. Yeah. You say mass metaverse. Not a mass.
+So samples only, um, can be used in the, uh, in the PC or Mac OS platform.
+No mobile? No, we are no, al.
+Okay. Of course they will say that. Hey, we can get on the PC platform.
+We pocket on the, uh, Mac OS platform. But honestly, the most important part is here.
+They use the fossil and llama fossil environment.
+Will increase the computation power because they increase the computation power, and then they have no chance to put into mobile or be out.
+And now. Okay. Because yeah, there are lots of lots of lots of quip.
+And then when you want to compare the whole world together. So it costs a lot of power to do it.
+Okay. And this is not yeah. It's not bearable inside the we are in the infrastructure.
+So they use the OpenGL ES. They are standard. So bizarre OpenGL.
+Another one is called direct X. This kind of hardware abstraction layer we will discuss later in computer graphics.
+Don't worry. And then they used to use Amazon cows to synchronize all the data.
+These are the seven layers of the same boss one of the killer application.
+More layers. When you want to create your own metaverse platform, you need to go for all this kind of design,
+and you need to make sure you need to choose your, uh, your technical, um, um, um, solution, for example, here.
+Okay. I choose another one. Yes, you can choose, um, well, yes, you can choose web.
+Uh, web Excel. Can I choose the other cryptocurrency?
+Uh, can I choose the other, um, um, technologies about blockchain?
+Yes, yes, you can use poly. You can, um.
+Of course. Join. The other is better. So can I, uh uh uh, use another one, for example, Microsoft Asia inside of AWS.
+The answer is still yes. Okay. You need to make your choice.
+So, um, they are the these are the, uh, um, system architecture of the samples, and then they use the smart contract,
+they use the Kryptos, uh, portraying, uh, um, um, economics layer to standardize all the things.
+And then for their data steal their data is put inside AWS.
+They still have the DBMs, they still have the database blockchain database.
+They are coexist together. Okay.
+Don't think that if I have the decentralized leader or the things for example, the game object, for example,
+the user level, for example, the user profiles and need not to have a DBMs database management system to handle.
+You still need a database management system to store all the things only the teacher us,
+only the um land, only the um um weapons don't need the um, I don't know.
+So we so they are equipped with this kind of stand and then put it somewhere to the open sea and, uh, yeah, you can be safe in the open sea.
+Okay, that's the situation. So they have the application, they have the unity application at the, uh, here.
+And then they will connect with the band, and then bam will be also for A.W. so that they have the DBMs.
+And for that essential pass, they use the smart contract to create a that is the sandbox.
+So let us have a lot within other uh metaverse perform spatial I o so have you experience spatial too?
+I'll try. Okay. Of the um, Western um, people, they they are they use spatial trial.
+They use this one in China and understand the whole band.
+And also so Lenovo also have their better watch platform.
+Their Opal is powered by um well but here spatial io uh is powered by the web platform.
+So they, you can use the web. Oh, let me open for you.
+Uh, see? Uh, I don't want to like you.
+So just, um, you can expand the, uh, some house you can into WebEx.
+WebEx. So when you click the, um, any one of the metaverse, one of the metaverse platform.
+So your career path will be using what you pay me to be this pay and all the, um, things that you have purchase inside the spatial tile.
+Again, they're using the blockchain cryptocurrency to encrypt. So you can sell.
+You can buy all this kind of equipment inside the open, uh, in the on the OpenSea platform.
+And that is spatial tile. Spatial tile. We will have a workshop later.
+So, uh, you said web platform is quite good, is quite um, I would say that, uh, mature for you to develop or launch some podcast.
+So this one is the virtual environment of the, of the spatial that you can launch.
+So inside spatial tile you can launch defend our application inside the spatial tile.
+They are using web platform and well connect with the others. So this one is one of the example.
+Remember this last year one of our um virtual called inside.
+Inside the uh inside the spatial tile. And then here is a zoom.
+So how we connect with our is our is our WebEx our solution.
+So they also have the um creator economy.
+So you can use the unity unity to create your unity and plan to create your 3D object and quip with, with, uh, um, blockchain technologies.
+And because they are working with blockchains here.
+So they are also using the Yao si, um, 20 uh 7211155 access center.
+If everyone's signed up to do all the NFT portals and because they are using the web XL and then, uh, they are not fossil, fossil, uh, computation.
+So somehow the computation power of uh, spatial io is limited.
+So we can put it on the mobile. We can put it on the we are device.
+We can enjoy the blockchain environments anywhere.
+And that is the approach. So yeah.
+And then infrastructure they are using the Proton Unity game so far MongoDB to store all the DBMs structural database.
+And then for the blockchain they use the live events and also the Yao si trying to x.
+They are decentralized ones. So again they also design all the layout one by one.
+And as that they are technical solution.
+Some of the technical solution they host by themselves some of the technical solution they use the other party.
+For example unity for example that you feed brands to facilitate their departments.
+So do not create all the things by yourself. Join the ecosystem.
+Join the big party of the metaverse okay.
+You will experience this kind of development later. So, um, um, um, in the spatial the I o platform, you can customize all the video environment.
+You can customize all the, um, videos, all the video assets inside.
+So you can use the Unity Panda to do it and quip with the NFT and then put it back into the system.
+Okay. Or if you do not want to, um, create by yourself.
+And that is too difficult, you know, it is too difficult to me. They have the marketplace.
+They have the scratch lab. They also have the OpenSea for you to buy all these kind of blockchain and then put it into your platform again.
+Can I buy it? Uh, as a in our assignment or in our project?
+Yes. But state the funds. Okay.
+State funds. Okay. And then do not tell me that, uh, because I have buy the assignment.
+You need to give me the full mass. Yeah. Okay.
+Yes. We retire to deal with this kind of complaint. Uh, okay.
+So you will experience this kind of development in your with six how you create, uh,
+video environment inside the brand to put you into unity and create with the NFT put back into a spatial dial.
+You will have this kind of experience. So after this semester, that way you can, um, I will say that you can get some project outside.
+For example, if there is one big company, they want to create a metaverse inside of spatial trial.
+Can you get a job? Yes, yes.
+If you know Panda, if you know unity, I can create metaverse for you inside of spatial Da or Y on their program.
+And then, uh, you will have your, uh, you will have your department.
+So that is what we are going to teach you. Okay.
+And then you will have pre robots.
+Lo and. No one under 18 two years ago there you said we church in United States under 18.
+So there are more than 70% of arms do that and that 18 they have expand in both roles.
+And honestly, if you search, um, on the YouTube or even my, uh, my sons,
+my children's sign out, they always pay box so it becomes one of their entertainment.
+So you have no idea. We will pass. So you do you have.
+Uh, no. Okay.
+Okay. So is some house.
+Uh, span. I will say that loss of the loss of the children in United State or Western country.
+They spend one or few hours every day in robots.
+They play games. They create games they enjoy here.
+There are only two path on my path. They spent their primary school, middle school, maybe high school inside.
+And Bobo starting from 2006. Oh, if I can remember well.
+So they already have lots of the games, lots of the information inside.
+So Wall Bot is somehow similar to this kind of environment.
+So you can create a fence inside a band to put it into it.
+And uh, they have loss of the workshop and then, um, they, um, teach you how to create, uh, Excel.
+Remember, they are using JavaScript and C-sharp to create a games inside.
+So it's also a good learning platform for you to learn the programing and loss of loss of the teenager.
+They are using Bobo Studio to create games to let the others to enjoy.
+So one of the interesting thing about Bobo's they do not have any decentralized.
+Level or decentralized label layer.
+That means that they do not have any posturing or crypto inside Lobos.
+So anyone here can tell me why? Blockchain NFT, crypto.
+We can earn a lot of money inside, but even now,
+we'll post these claims that they do not have any planning to step in into this kind of decentralized network or decentralized, um, economic.
+Do you know why? The children's their target audience is, um, primary school, middle school or a little bit high school.
+So the attack audience is some house, um, 10 to 15 or even small, small, small.
+So crypto or this kind of Web3 that I'll choose is tool.
+Can I say that is to cater to the student.
+Yes. Why is to combat data type one at high wall?
+Okay. So definitely you cannot ask a um, um, teenager to know this kind of, um, these kind of things.
+Exactly. So testing point is they, they do not.
+They have to, um, cons you have to go to, um, convenience store 711 or, uh, um, okay.
+Uh, to buy the vote pass or use the credit card to walk by the wall post cons.
+But they do not allow resale. They do not allow any things that can't let the user to use ah to earn the money.
+They do not allow this kind of the creator economy.
+The reason is they want to make their platform still pure to the true price.
+We just want to let the children to enjoy no more interesting or too funny things,
+or to sassy things in inside our platform that is too is not good for their children.
+So that is their standard. Okay. Robots? Yeah.
+No blockchain. So that is the, uh, situation in fact that still success.
+Okay. So um, if you go to their market or if you go to them, they, uh, web page.
+So, uh, I will say that if you, if robots um, um, turning into I turn them into a stock market,
+I would buy their stock market because there is one and only one game.
+The true dance can join more than trend years trends.
+So definitely I will buy these kind of sad things. Another one that can, uh, compare with the robots is to my path.
+So I guess you have heard the Microsoft way. Yeah, Minecraft and other, um, similar things.
+Um, um, similar to the wall balls. But if you say that is pay for all, so.
+Whoa, boss. Um, um, you say it's more success.
+They buy cloth so more, um, if you compare with Minecraft more, you ask children they love paying more for that Minecraft.
+Okay. That's interesting. Yeah. Um.
+Uh, what? Boss, you can use the, uh, mobile to procreate.
+You can use the, uh, VR and AR device to pay it.
+The only missing layer of mobiles is only here.
+Creator economic. Okay, the other things they, uh, facilitate to to all these kind of, um, um, sad things.
+Okay. I'm sorry that I will try to speed up and then, um, that you to to.
+Yeah. Enjoy the Hong Kong knife after the car.
+So, um. Yeah. So there is no break.
+Okay. I will try to speed up and, um. Yeah.
+Uh, another one is horizontal hollow signs create by the meta.
+But honestly, not so many.
+When we are talking about the metaverse lost. So many people.
+Step into Horizonte, maybe Maceo, but yes, we we, um, bad.
+And then too many, too many Western people hate him.
+So talking about us, we talk about Bobo's Minecraft.
+We talk about, uh, um, spatial dial. We talk about, uh, even the same boss, but not the horizontal.
+Okay. So you can, uh, step into a horizontal, and they have a log, so they support, um,
+uh, orcas, we have device, but again, they do not have the creator economic.
+They do not call at the they do not connect with the blockchain.
+So there are two video about the horizontal.
+First one is they cannot attract lots of the user for the user generated content.
+They fail. Spatial trial robot Minecraft.
+The same boss that we use obsess about the user trying content that something missing is uh, because they do not use the blockchain.
+So somehow the user also hate to create the, um, to create a content inside.
+But in their part of Moscow, Papa failed. They want to link the horizontal with the virtual.
+So they want to link the horizontal with, uh, physical world.
+So how to come by the physical world all together and how to compare your IT Facebook connection, social network connection with their virtual world.
+Is that okay. So they still have that I was because they have a big WhatsApp Facebook itchy social media network to support their development.
+But my point now, um, um, yeah, if you if you have free store and then free company, uh,
+ask me to invest, I will invest on Phobos instead of Horace on all the other things.
+But I gained the code on both of our courses. Do not trust the professor on the investment, okay?
+Do not trust anything. That is about the last one. Okay.
+So, uh, horizon. Yeah, you can play into my, uh, uh, quest two, uh, quest poll, etc., etc. they do not have the blockchain.
+So yeah, that is interesting. Uh, why my radio is not working.
+Uh, whatever I think I get, but I still I don't like it, but but let's give it things since that fallen tree.
+That is, um. Well, okay. That is, um. Well, so honestly, today can, uh, um, we can do something that is we we amazing is close to the real.
+Well, honestly, this kind of the, uh, video, so can you.
+I don't know whether they, uh, they, uh, the physical world or virtual.
+This one is physically. They just push this one is physical well or virtual?
+Well. Virtual. And I will 100% generate by pass only.
+Okay. It's 100% generated by pass only. So that is unreal.
+They come by the AI generation with their cunning, ash, windowing power, and all sorts of things can be generated by using a simple pass.
+So they are a little extra. Remember in this video they will just um, introduce for example, I want to generate a page, um,
+somewhere you just type, hey, there is a page with um different kind of style and I want to put it somewhere,
+etc. etc. and then they will have to, to generate and that is um, well, so later on in our course we will touch with the um will.
+And then similar to our previous um face scanning.
+So face scanning, um, will and also things they will combine together.
+So do you still here. Do you still need a 3D model.
+Ah. To do all sorts of the 3D modeling one by one. No need, no need in China many as go.
+So when you go to the game company. So that is a I will say a bigger factory.
+So there are more than for example if you go to uh season two, season two.
+So, so some house Intel factory. So there are more than 2000 girls, more than 2000 girls.
+They just sit in front of the computer doing the computer graphics, doing the 3D model.
+They don't think that they are beautiful girls starting from early until ten.
+Oh, cause all of them, they are wanting all of the energy.
+Yeah, they are very tired. And now.
+So do you think that we still need this kind of the, uh, video?
+3D productions are finite, not we.
+Maybe some of the path. If you want to generate something, that is we we you need you still need this kind of factory.
+But honestly, loss of the word can be. We can be, uh, we produce by chance, video generation and then also by the HTC contact.
+All the things can be done within feel where things within feel, um, um, minutes of the, uh, time.
+So just like our previous, um. Not this one.
+Here. Maybe I go to the. Cake.
+Cake. Cake. Cake. Cake. I'm sorry.
+I have no idea why. Our digital human is not using.
+This kind of 3D model. It takes time to render all the things.
+I'm sorry. This kind of 3D model.
+So you can put a 3D object, you can put all sorts of interesting, um, um, interaction inside this kind of the 3D scene.
+It takes only 15 minutes to take the photo, and then we can move construction all the things and then put, you know, ten, 15 minutes.
+So if you want to find someone to build this kind of 3D model.
+So that's a you takes um, weeks or month.
+So there are lots of science. There are lots of the things.
+Um, um, you have to do the, uh, rendering and then, uh, you have to get the samples of all sorts of the door windows wall.
+I'll talk about the texture of what I want. But now 15 minutes and is enough for us to do the video shows.
+And definitely this one is good enough for the game or good enough for the, um, we are development.
+And then if you put it into the unreal so somehow you can turn the lighting, you can turn the texture,
+you can, you can have all sorts of different, by the way, combine them together.
+And that is what we are going to learn. And it changed the whole development.
+Pi night okay. Omniverse. So that is our digital twins lab at Purdue UIC.
+Later on in the semester you can expand in this kind of technologies.
+How we put the IoT Internet of things. That means the sensor technologies together with the world away together.
+And then we will discuss the open USD university.
+Since this, uh, um, we will learn these kind of the new terms in our course.
+So our course is not only about traditional game development is somehow a step forward about HPC,
+about a new standard, about all the new 21 months, um, um, in, in the whole world, or at least in this two years.
+2D. Don't move on. So, um, the history of the ball chain.
+So, um, our history of the matter was honestly the metaverse.
+I would say that. Start here. 2003.
+And then, um, I'm also one of the Second Life developer in particular.
+So I start my word, um, somehow here second.
+And then we have the debate much wider. We start our course.
+We have our opening in year two. Uh, that year, in 2020.
+At that time, metaverse or blockchain is we hot? But when we launch, our first course is 2020ft is the winner.
+Winter of blockchain is the winter of NFT.
+And then if you find that we start our course here.
+Okay, this is our panic. This our panic. And then the first, first, let's start at our first, um, metaverse program.
+First, metaverse monster. When they come in here.
+Okay. And all of your senior classmates lost the confidence about the metaverse, about the blockchain, about a lot of things.
+But some of them, they buy the crypto in year 2023, after one year when they graduate, they need not to find a job.
+This one is the data of last year. Can anyone tell me what is the price of that?
+Here is the boring Nazi. All right. So what is the price today?
+We can't sell 1111 and 1011 something.
+11. So I think so, I don't know.
+I don't know. So hundred and ten.
+110,000. Exactly. It's almost double the price of last year.
+Again, Ethereum's similar situation except remember now is 4005 hundred something like that.
+So you can just chat. See that is all the way up and down, up and up and up and down.
+And honestly, no one can guarantee but some of your classmates, we we earn a lot.
+So no one can. Um, um, I would say that no one can estimate when I have the winter of the blockchain.
+So will we. I'll course. Um, I will say that we all course, um, become become useless after my quotations.
+They always are for, um, this kind of situation two years ago.
+But honestly, is not the case where fee botching NFT go up up and up up.
+Now another topple of the blockchain. Another part of the Bitcoin and you feel pounds.
+It should be 110 something. And also this one is 4005 hundred.
+Something is correct. But how for 4005 hundred.
+400. 4000 while 404,004 Hunter UK 400.
+Hour by hour. Get the window boot.
+How beat allowed the boot. How cool. Power the law. Oh!
+Uh uh. You're the how to cater to the water tower.
+The custom built in us from $10 trillion to 112 9 billion.
+That I can't say. Well now you can see the angle cut way back in the jungle patina.
+If you've even seen your 210 cape, uh, contingent of solar contingent behind tiles that I got.
+Uh, sorry about the emails and got to go.
+Yeah, well, I tired, you know, so you.
+Wow. So that's it. Lot. We are happy to have talked about.
+Oh, hi. Okay, so one thing is that she had the water turned down.
+Uh, okay. So that is the, um. Yeah, the situation for, for, uh, again, the golden rules of IO cost.
+Don't trust the pool faster for all the universe money.
+Okay, if you trust, uh, if I'm so good, I'm not here.
+I don't trust any of us, okay?
+You can't understand. Woman. Yeah. Look on. Super hard to pachinko.
+Hang out. Uh, um. So. Yeah. How to, uh, chat.
+And so Toyota Corolla Cola chan.
+Cola. So if you want to go watch it, I thought I checked it all out, so I said it all out so that it'll be A10.
+So yeah, that is the situation. Don't trust us. Okay.
+I came new. So so um, always remember if you want a marketing data about the game industry to prove the methodology success,
+to prove we are LP, to fulfill all the things that is, uh, inside the enemy and go to do so tense and also use the do data.
+Okay. So that is, um, um, um, good marketing agents that, uh, focus on the, um, metaverse, blockchain gaming game industry.
+Um, yes. One of the we could, um, target, uh, the is one of the we good.
+Um, organization. Okay. Yeah. So no idea.
+But honestly, you say that all the investment go to OpenAI, go to, uh, deep seed, etc.
+So can deep seed or the open AI. Uh, we we we earn the money.
+Why now? They cannot earn the money. That's true.
+LLM is we go to yours is we we powerful but ChatGPT and also the deep seed.
+They cannot earn the money. So why now?
+We still cannot understand how they can sustain in the market.
+For simple things. Google. Um, and also the tick tock or the other um, bake it company.
+They have two similar situation. They don't earn money, but loss of the investment.
+Go to their company and then they create something new to make the market pick up and become.
+Okay. We have no idea. So in this view.
+Yeah. So this is the new, um, uh, uh, future of the metaverse.
+This the new Gantt chart. So this one should be 2025, 2025.
+Can you see that? Or, uh, I or, uh, you cannot find, uh, except remember the keywords.
+You cannot find the metaverse. I can teach you humor again. We are out.
+You cannot find any that is beside AI.
+You cannot find any, uh, names. Even the boring, right boring NFT.
+Yeah, you can apply. So all AI and all are AI generative content.
+So today, when you are working in Rafi or we are working in VR and AR, so the things you need to add inside your,
+um, um, pitching or inside your proposal is AI okay, AI generative content AI.
+Um, um, I don't know if you at AI then that's enough.
+They just want some keywords.
+I think if your application without AI component, definitely they will not find funding your, uh, your, uh, applications.
+They always say that, uh, yeah. The b c d.
+I can remember where I was. Just a minute. Go in two days when you want to get your funds.
+So always remember, uh, four keywords a, b, c, d I.
+First one for train C use.
+I can't remember. Well just help me to get it. So they always say that ABC, the ABC, the APC.
+So those are the keywords. Those are the I will say understandable, but somehow, um, um, um, um, neo and then sassy keywords.
+So when you edit in your proposal, you can add increase the chance for you to get your funder.
+So what is C Karl. And T is decentralized.
+No one D is big data. Okay then you got it.
+Because every year they change the terms and then every year they create something new.
+So always remember to keep um in a white channel. And then you will have these kind of, um, um, settings.
+But don't worry, when you go to Rafi Market, there are some marketing guys, there are some, uh, publisher for your proposal.
+So when your territory is is good enough, when your title is interesting,
+some businessmen will jump into your proposal and then do lots of main operations.
+So that's how that attaches. And then that's how the business guide, they join together to earn the money.
+And that's the situation okay. So yeah.
+So how many we have. Uh, yeah.
+So we still have talk. So, uh, affects.
+So somehow House you're talking about, uh, the unit, uh, we are talking about, uh, uh, metaverse.
+So we always say that this one, you say utopia.
+So you say New World is a very nice world for the next generations.
+So, um, happy new times for giants.
+In the computer world, they call it utopia. So we'll talk bomb solar.
+Oh, okay. So you don't have to give us that. That's great. So, um, um, whatever is, uh, internet web 1.0210510 metaverse.
+They are talking about this one. So, um, there are lots of people, um, want to increase some, um, um,
+new idea or increase some idea that can facilitate the inclusion in inclusion of all the peoples.
+For example, you have to define the policy and the word curation.
+You have to let all the people to enjoy the digital assets, not only not as ability, as ability as well,
+not only the normal people, for example, to hire, uh, impairment or even though we show impairment.
+So you, you heard about, you know, the reality y x y.
+So can we show impairment? The blind people use the VR device.
+So can the fine people use the without device?
+How? How?
+Similar. So some house. There are a group of people always think that.
+Can we include all the people in the virtual well. Okay.
+So yeah one of the we searched for into how to bring people we show in power when people use the reality wise.
+In fact reality wise is easier to I would say that, um, um,
+for the prime people when they need to understand all the object in the physical world is very difficult because you have to do the,
+um, um, um, the, um, object recognization and then scene understanding.
+They always have to turn the physical world into some meaningful word things, right?
+Right. But how about virtual? Well, when you create a video object, can you type the name of the sofa of the chair of the table?
+Yes. Or the 3D object you can tap into named inside.
+And then when the prime people where the reality was so all the object, their names can be used.
+The voice okay object to the watch and the net, the virtual sorry and then the virtual well cannot the visual impairment people to hear.
+And that is as a pity and scale.
+If you want to do this kind of research Western country or Hong Kong we always have these kind of um I would say research opportunity for you.
+Okay. So we always care about this one, privacy and ethics.
+So, um, you know that. Why, um, why martial for so many people hate myself, right?
+So it's about the data is about the privacy.
+So they always, um, things that can we create a new world that care about the privacy that not only about,
+uh, business, not only about selling the poor father, uncle, 13 years old, but all.
+So, um, they always, um, talking about can we escape from the PC as well?
+But it's quite interesting. Why? So if a group of people, they always think that I want to escape from the PC as well.
+So waste of money. Is hard.
+So, yeah, it's good that, um, um, there is always some people.
+Hey, I want to do something for a better. Well. And now people.
+Hey, I want to do something to get the money. And then they always have this kind of, um.
+I will say that contradiction. So our world can be more balance.
+Okay. Uh, monetization and the IP, right?
+Uh, IP wise is one of the interesting thing in, in, in, um, in our, in our, in our, you know, metaverse.
+So we always call, we always think about the user generated content.
+Right. Portraying. So how to ensure that your NFT is generate a yes create by you.
+I have need of Peter. Okay.
+So can you screen capture this Jpeg file?
+Encrypt the Jpeg file with the NFT.
+I can put it on the open sea. Can you do this?
+I know you can. So how to make the IP white always tantalized with uh, with uh uh, um, uh,
+NFT and how the creator can ensure that they can make the money will be one of the interesting things you say that NFT,
+you can ensure these virtual objects is one and the only one,
+but if it is only a picture, I can just screen capture and create an NFT and quit by the other and quit by the file
+on the right so we can create scam for this kind of manipulations and to perform,
+for example, over OpenSea, they have the responsibility to check this kind of IP.
+Right? And all this kind of thing, policy, privacy and all this kind of the ethical use you should consider inside inside the virtual.
+Well, and at least we need to teach you. Okay.
+So what you can do, how secure with some more sense I put into your mental ethics.
+You don't go to the bench. Alcohol AMA. We are talking cup.
+We are my uncle. Yeah. How do you feel?
+Uh, so, uh uh uh, so far as to the algorithm, that's the data they end up putting the putting that which I thought show dementia.
+So elemento your eco credit. Uh, let's see in credit integrity bar T2, you think?
+Okay. Digital storehouses, uh, the dance game element daily about your partner element.
+Yeah. You a decision maker? Past data integrity.
+You have to make up your eco. Yeah, uh, fancy LA.
+Well, uh, tell me how chocolate, uh, does it take all the credit?
+Yeah. How to tell you how to pro.
+Well, thanks a lot. Okay, so, um, summary.
+So I will summarize all the things metaverse is our course is designed with pedagogies.
+Work with us free. This kind of thing come combined together.
+Most likely our course will focus on technologies and pizzazz a little bit about the
+design because design is very difficult to to to train if you have the sense of artistic,
+if you have the science of design, that's good. If you do not have the sense of design, even after one year, we cannot change our design sense.
+So that is we we had to turn out. So we focus on politics and business okay.
+Focus on touches and design in our program. And then Martha was an environment.
+So that is all the things that we should pick out. The first one.
+And the most important thing is UGC user generated content.
+Always remember these keywords. You are create a virtual world and let the other two contributors on the on the content,
+whether it's a feed source or whether it's game or whatever you say to the NFT,
+etc. you need the other to contribute user generated content between product.
+And then we are also talking about the ICC because we do not trust the user to
+contribute to content we more like more saying that I can contribute more than we.
+Thanks. So the ICC, we can, uh, use the ELO and we can use the Pew conjecture to contribute with the content.
+So this part is the content is the content okay.
+Social interaction. So, uh, if you still remember the most important things that they want to do inside the metaverse, inside the um, virtual.
+Well is miss fans okay, miss fans? So, um, yeah, that's true.
+So I'm 40 something. I'm 40 something in my age group.
+If I want to find a girl fans, I will go to a pub or bar or somehow I will, uh, join some social, physical activity.
+But now they. How you can find a girlfriend or boyfriend image, I'm sure.
+Someone like to use some, uh, for your photo apps.
+For the apps. Okay, so, um, um, not.
+Don't waste your hands. So is there any OnlyFans user here?
+I'm not sure. Right. So whether you are the user generated content, uh, provider or you are the user of the OnlyFans, OnlyFans is the one.
+And I would say that is the back. So.
+So, um, uh, not the pixel user is is second social media that can uh, the biggest part of the money in on the internet is just a small company.
+And then they form a very interesting user, the social interactions.
+So, you know, why is OnlyFans. Well, you know, their social entitlements.
+They are the second largest IT company in the whole under.
+So I would say that the because um, um, I know you say company earn a big uh, part of the, um, um, social media.
+Okay. They have the second time, uh, tied, uh, John Champion tied to OnlyFans.
+So, you know, the importance of the social interactions, right?
+Okay. Okay.
+So that is really important if you can have a we could of mechanism to match the user and then a content provider that is very wearable okay okay.
+So think always think about something that just this part this part is really important okay.
+For the other part they understand that for example you have to open openness.
+Always remember that the part you train people you can't do not follow their protocols.
+I can't open that John you famous John John because John, John, John Polygon even polygon is or stablecoin is better than poly.
+You can't and you need to find uh, economy.
+So they are the basic one to fee. So they have the standard procedure.
+They have the standard, um, organization for you to control people.
+We are also they are the standard. So, uh, most likely you will, uh, why?
+After all, cars pickle or HTC. So you just find out, um, standard and then join starting a party.
+Uh, yeah. Consider about the ethics. So yeah.
+But before. Yeah, completely data ethics before you earn the money.
+Okay. So the most important thing in, uh, metaverse and mama is here.
+UGC uh, just trying to connect AI generated content and also the social interactions.
+If you can design these two part, you know, where we are position data.
+And you have a very good success. Uh, metaverse settings. Okay.
+Or in a more simple way, a metaverse. You say virtual space if whatever is to defeat or, uh, or, um, or a task space.
+WhatsApp. You say task B and WhatsApp can be considered is they um matter was they have the virtual space together with the user generated content.
+You can be two DVD or um, you can be a, a uh games two.
+And then with the cryptocurrency V passed together, then you say metaverse.
+Okay. If events is one of the, um, today if you want to create metaverse, if you is my recommendation large pieces.
+Um, um, you say large user pool and then all the thing is quite stable and then lots of the user polygon is to stable,
+polygon is to stable, okay is to stable if it is to stable.
+And then the type one the what email.
+Tell my mail. Tell me about what ECMA polygon is to stable sand or mana.
+So they are something. They are something created by the game company.
+That means they are the podio cause they are the Podio cryptos.
+So again, if you just create something that your platform can be used useless joined up party if you for the best use case.
+If you want to have some people, uh, you must want protocols.
+So that is the tool um keto that I will commence.
+Okay. So yeah, metaverse is very important and then have a lot of next lessons.
+We'll have the 2D video and then fossils and that is so license.
+We will have the seminars I think. So we will have the slime.
+We will have the people. So you can watch the PBR before before the class.
+And then um during the course we will have.

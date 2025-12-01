@@ -1,0 +1,1521 @@
+And then we can start our lessons today.
+So unfortunately we haven't finished our game engine last week.
+But it's okay. We have the buffer. So um, this week and next week will cover all the things about GAM engine together with your R,
+etc. so we will go for a little bit about how to use the VR and AR just later with features, and then just layer strengthening cars of your extent.
+We know more things about, um, what we are in an extra fundamental auto things.
+Okay, so I can't remember. Last week we stopped at game engine.
+Correct. Right. So do you still remember, uh, when we have the first game engine?
+What is the game? The old om dum dum.
+This one? This one. Do you still remember?
+Have you explained in dumb? Yeah, it's the first.
+I would say that beside one of the wee wee simple 3D games in map.
+So in in Matt Macintosh. So that is one bit m y uh 3D games first person.
+So thank but beside this one, very simple um,
+first person shooting games I guess Tom will be the first 50 games first for you to get because all the things
+that with an insight they are using feed mathematics so to do with my boy is to feed mathematic inside.
+Cost, portal, top lighting control, camera control, etc. etc. so they are using this kind of programing to perform the whole gamut.
+So Tom, we will say that is the first game engine and then I know the state that is the first video game.
+And then after Tom loss of the people's loss of the developer things.
+Yes. The mathematics almost the same.
+Okay. Before Tom, I will say that before um.
+Um, um, game engine. So nearly all the games, they have some special, special gameplay.
+So that's why loss of the field. So, um, next time when you're starting a game design, if you have touched by me, most lightning is not touched by me.
+So, um. Um, we always say that after 1990, there is no more gameplay.
+All the gameplay happens before light.
+Light? Okay. All the video game gameplay happens before 1990.
+So at that time you have loss of different cab mechanism.
+At that time you have lots of different interesting game game idea.
+Okay. Game mechanism or I would say the campaign may be a little bit, uh, difficult for you, but game idea.
+So after 1990, there is no more new game idea because of game engine dom.
+Um, these kind of 3D games.
+So they have, uh, developed the Dom, and then lots of the programmer thinks that or find that nearly all the game elements inside these 3D games,
+Dom can be used in cutting the lighting, including the collision data, including all the things,
+camera settings, etc. all the things that we have discussed in our previous slide.
+That means the elements inside the game, uh, inside like feature games.
+So what we are going to do? Yeah.
+Why don't we just use Dom? Extra square can change the graphic.
+Okay, change the graphic. Then we will have the new games, new games, new games and new games.
+Okay. And that's happened. Now they lot of the game.
+They just change the screen one copy bar okay.
+They just change our screen because of this game. Because of um, the starting of this game.
+So, um, um, yeah, a lot of the people thinks that, uh, um, uh, FPS game and then the first person games, that means the adventure game.
+So they share the common area, uh, algorithm, they share the common element inside of games.
+So at that time, we are not going to just focus on the game programing.
+So we will have another level called game engine.
+Game engine. And then the game engine, they don't we will discuss.
+We will hand up. Maybe we'll go to the slide first and then the game engine architecture for you
+to do the games handle most of the calculation library of a game production.
+And then you need okay. So you can easily find some of the game elements in game.
+Um, um algorithm inside inside the engine okay.
+So lower level need here. Okay.
+So here is the hardware. However this one here is the hardware.
+And if you move a little bit upstairs this one is the driver.
+That means your display card. And then your motherboard your uh keyboard mouse gamepad driver is here.
+Upstairs is the all access. Upstairs is the actual DOS.
+Do remember which actual hardware abstraction layer okay.
+Actually out. So what they check out is called direct X.
+So what is the name of another vehicle. Direct is for Microsoft Non-microsoft solution they are using.
+Cow suits and the May 1st team. Hey, I guess lots of you guys.
+Have you had the Pokémon? Pokémon? Why? You are not program my whole game.
+Also know what is the B-side to another is is they also know that shall open OpenGL okay OpenGL.
+So that is another WebGL wap xl x x natural.
+So um OpenGL for uh OpenGL they have to extend um web uh shell and then they have that now things.
+But honestly you can divide into two parts Microsoft Export windows uh Windows Mobile but no one use window one by now.
+So they are using OpenGL. So uh, map and then all your mobile phone Android solution, they are using uh, the OpenGL.
+When you are starting I want to ask all Chinese go here.
+So we wider program here okay.
+We do not have the game engine but one we have the Dom, we have the game engine.
+So the women part here is handled by the game engine.
+So easy to understand. And you have some core system inside the core system you have the math library.
+Math library. That means the sine and cosine okay sine cosine total top all that.
+What top matrix compress lumber calculations okay.
+That we have discussed is inside the math library.
+And then you also have lot of the interesting thing for example here the as us as us, I can't see the as us as a console ourselves.
+Yes. I'm sorry I can with the that is too small for my eyes.
+So as a control why we need to have the access control because inside game there are too many virtual object, too many.
+I try to keep it in your mind as has control. Memory control is one of the core or the beauty of the game engine.
+Try to imagine that when you are asking unity to handle more than 100 virtual object inside the game, you will create a nightmare for the unity.
+But if you put it into unreal and will can handle better because unreal fundamental, they are using C sharp or super price.
+CPAp CPAp. So they have the pointer.
+They have a battle resource allocation. They have a better memory control tower.
+Locate locate the virtual resources virtual object to the memory level.
+Okay. To your where am levels. So this one is better.
+So why game engine? Um, they, uh, spend lots of the.
+We chose us in the Asus level because they need to have a better.
+We also control. Okay. So when you move up here.
+So, uh, yeah, a lot of the things, for example, you have to, um, input.
+I also think a lot. Yeah. When you're paying the network app, you have synchronized I o synchronized I o here and then you move up one level.
+That is the most important thing. We source control and then we aim.
+You move up. So those are the common games command element that you can find in your unity platform.
+So in a in unity. So what is the common function that you would use to create video games.
+When you can find in the Unity Cafe, you can find it and will definitely you can find in other camp entry because they share the same architecture.
+Okay, so that that is why we always call it you have the sense of love.
+Because when you have the sense so you can move faster from one idea independent development environment to another idea,
+to another idea is the sense of programing. It takes time.
+But when you are using the unity, once you yeah, create new project.
+What is the common function of what is the thing you use in unity?
+Name some. I also find for you.
+For example, here we have the coalition d'Etat, coalition d'état, nearly all the camps.
+You need a coalition d'état, right?
+Okay, so the Witcher party and also all the coalition teeth had the Common Library Coalition and physics can be found inside the Comanche.
+And then you can find, um, uh, more about, uh, um, um, yeah.
+About, uh, which your body. Yeah. Which your body is here, which your body physics is here.
+And then you have this content animation.
+That means you have, um, defined motion data, and then you play the motion data on the skeleton so that they can perform different animation.
+So skeleton and animation is here.
+You can also find and then uh, because lots of the video not not all the weekend, they need the lighting, they need their shader material.
+So you can also find the materials and shader here. Okay.
+Particle effect. What is the why we need particle you had to use.
+Do you remember. Particle effect is useful.
+To fall. To present the state of change.
+For example I get hurt okay I die, I am at the other one.
+And then you hit. Okay. So because in your feed, can you all feed the object?
+Yes, with your body. So when they get hurt, so will they.
+Uh, how to say that? Well, there is a scar here.
+No, they cannot create scar on the video object. But you have to present.
+They have getting her. So bra thing. Okay. Bra is coming outside.
+The bra thing is the particle you fat. So a particle effect to represent the hurt is used to represent the state of change.
+Okay. So you have the yeah the particle effect here.
+And then you also have um here is some core functions about the um, um, um, um, productions.
+And then when you move um, up level one of level.
+So here will be some, um, game control, okay mechanism.
+So how you control the key part and then how you do the finite state machine.
+Okay. What is the state of your, um, um, um, uh, character and also the games etc., etc.
+So you can also find the I white here. Okay, I white there.
+So here will be the game engine and not you are very lucky.
+So when you have the game engine so all the particle effect, all the um collision data or the rendering or most of the AI,
+most of the AI and also the um basic network, um communication is handled by the game engine.
+So the first one, when you want to select a game, slap a game engine,
+slightly game engine, so that nowadays you can easily identify the fully game engine.
+One is, uh, unity, okay, small game, fast development VR games you have.
+Um. Well, okay. Webcam you have.
+That means using your browser to play. You will have WebGL.
+Okay. WebGL. Okay, so, um, you have three different kind of game engine.
+And then when you are using WebGL so you are using deep canvas.
+So without installation without all the fans. So you can define your game in the real time.
+So most likely you have three. Okay. Uh and yeah just quickly go for um, the different kinds of game.
+And then they need a different kind of game engine for example, for the game.
+So they, uh, the game engine of the game tracker, uh, focus, focus on the weapon control, focus on the shooting.
+Okay? Whether pull the physics or for people that can be fed, the real world, real world situation.
+And then where that they can shoot your enemy, karate or not.
+Okay, okay. Weapon control, fruit press and games for and time.
+They care about the terrain design.
+That means your game roll design. Okay. Nearly all the first, uh, all the first person game.
+They are almost the same. Why? I thought they are Mario. Why I thought they are.
+Um. Um. What is what kind of, uh, settle or whatever the other.
+I'm sorry. I just cannot think about it for a person.
+Right? They are just changing their character and then changing the game will change your in character.
+Usually all the game engine they can handle. But changing game role is not these kind of things.
+Okay, so um, for present games they won't show game specially so they care about, uh, um, terrain to your side.
+Whether you have a good tools for they to create different level,
+to create different game world, and that is their focus, then you have the fighting game.
+So what is the focus in the fighting game. Have I mentioned in the last level yes I guess I have.
+What is the function that we care inside fitting gaps.
+Is the coalition attack. Okay. Coalition data.
+When you have the spectrum, move a and then your, uh, um, um, and other pay that they have the special move B okay.
+So whether that special move and B they can you get the point, get the HP of the others or not.
+Okay. So this kind of coalition D you cannot simply use a capsule to do it.
+You have to. Yeah. So that you say we won famous battles in Street Fighter.
+You'll still remember. So, uh, the one payout the they only have one HP, something like that.
+And then, um, um, um, his enemy is using some, uh, I wish I may attacked and the.
+You try to block all the attack x I remember they property attack in 3 or 4 seconds.
+Okay. So you have to think we care about the time and then the polygon coalition to attack.
+So the fighting game, they care about this one. And then spend lots of their time in this kind of the coalition detached.
+Because here, first person or third person again most likely you will only pay for a few months,
+maybe only a normal game, you only paid for 20 hours, something like that, but for for a fighting game.
+So when they did a fighting game, they were paid for years, few years.
+So they care a lot about this kind of I feel I can play for um, um, system to do the hit detections.
+Okay. So racing game that means the car racing most like these cars and horse racing and other things car racing.
+So they put a lot of the resources on the um, uh, physical simulation, for example,
+the force, uh, of Microsoft, they spend a lot of money on the wing name.
+How the wing they hit the casas fan casas fungus of your car, and then, um, then the ring name, uh, how to say that we fast to the unknown or what?
+This kind of thing. That even this kind of winning effect, they, um, spend.
+For example, remember, you should be Hunter Timminus Timminus.
+You can walk, okay? They spend this kind of money to do this kind of, um, special effect.
+Okay. So, um, my, my research focus where I'm PhD, that's mean.
+I won 15 years ago. My and also my cosplay focuses out of camp.
+We all time start to camp by now. No one pay out this game, right?
+But at that time, uh, the game is quite famous, so, um, exp.
+Yeah. You control more than 100 unit in the battlefield, and then use this 100 unit to fight with the each other.
+So what is the strategy, um, that you have to plan and then what is the, um, compo you have to plan, you fall into alts camp.
+Okay. I remember if you want to do the camp research, empty out.
+Yes. Camp is the one and the only one game tight that can go to the nature and science level.
+Okay, so if you hurt, uh, after AlphaGo, then you there.
+You say AlphaStar, alpha star. AlphaStar is paying the StarCraft.
+This alpha star go to the nature and then science level. Otherwise most of the can research.
+They just, um, um, just like me. Uh, stay in the stay in the, um, um, say that I triple G level, we cannot go to nature.
+So that's the problem. So, um, that's why I also search when you go to a Google and then search alts game.
+Fuzzy f you is that is that lie so still, um, the top alpha.
+Yeah, I was still the top. But this news that no one pay out this game and then no one used the fuzzy logic by now.
+So research is just like that. So sometimes, um, you spend a lot of effort and then you spend lots of the, um, um,
+time and then when there is a better one comes out, no one will care your research anymore.
+So that's the situation. Okay. So what is the focus of alts game engine.
+They care about Asus management because you are sending 100 unit versus 100 unit together.
+So mostly on the battlefield there are one 200 virtual objects.
+They interact with each other. They interact with each other.
+So whether you can have a good assist control and then whether you can have a good, um, fair game, uh, performs about their number apart.
+Um, I would say that delay and latency etc. will be the focus of this game.
+Okay. So okay. So you can see that um, different games, they have different games.
+They need different focus. So there are different game engine.
+Um, so I think they um, they um, um, um, um, um, uh, special need.
+Okay. So yeah. Unity.
+Um, well, so there are two back, uh, game engine and once if you want to, um, create a games, uh, create games without any installation.
+So WebGL is also good. So any Mario car here.
+Here Mario car. Maybe I'll tie to tie ties.
+Yeah. Well, one cool thing got you can get your bar toy.
+Okay, so there is a group of, um, um, I would say that developer, they change the whole Mario car to WebGL.
+So now you can use the, um, web platform and then to pay the Mario Kart and then, uh, how to do that?
+Uh, do the competition with all the people in the whole world.
+Okay. They have this kind of settings and they, uh, they are using the WebGL.
+Okay. So game engine, I guess we have, uh, almost.
+Yeah, almost all the things. Yeah. Game engine.
+And then the for party SDK level actually level.
+So we have the direct we have the OpenGL. We have also library GCM and edge.
+So um library GCM is for some house um for the and for the um, um, uh got this post up.
+This one is for the web profile. Arch is for, uh, yeah, actually.
+And then this one is for the pay station here. Pay station profile.
+So loss of not loss all the game engine. Now they they support multiple platform publish.
+So once you have developing um build on unity so you can publish in different um um platform.
+So pay state on one of them. Nintendo is also one of them.
+So yeah. That's why you buy um, um, this kind of uh, this kind of the, uh, game engine because try to emerge and, uh, when you have complete game,
+when you finish a game productions and then you say you need to handle all the publishing issue of different platform, it will be online.
+Yeah. Specially with Sony. Okay. Sony is one I would say that's one of the most, um, troublesome platform.
+So they uh, that game,
+that game engine or I would say that if you can put on the PlayStation and then let the other to play and then to notify and you
+can earn back most of the development costs because they have a guarantee about how many user or how many channels you can obtain.
+So why now? Why still lot of the um, people when they creating VR games beside the steam platform PC platform,
+they also go to PlayStation because PlayStation can guarantee lump of no.
+That means lump of paid to your game is one of the bit.
+Uh, but yes, we have, uh, PlayStation care a lot about their loading time, care about, uh, care a lot about your buffs, etc.
+So if your game contains a little bit pops.
+Okay, so you have create again before white. We have the bumps but um PlayStation there we cross a path free games.
+And then they put a lot of the effort to, to do the um, um, game task thing.
+So if you buy the, um, will is good.
+So they, there is a good passing, um, um, um, monitoring system for you to monitor all the things to a pay station.
+Otherwise it is very bad. Okay. And most likely you can get you cannot publish your game in PlayStation.
+Okay. So, uh, yeah. And then more about the third party.
+So you also have the physics and about the physics.
+And then you also have the still this ad still is not the Vita printing, um,
+file format is something about the data structure and algorithm in the games.
+We, we care a lot about one time whether you can run that faster or whether you can wonderfully model in a very efficient and effective way.
+So SPL or STL part here how to to do all the data structure.
+And yeah, we'll go from um, um, um, um, Penny, there are also some I,
+there are also some, um, character animation library inside here for you to call.
+And then you are set. So you.
+Yeah. You have the car engine F0 and then you have the resources management level that um, we think is very important.
+And then you also have the rendering engine. So um, again all the image on the screen.
+So they are 2D. They are not fitted. They are 2D only.
+Okay. So why you have the illusion of it.
+Because there are some lighting and then even the same materials or same, um, object.
+If the angle of the lighting is different. So they generate different, um, um, brightness of your selfies and that is the illusion of 50.
+Okay. So you do shine off with it. So they have the game engine to handle it.
+So yeah they also have the we show you facts about the particle.
+Um, um yeah. About the particle illusion.
+So smoke fire water something that you can think you can find inside the, uh, we show you found inside the particle effect, um, library.
+You also have the animation. So most likely they are, uh, they provide two events.
+One is 2D and the other is 3D. 2D is about to get an animation is about a humanoid animation.
+Paint the motion data one Python 2D. So, um, somehow is about a 2D image.
+They pay one by one, one by one, one by one. To date there are some, uh, neo library.
+They that batch mixture of these two type.
+So even the 2D image they provide a scan. And then for you to do the animation and save the calculation which shows us.
+Uh yeah. How it will. Yeah. Game engine levels.
+And then those are the source tools and the aspire nine.
+Whether you are using unreal or you are using unity, they share the similar resources.
+If you want to go deep into it in our program.
+So you can join the game entry cost later. So if both yeah both of the cost they take care.
+If you love cam you can take both the game engine.
+So they take care about the programing. They take care about all the calculations, all the um technical things about about the game.
+So uh, most we use the unreal. If you say that I love game, but my technical background is not very good.
+Take the game design. Game design is using unity.
+And then they mostly talking about game mechanism, talking about game and game idea okay.
+So of course you can join both. But that is the difference between those two.
+Okay then yeah we finish all the fundamental things of the game engine.
+We go to the code deep into the metaverse.
+So how the metaverse. Um, um, uh, what is the need of the metaverse in the game, entry level,
+and then how the, um, game engine care about these kind of, uh, needs of metaverse.
+So in the remaining part, we will not talk about, um, well, we only talk about unity.
+So can I ask, what is the problem of the U of N?
+I guess there is some unity developer here. Yeah, I select u, um, from from the game design or game Department of Multimedia.
+Pacwa okay. X I remember. So for the unity developer, what is the problem of unity?
+Compare with and will. What is unity problem?
+Small game is good, but a larger scam for games they cannot handle because for the larger scam there are too many polygon.
+There are pool, many object. Okay, so they have to perform in access control,
+specially when you put loss of the assets for the object into one, since all the memory will be collapse.
+Once they collapse, they will ask you to. They will force you to quit the games.
+That means you have to restart all the banks. Okay, so the problem of unity, we always say that is the assets management.
+And the management of unity is just like garbage management.
+They are garbage. Okay, okay. Because they can handle the memory very well.
+But what what is the difference between metaverse and standalone games?
+Metaverse is somehow that you have lost or the pair, they interact with each other at the same time.
+Right. Metaverse. They have this kind of something. They are multi PR multiple settings.
+And now the problem is say that they have loss of the object because there are loss of user generate object.
+And this user trainer object is just like the fall. So you put lot of the crib crib crib together okay.
+And these ways in your memory. So the needs of the metaverse is loss of the loss of the object interact together at the same time.
+Right. And then problem of the unity is they cannot handle multiple player, multiple object or loss or loss of the object at the same time.
+Right. So there is a problem, right.
+And unity also know that yes, that is the trend of the game development.
+And then that is our problem. So starting for around 4 to 5 years four years go.
+So they start in other um, um, um um chat of the game engine or game development.
+They are not using Monobehaviour today.
+When you are creating unity project, you can always find that the Monobehaviour right?
+When when you create a C-sharp program, you are just extend the Monobehaviour they change from this, um,
+um, low level, this structure, this for more behavior to here something that we are going to discuss.
+So in this last time we are going to discuss two things. One is called the OTAs.
+Okay. Toss the OTAs. So I think the memory pop up and not a problem is called universal rendering pi night.
+So somehow on and off some of the wandering paws are doing the, uh, doing the um, um, um, um,
+doing the games when you are running on different devices so you can on their off the window way to let you have the best performance on your device.
+Okay. So we talked about the diode RTS first. Okay.
+Dots is a extension of data oriented design.
+When you ask yes I guess that most of you guys are programmer.
+When you saw Orient Design.
+So can you name, uh, the Orient design for me? Object oriented CI, O.D.
+Okay. At the very beginning, before 1990 something, 1880 to 1990.
+So all the, um, um, software design, they, uh, one named the full control design, procedure oriented design flow control.
+That means they care about if then else. And also the, um, function call.
+Okay. There is no object. The concept of not object is not here.
+So they only care about the full control. They only care about a procedure oriented CI.
+Okay. At that time. So you can find that there are lots of the program.
+They are calling the nine 102. 102 1000 and uh two 1003 etc., etc.
+They are using the coin, the nine by nine, by nine by nine, because at that time there is no object,
+no object, they only have the nine and each nine is a procedure.
+Okay. Simple program is okay because um, before 1980 something.
+So a lot of the program, they, uh, they, uh, use in banking system.
+So banking system, that means is only in and out for the transaction.
+Okay. In an alpha channel. So that easy handle procedure connect is perfect.
+This okay. But after 1980 something.
+So what's happening. There are so many different kind of application in different devices.
+For example, now you are using PCI or maybe games.
+Game is one of the troublesome troublesome applications, right?
+Inside of game, there are so many different kinds of things that means so many different kind of object and web programing.
+Later on you have app programing. You have different kinds of programing, right?
+They they are not only creating their transaction, you need to have a more better thinking concept,
+how to handle how to handle this kind of multimedia data.
+So we have the all the object oriented programing okay.
+Object oriented programing object oriented programing state.
+So what's inside the object object is, is uh is a combination of two kind of things.
+Methyl and. Theta.
+Okay. So you can say property and, um, and, and I'm not sure most likely I'll use the data and method.
+So is a call object is a collection of data.
+And also draw method that means x a subject lecturer.
+What is my title and then what is my salary.
+And then what is my, uh, woman number, what is my telephone, etc.
+So those are the data of me in object subject lecture okay.
+I also have different method in the system that I can do.
+For example I can create a cost. I can add the content.
+So they are the action. So with the action they are the method combined together.
+I'm a subject action. So this is the copy okay.
+So always remember that programing all combat science.
+They only care. One things is the copying okay procedure.
+They are using for loop method to copy all the things object.
+They are using the object method, thinking of the object to their data and then copy the method together here.
+Data or in poker. So what's going on? Just remember what is the neat of metaverse.
+Singular all the object, and then synchronize all the pair picks all track together within a very small time.
+We have a huge amount of object we need to synchronize their data.
+We need to sync has their property. This thing has all that thing very small time.
+So data oriented side is talking about the efficiency of synchronize all the object, all the data at the same time.
+Okay. Just like your object oriented programing in the object oriented programing do you have the for loop.
+Do you have the if then else do you have the function call?
+Yes. Okay. Possible. Right.
+You have that you've done. Else you have to fold up. You have to function call object oriented programing is another um.
+Um, I would say and I'm thinking to cop out I think, but still they also have to follow data oriented programing is one more level up there.
+Still they have the object. Still they have the full control.
+Okay. Okay. So that is the thinking. And then the data around program is going to solve.
+There are too many objects different object. And we need to synchronize all the object property at the same time.
+Then we need a better design to do other things.
+So now you know that's iteration right? So can you give me a basic idea how to solve the problem?
+And that tells us all tell you it depends on the object.
+You know, you say. Yeah. Can I ask you? Yeah, yeah. He says, um, um, actionable object you set up.
+Um, can you, Lisa, you can go with how you tell your what size, uh, with a woman.
+Uh, um, uh, the elements are still it to do that.
+So. So it's a handle on that. So it's. Can you try to put it outside?
+Some define that the young children will ask, did an ID to the object one more like last year.
+I'd like you a nice award of our time in the future. You know, I still I didn't want to show y'all.
+Y'all handle the tracking, but it's, uh, sometimes in the chat, the legal department legal faculty case.
+I'm gonna put on the 1629 Superjumbo Dubai blood vessel the surgical team found.
+We found it under Kohli. Yeah. [INAUDIBLE], yes. Last idol.
+Yeah. How you guys? I'm all so he Chung Chi 20 woman show computer science.
+This is so you guys routine total funding equal pay doing not so much you copper so metaverse so ito part.
+So, uh, can I start watching the YouTuber? Yeah, it was inevitable.
+The only time one leader suits. Yeah. So you have to draw the conclusion currency.
+Yeah. Yeah. We found so metaverse to. And so uh, we are done to element uh which had uh ideal cake which I quote.
+Can I see that that so eat data.
+Are we in program okay. Change back to language.
+So data origin program is is about how to, um do the same action within a same period of time efficient and effectively.
+Okay. So the basic idea of data oriented, uh, design is something cool.
+Okay. Cool the same object together and then to perform the same action, the same method.
+So the memory can be easy for cost. Here is the NPC, NPC NPC NPC, NPC.
+And then we update uh, um exp. And then we can jump to another member access to update HP.
+And now remember I just to update HP update actually update XP, do all sorts of things together.
+It's just like a factory. It's just like a, uh, waterfall, um, design.
+We do this together and speed up all the, all the, um, um, process of your CPU, GPU work,
+etc. because we go the things and then do it, but the things and do it, you have to fang or you have to do it in your design.
+Therefore you cannot create or the program you have create one medium object.
+And then we have to do the um, um, um, object oriented side.
+We're back to, to also our thing is from the day one, starting when you have the new things, you have to think about the data orient.
+Um, um, um design. You have to think about how to copy it.
+Okay. And unity dots. Yeah.
+Uh, unity dots is data oriented. You start.
+So is in your day one forced you to do the data oriented to forced you to have this kind of thinking and then so start the program, okay.
+Okay. In I'm not sure you can extend we are t I, we just asked you to create monobehaviour and then you have another object,
+another monobehaviour in our module and our long behavior. Right.
+So some of the object they share the same monobehaviour.
+But you just create create quickly. And then it doesn't make sense in metaverse.
+It doesn't make sense in a, in a uh, multiplayer situation.
+Okay. So um, um, dot dots is an extension of data oriented is a thinking process.
+And this thinking pose, they have one, two, three V components inside inside the unity for you tutorial.
+So we will cover them one by one because um, if you have um, this kind of design thinking or design process,
+so you can do the scale or scalable processing at the same time.
+So your games can be pika, pika pika pika, just like when you are playing the same boss,
+the same box is um, um, a at the same place is uh, metaverse of Hong Kong company.
+So they are using this kind of approach. So when you have more than 100 x, remember you should be 20 something.
+For example, trying to if you have more than 20 pair to pay.
+Um, um, go on your uh, um, um, the broth, the physical, the virtual quit so they can scale up into another group and then let them 100 and let the 21,
+22, 23, um, pair to join, another one to join and now to join Apple.
+But virtually they are inside the same ball. Okay.
+That is the, um, scale scale post assign scale design in, in the, um, Unity Theater.
+So, um, yeah, we have mentioned this one. So the history of the deal is I was six years ago, uh, six years ago.
+Seven years ago, seven, uh, called unity start the project of dots because they are going to step into the metaverse diorama.
+And then they have this project. So this project is their first step of metaverse.
+So there are too many object. There are too many payout.
+There are too many, uh, things in the virtual.
+Well and then they are in. With each other. So Monobehaviour cannot solve this problem.
+And we have to think about the, uh, design again.
+And then we start from the fundamental level. So they have the dots.
+Okay. Seven here. I'm sorry I have to update seven. Yes.
+Okay. So that is the starting of dots. And then what is dot activity has is going to be plays the game object.
+And then the monobehaviour okay. They are going to replace the game object and the model behavior.
+The game object is to have. And then they are to repeat that.
+Okay. Too many repeat. Um um things inside inside the memory and all these repeat the things they are just placing the memory.
+And then if you are wasting a memory, wasting that number control,
+wasting all the thing you can not allow multiple player and extremely large or extremely many.
+Um, um, um, um, extremely many object to interact at the same time.
+And you can also allow the multi fact programing top from inside the unity.
+So they change all the things so easily. Uh yeah.
+Yeah. Can I remember this slide. Okay. Put a star.
+Put a star. So in your examination you are going to ask something that is, that is about a dot or dot.
+You have to understand what is the problem of the original design and problem.
+One game object is too heavy, too heavy data structure to pack.
+Okay. And then they cannot one efficiency is wasting your GPU time, number time, etc.
+Okay, so this um, I always say that another, um, pattern better um, importance to understand, um, why you need three dots.
+But I would like to ask one thing. So in your visual examination, you prefer to remember all the things in a, in a, um,
+in a formal way, or you use your own working tool to explain your, um, your thinking skills almost.
+And when you say, uh, talk about the movie way, basal Heiser.
+Way, uh, details the how you see the ones you like to even like, uh.
+Pursue that yourself. Goal seven.
+Um. You don't see the ones you like to sell. Oh, boy.
+Okay, okay. So I will prepare more application problem.
+Instead of member, read the definition of the problem of dot, etc.
+Okay. Okay. Because this year again we change to a 7% 70%.
+So yeah I also need to find a way to um, to to ask the questions.
+Okay. So, uh, yeah, we keep a little bit maybe keep, um, 10 or 20%.
+The question is asking the definition, but the remainder 80% will be the application.
+So you understand the situation. And then you can use your own wording to answer.
+Okay. We also, um, uh, t to that.
+Um, so I think um, uh, but I think finish on pasar tutor.
+Um, you might see some million particular definition page through like the tree knowledge
+or you said we searched the fundamental problem the way part is the definition page.
+Yeah, yeah. But yeah I can see. Um, okay, so here you have the problem.
+Okay. You have the problem here. Then you have the solution.
+So you can also put a star on this page solution.
+So that is the solution okay. So solution of the dots is they break all the things into um component entity and system okay.
+All nicely come problem and entity is the all p object and instant okay.
+They just add one more thinking call system. So that's why I always say that um procedure programing then you have the ordering program.
+Then you have the data around uh, programing. So they uh try to extend the other.
+They are not going to replace, they are just going to extend. So when you're looking at this one here component okay.
+Uh, component they are the spring data. So they have their constructor and then a constructor.
+They also have a class. They contain the data and method together.
+So what is this. Fine. So that is the object.
+Or if you study about the Java that is the class same right.
+They are all P right okay. So they are the constructor a constructor is a combine of data and method together okay.
+Combine of data and method together. So here I can't tell you say data and method together.
+Maybe put it in the library. And then when you have a GAM there is one thing.
+So you extend the component and then put it inside index one instant inside your game.
+So this one is called entity entity.
+So just like you have a you have paid a Mario Y.
+Inside the Mario there are lots of mushroom still remember what is mushroom y.
+And then you have a mushroom enemy. Um um component.
+So when you need a mushroom inside okay. So you call the mushroom component, put an entity x I instance inside.
+So this one is the mushroom A or mushroom one.
+And then you can hashtag bottom two fee 4567XX.
+You can inside of game platform okay okay.
+Got it. Okay. So here is still the same concept of object and instant object and instant inside of game.
+Uh easy ask. And the the component system they only have one thing is the system.
+System we get I'll get some company, uh, method that will update for all the install at the same time and then put it say that this one is AI system.
+And inside it is all logic. For example, I want to update the HP of the mushroom at the same time.
+Okay, so you say individual mushroom.
+Maybe updated HP will not be happening. Devotee right?
+But update the x, y, c position defini every single time you have to update right?
+Update of position. So they take out the update position method from the component level to a system level, okay.
+To a system level. So that is the logic inside the system.
+And once you every single time you asked all the mushroom order this kind of component, pad it into your memory address one by one, one by one.
+Because all the mushroom constructor they are their size are at the same.
+Right? So you have the same size, same size, same size, same size together.
+So when I run a um, update Z, I see update the position I.
+And use the member address and update all at the same time.
+And that is the beauty of the UX. And if you have multiple GPU or mobile CPU,
+you can pass this kind of the calculation to different CPU and then the two to update
+XYZ the update position at the same time and return to your to your final nice result.
+And that is the solving or that is the performance of methods by unity by um dot um approach.
+Got it. Go ahead.
+Can you repeat for me? If you can repeat that now, we will go to the break.
+Korea. Thailand, UAE.
+You mean to say the fundamental tone may have some overtones? Won the title may land oceans in the one teacher like Hudson Cooper.
+But that's why you see the one that won the top of the bar. Yeah, well, I won the the metaverse.
+There was more the metaverse style some more.
+Yeah. And, uh, yeah, I'll tell. How can single single payer camps tie up some of them?
+Bare metal tires on one of the agile? Your hand or the object your hand at an extended show.
+Updates. Hi. Sorry, I don't want to, you know, take a moment. To add a Monobehaviour GameObject top to top of the top heavy object.
+Once you have your input in, put in a 24 heavy object so it has a lamp to do the calculation lamp.
+See that? So any time until you have seen the scene assemble chapter more.
+Dots. Data oriented design.
+Data oriented. Second object oriented. Santo Vegas routine.
+Touch out a more. System, she said.
+Is it all the system coming out the.
+Tiny the month old? Yeah. Yeah, yeah, it is a charter system.
+So you have put in a lot to like. Yeah. How to set objects up Python.
+You might Hammond up make a memory the size of this a Yamaha to make it a Python period computer.
+Now you know how to set up a method to do the calculation.
+Trouble with Python, but you know how to dangle 1 to 1 teacher to see how they handle the object.
+I hadn't done that yet. The one teachers are like, hey, uh, should I put the CPU, GPU like to teach off your maker?
+Yeah, the pusher maker. Uh. Try multifactor. See how the pusher maker object to you.
+How far do you have time on the memory system, etc.?
+Yes, I sell and watch Nazi Monsanto.
+Monsanto video manhandling. Came up.
+Mm mm. That's all.
+General. Okay.
+So we have this, uh, examination question and definitely we will have this one.
+Okay. Always remember. Okay. So, uh, yeah, let me quickly, uh, go for the X and then we will have to break.
+Easy as it's easy. So, um, honestly, you have to know the A and B B etcetera, etcetera.
+So entity A and B so they are uh, the same here.
+The same component doesn't combine. That means their size are the same.
+So when they have signs that are the same. So we have the system for example I want to update that position here locally to the well.
+So I will ask the system to do all the math at the same time.
+Not uh, and at the a low to the well ones and the B low to the two, two and the low to, uh, wealthy etc., etc.
+So I'm not going to one the entity uh one for the translate rotate.
+Um, um, uh, translate rotation uh, local to the well and then one way,
+one by one I will do for example here translate and to all the Chinese ones
+and then low to the well to all the location ones and then low to the well,
+etc. Okay, I will focus on some common method for the same object, and then two at the same time, and then do it, then do so okay.
+So that is called x. But honestly this kind of easier system is not is not um um happened in 2019 starting
+from day one when you have the main theme come feel that when you have the IBM,
+um, um, um, um, IBM International Business Machine.
+Right. IBM so starting from day one, our memory system, they are using this kind of structure to handle.
+So you have the cakes, you have lots of the COBOL and then all the COBOL.
+So they are handle this this kind of thing. Because at that time memory is always not sufficient.
+So we have to find some method to save all the memory. They just copy the idea from the mainframe to all our current system okay okay.
+So that is very funny okay. So if you can understand this, have no need to remember all the word things, okay.
+Just like the previous one when you can understand the concept of the x.
+So I will not ask you to remember the definition of x.
+I will not ask you to remember the definition of dots I asked you to apply.
+Okay? For example, I give you a game, a game, maybe a um um um um um um um um, um, some got more sun.
+Sun. Cool. Motion. Motion.
+Okay. So on. So when you have the sun out or the game that is related to a motion, so you have too many object and then you have to.
+Yeah. Synchronize or you have to do something right. So you have to suggest this kind of um design form okay.
+And then how to solve the problem, change the mono. Um developer mono.
+Um, um, um game object and then multi power part from the, uh, from the fundamental size.
+Okay. Uh. Yeah.
+I guess I have covered this one. Yes.
+You put all the, um, um, um, you put a similar object in the same architectural type.
+So when their size are the same when their size are the same, so somehow they save your, um, um,
+um, uh, we say that they save your memory control, you save your bus control, so you can, um.
+Okay, let me think. I let you have, uh, have a, uh, memory operation system, um, questions?
+So suppose that now you have the five object, one the size is five, 4367.
+Okay. 54567. So you have five object 54567.
+Okay. So each time t there is a um say that for example, they have a ID in their memory.
+Okay. In their memory I'm not sure. Maybe this one. The first one is uh, um, um, um, and yeah, maybe so.
+Okay. On their first line. On their first line, all the object.
+So they have a ID, I want to read the ID of this five object 54567.
+So how can you design a algorithm to scan the ID of these five object.
+So how. To the Sanjaya object.
+Public object attires out the civil suit.
+Saint Leo t demigod we Yama.
+That's a meager object. Hardik. Uh uh. Put wedding night.
+Had the member do Pantoja. You got it. That's all. Since I was an idiot or something.
+Salita algo for me. Guys, I'm going to say that it actually.
+You mean for the ECMA to. Party ID title tie to the lime one bar yellow dog light yellow.
+I thought I had a memory that I did, you and I.
+So delicious. So it got to eat a lot.
+Nia-Malika tells us a little bit about you.
+Say how you handle how you. How do you like us to see us go back?
+Yo! Design. Go! That was the sandbar. Yeah, I was a tiger.
+Tiger night. Yeah. How does a night. Yeah.
+Did you, uh, to to the pool. So did you go to the near.
+The sucker. The DC got that DC is in the lineup now essentially Sonic Nike gas over your design.
+Low test large shoot high the ID the see how d.the pouring I see the moment you say a.
+So if I'd acquired the farm for. Khalilzad, that's also today either a war suicide, new type of psychologists who were also assigned to wood.
+Yeah. You can mean, uh, Susannah Howe, son Tucker and C.J.
+Um, but I need someone to say to if I'm Ben, if I thought.
+So if you have started the operation system. So most likely we will have the end point to end point here.
+So I have told you that the ID is on is on the first line right.
+So in your algorithm you will try to search the end point.
+So you travel for loop travel nine by nine and then search the end point and then end point.
+That one will be the ID and then search the end point again.
+And point the first one. We will add important parts when we put it.
+So the the traveling time will be I will travel order all the member at just at the same time.
+But if I use the easier system, I will told you that all the architecture time for example here is 50.
+So the id, the first one is one and then the second one will be 51, 101 and then 151 and then 201, etc., etc.
+So you speed up the whole process. So if you go to the memory adjust level and then think about this one.
+So this this is we perfect for a we, we uh massive object massive um, um, pay uh,
+to update all the things at a very short time because you need not to travel all the memory at just one by one, one by one.
+Okay. Okay. So that is the beauty of the ex.
+Or I would say that that is the beauty of the memory trunk. Yeah.
+So understand all all the logic that I have mentioned.
+Right. So you need not to and you need to remember all the broad things.
+So yeah, it is really efficient because, uh, you save the time of is we efficient?
+Yeah I can find that efficient here. Is we efficient because you find the you can find the memory address easily and then you can,
+uh, just add the size of the objects at the size of the, the size of the object.
+And then you can perform all the or the method without down any slowdown or uh, what lot it use a little bit system overhead.
+But it's much much much more with deals.
+So that is the perfect time. Uh, is the perfect things. So if you can remember this one, you need not to remember the, um, continuous ah way.
+You need not to remember the pointer. You need to remember all the, um, um, I will say professional vertex.
+Okay. Uh. Uh uh.
+So I broke five minutes back.
+Okay. 5 to 10 minutes back. She.
+Face. There.
+You go. You do?
+When you are. Tum's with copilot similar to copilot to copilot.
+You should usually use. 010583 compatibility to.
+How? Uh, you.
+Okay, we are back. Okay. Yeah.
+We must finish all the, um, game engine in these cars.
+And then at least we start a little bit about the vehicle, and otherwise we are postponing the, uh, the, uh, material.
+It's not very good. Uh. Okay. So because you have the X, okay, you have the X, now you can do the multivariate.
+Okay. Modified thing, uh, programing allows you to have multiple, uh, CPU about you to have multiple,
+uh, computation power, two parallel parallel to handle the job.
+Because parallel is very important.
+Try to imagine that when you have a, um, metaverse applications, you can ask them, when is the power of your server?
+Got it right. So maybe most of the time you still use a computer.
+But if you are talking on the, um, um, um, um, primary school student or a high school student,
+they will start to play your game at 5 to 7 or to eight.
+So that is your ally and maybe, uh, um, tomorrow is their public holiday.
+Then my media is going to next year, they will have more than 10,000 of the Trojans.
+Go to your show and pay your games. If you buy the server to serve 10,000 per year at the same time for all the for the whole year is too expensive.
+It's very expensive. Okay. So most likely today when you are buying the VM, they can come by date.
+Some of the VM they can come back hours. Okay.
+We um means that extra computation power. For example tomorrow is the holiday.
+So I will buy the extra computation power VM for today.
+And tomorrow I just buy for this two day. Okay.
+And then you save a lot for your for your hour. One time cost is a lot for your mining operation costs.
+So guys we are important. So allow motivating SIM.
+Uh, is uh some house is a must for all the matter.
+Like metaverse applications and NFT, your metaverse is.
+Well, wow. So that means, uh, um, from like to five years after us user and then from the five to the mean that you serve to,
+um, China, a Hong Kong user, etcetera, etcetera.
+Unless your monthly such kind of back scale and then you can have a case of, uh, training for our hundred and 65 day for Hope for the whole year.
+Otherwise motivating by the surface is, say, I would say, the golden goose of all the metaverse.
+Um, um, applications. So after E.
+C. And then the, um, um, um, ex system system here, system here is called a job and then a job system.
+Okay. If a single for example update x, y is an update x y position.
+So you say one job update z, I say update uh, um, um rotations and then locate to the well.
+So that is all the jobs together is called job system.
+So it's on a unity in so far they can have a and another and other component inside a.
+So if I call job system they are going to prepare the job creating jobs.
+Prepare the job queue okay. Prepare the job queue and then allow them to execute one by one,
+one by one and manage the dependencies x I have told you before because for this kind of job system, you are taking on multiple multi-core CPU.
+So how do you send all the information to a different, uh, CPU?
+And then we turn the data. What is the, um, we, uh, dependencies?
+What is the update procedure you will all handle by the job system?
+Okay. And have you heard about why I os can't handle the job better than any job system?
+Have you heard about that? Even the Android, they have the four core, eight core.
+So still the Apple iOS, um, um, system.
+They can handle the job better. Why have you heard about this kind of say no.
+Does it jobs and you enjoys the handles routine, you know.
+Huh huh huh huh. Uh, yeah.
+How do you Monsanto co econ co-op. Uh, turn on the shoulder.
+Well, hey, what is a mobile dumping auto? So you could call while work can be enjoyed studying steel core.
+How is a mobile? Because most of the Pokemon, they are very lazy.
+They will not do the multi fat programing. Okay, so that means when I create one apps I will only use one resource of one CPU.
+Okay, even you give me four CPU, I will only use one.
+So unless I saw the android, they always say that one is for your application and that is for your communication.
+Another is for the other thing.
+So they go to different applications to use this fork, or they are not using one application to latch for code to handle.
+Why this kind of event happens because we guys whole program are we lazy?
+And the handle job system is very complicated.
+If I need to handle the job system, then why not?
+Um. Um, yeah, I just have one CPU to handle all the things.
+You will decrease the number of pops. You would decrease the number of problems, um, in my system.
+And that is the normal situation. So that's why unity.
+It's okay. It's a program that you need not to handle for yourself.
+I handle for you. I have the job system. You just pay the X, okay?
+And the, uh, entity component and that system design for me, if you have followed the,
+um, um, x design, then my job system can handle all the things very well.
+So don't think that, um, the, uh, the, um.
+Unity can handle all the needs of the metaverse.
+So you need to have you guys develop and then unity work together to achieve the code.
+Only one cannot be handle. Starting from the design, you have to arrange all the thing.
+I'll watch. Unity cannot handle the multi fact.
+Cannot handle the multiple extremely many object um um computation at the same time.
+Okay. Uh, yeah. The benefit.
+Low wage conditions so they are not compete with each other.
+And then save the resources the way. Important thing is save the resources and then utilize make a good utilization of all the resources inside.
+So the simple. But honestly, here is good.
+When you have the mono developer, just use the mono develop.
+Ask the ChatGPT to change into dots or change into the X approach for you.
+So what I'm what I'm saying is nowadays that we're trying AI is good for you and
+you need not to learn all the things from the dots or this kind of XY stuff.
+You just prepared the whole program by using your model developer.
+Go to change. I say I'm using unity version to the toad.
+Can you change the mono developer to x CoQ10?
+Then the unit P will help you to chop your programing into three C files.
+Okay. And then say that the first switch off idle you will have my job.
+Get the command program. Get the command program out first and then put it into the my job system.
+Then you will construct the um, um, um, yeah.
+You will have the my job and then you will construct the other, um ye entity.
+Entity. Okay. Not sorry.
+Not. Yeah. Controller.
+And then uh, you will construct another com product and then inside your games the mate uh, one thing so you have the entity coding down.
+So if you have prepared the mono uh behavior just put your monobehaviour, you know,
+JNI and then they will cut it into system doctrine, and then they will carry into component fault and then send to file for you.
+And then inside your, uh, main the one time.
+So they will just, um, call the, um, can put on one diamond and then put it in the entity.
+And then one year, okay. So that is the easier control.
+And then there's a simple, uh, ways to handle the developer to the extra development.
+So that is. Yeah.
+That is push compiler, single instruction, multiple data.
+Um. Okay.
+We talk about one technical part. Okay. One technical part.
+So this one is called l2 cp. Okay.
+So when you program out there are some who aren't here right. So why CP.
+Yes C5. Okay C5. That's good. Okay.
+So, um, um, honestly, um, unity or, um, we're this kind of game engine handle a lot of the, um, when watch for you.
+But when you want to create some special window. Right. Or you if you want to create some special things.
+So you need to override the unity rendering.
+And then this one or the other method of the unity. So you have to create your uh L2 CP cross.
+So today there are some one for example I want to have though um, so in that blender right.
+So I more why. Okay.
+So more power. Okay. Um I'm trying to style rendering.
+Okay. If you want to have the tri style rendering. So definitely this one is not, uh, facilitate by the unity.
+But if I have the training style window. And that way I can chat some of the, uh, player in the Chinese.
+My cat. And that is the new Nina's my games.
+Okay. I was I just use all the things from from the unity.
+Your game, my game, his game, her game. Almost the same way.
+So how can I ask the other pupil to play my game?
+Is this is not the case? So today, when you are doing the game development.
+So some of the computer part, they will separate the development into two parts.
+One part still I'm using in unity or I'm mostly unity.
+And then another part is I get some of the function from the unity.
+Mostly is the rendering when I'm part create and uh, um,
+set of program I to only override one of the function of unity, and this one is called, uh, I l to cpb I l to cp.
+Okay. So this kind of the method how you to find a unique market or find out that you need that of your campaign.
+Okay. And this one maybe you can say that is batch compiler.
+Okay. So you try to change your C-sharp code into SMP, into a Llvm out into the output library,
+and then put it at the output library into the unity into your game, and one day for the task development.
+They also provide you this kind of compiler ability to override their gaps.
+Okay. So now you are not only focused on the um for example,
+up when the all the things in blender and then put the, uh, image from the pen that to the unity.
+This one is called fit back to the optic feed. The um, uh, yes, we have.
+So you put some of the rendering into a blender or uh, uh, the other, um, machine and then just get the texture, just get the skin into your 3D model.
+So this not perfect, but if you are using this kind of, um,
+how to CP so you can perform the will find the right that can, um, um, to present your, your unit of your games.
+Okay. So that is the, uh, um, situations of the new development so you can have a look.
+So we do not touch this part because, um, mostly, um.
+Yeah. Yeah. So, uh, in China, only perhaps you go to Tencent or, uh, or, uh,
+Mozilla is Tencent and they will handle this kind of developments for all the small developer.
+They will not touch the AI auto CP or some individual developer.
+So some uh, they are we, we, uh, familiar with uh, uh,
+c purpose programing all familiar with the rendering, rendering part, rendering the lighting equation.
+So they will touch this one and then put it inside GitHub and then for you to tunnel.
+But when you download the GitHub library that means that is not your you need that.
+So yeah it's very hard. So um okay.
+So see uh, whether you want to touch down, um, this kind of things or not, but and other things that,
+uh, for example, I'm not going to only I'm not going to prepare my Chinese, um, rendering.
+Okay, Chinese style rendering. I'm going to use the default library inside of Unity Steel.
+We have another method for you is called up in virtual rendering pie night you virtual rendering pie night.
+So today when you go to the unity as a store. They are over the loss of the assets that they provide you up.
+Yes, especially this one. Yeah. Uh, allow for.
+A. Where we beautiful, right?
+So here is that anyone have to notice as us and use.
+Can we all go tickle, tickle, tickle, tickle. Your face and feet and come and join us as well.
+Meow meow meow. Oh, it's.
+How shall I say? How does a Talmud set your pen?
+Has to miano to water, to beans.
+You can that soil the south lie that you and, uh.
+Throughout channels. This highlight channels the low polygon, the um.
+Um um tester low polygon. They went away. They said share to Chandler Mailer Doyle tout on the mailer to house and what I, uh,
+told you new Ben kind of doesn't can what I something what we've been kind of do so yeah I a way to see to the million units dollar as I smile.
+Okay. Okay. So for your information.
+So these assets they have on you. I don't know the others, but at least this one, um, I'm the creator.
+They haven't checked you because this one, they are using that you are P.
+Randori. Okay. ULP is one of the functions in unity that can allow you to activate the right away.
+Activate the renderer. Activate the rendering according to your device okay, according to your device.
+So if your device is not good enough without GPU, without a uh five, zero zero or etc. so you cannot have this kind of beautiful rendering.
+They will only prepare some very fundamental image for you.
+Unity. I raise my my PowerPoint.
+Up. So unity.
+Um. Uh, universal when finite. You say we nite wave rendering scriptable multi-platform.
+Um, tools for you so you can see lots of queues right here.
+Right. So most important thing is scribble. Scribble.
+So now you need not to use to keep up class. You need not to use the um we typical um, 19 equations to render your task,
+to render all sorts of your, uh, the example you are using the thief to fly.
+There are different layers of the T files. So you are not going to handle the bump texture, you are not going to handle the diffuse, etc.
+So they try to give you a poem box quip about pineapple says for you to add the little bit or on and off the pi night to support multiple platform.
+So why now example. Remember they support more than try the platform.
+Most likely use your PC with the GPU card with different level of GP car, um pay stations which etcetera etcetera.
+So they allowed you to on and off discount pi night.
+If you we want to I guess of you guys um, is not the, um, expert in PD still.
+That's why. So, uh, PD still mask use up.
+Thank you. See, I don't remember.
+And then we can call it the Phantom Line.
+No, I would not want that in.
+Huh? I'm glad you know that.
+I am thankful for the life that comes out in my life.
+I have because I thought they were on and that I threw after them.
+Huh? Tell you. Toma. We.
+How you're savvy then swept away by cancer.
+Anyway, what comes on? Uh, okay, so you sandbagging and push your brick to see that man's oil?
+Yeah, well. Quite apart. Uh, you saw how to. How woman to me.
+How? Yes. Well, Chi chi, uh, well, I'll tell you why, though, you know, I tend to turn a tad.
+You know what I see? Okay. So, um. Honestly, for this, uh, universal vendor pi night.
+So you have to combine two kind of things. The first one is your video through mass or my app, and most likely still video still mass.
+I'm feeling mass. And the today most likely is the video steel mill because inside the, uh, feed studio mass.
+So you will have different kind of tiff and then you can create different kind of, uh,
+bomb format and then also diffuse map different kinds of layers of your texture and this kind of layer of your texture,
+you can put it back into the unity and then buy some screen bubble machine to pause has to pause at, uh, the Wondering Pie night.
+So, um, yes, a new job title.
+So some of you got asked me about, uh, um, I would say that, uh, the career planning.
+Right. So if you will, of cam and then you really love terror watches.
+So one of the possibility for you to start your development is not the unity developer is not the, uh, I would say that is not,
+uh, um, game logic development, because the game logic development is very easy to handle if then else.
+Right.
+I always say that game object and I'll see if you touch this one and then trigger another motion if you touch this one and then you HP minus one,
+etc. if you touch this one and then you, you will go to a game of on stage.
+So this kind of game logic is easy. So you have to find your expert.
+You someone they will slap the network. Sometimes they will start uh, um, um um database.
+Um, also uh uh, soccer programing, networking, um, this kind of expertise and other possibility, if you love the artwork, if you love the artistic.
+So you are, you know,
+wondering Pi night is one of the possible because they can buy the videos to match the technique and then they combine the programing.
+That's good together. Okay. Okay.
+So that is uh, we interesting, but, uh, yeah, if you say that, hey, I don't want, uh, I don't want, uh, uh, stab me into the video.
+Mars or pandas. It's not my expertise. Still, you can download the video assets from the unity as a store or other thing.
+You have to support the up.
+So just like that, um, we have just search before here.
+You can just search up. So there are lots of ERP support.
+Uh, you all piece of pot us. Hey, it's not working.
+Y'all support us. So all these kind of your piece of assets.
+You can start now and then play with. And then trace the 19.
+Yeah, all of them. They are way beautiful. See that?
+We're beautiful. Yeah, it's very beautiful.
+But when you use these kind of assets in your extended reality project Exile Project, you will always find that these assets cannot be bantha.
+And then that pasta cannot be rendered because they, uh, perform independent.
+So, um, different timbre, different smartphone, different exile device.
+They have different level of rendering. So if you want to have the full rendering in your extended TV lot, extended reality project.
+So you have to connect your, uh, orcas with your, uh, laptop to get a full power or a more and more GPU,
+uh, and crypto notebook to get the rendering power otherwise.
+Yeah. It's just like we we, uh, torch this with just a very fat, uh, image for your for your rendering.
+Okay. Uh, yeah.
+You help support the shader mapping? It's very good.
+And Dante support, uh, scriptable rendering. Pi night.
+They support the polls. Pausing state polls pass.
+Nothing means that. Um, for example, you do not have such strong computation power, but they can help you to render shadow shade straight out.
+And they can run that, uh, straight out for your feed assets first and then put it back into the game instead of the render.
+The real time. Okay. So that one is weaker in the unity days.
+Only one kick one.
+So I know that you have to kick the post processing that, kick it and then try to into into your uh, um, um, um, um, in, in your device.
+So most of the device, they support the pulse rendering pulse because they just went, ah, one more texture on the, on the 3D model.
+So it's easier. Okay. Yeah. Yeah. Also support the GPU instance.
+And then if you have some new GPU, they support the new shader.
+So you can just start it uh, start on it. And then they will perform new, um, um, rendering for, for you for example, some other transition layers.
+So they will support this kind of the underlying tenet for you.
+Okay. Uh nothing special.
+Unity wondering since, uh, support the forward rendering, support the shader,
+support the camera controller, support the universal, uh, RRP as ah, so nothing special.
+Yeah. Uh, I will try to skip most of them, because if you are not, uh, um, going into this diversion.
+So maybe you will be a little bit, um, difficult for you, though.
+You all people are saying with and without.
+Yeah. It's good to ask grandma. Hey, what is the difference between these two image?
+To test whether you have the artistic sense. Yeah.
+The lighting. So what's the difference? Asked the first question.
+Which one? Me? Yeah. So which one looks better?
+A or b y b? Yeah.
+He's good. At least you have the sense of art. Why be?
+A is not to go up because, um. Yeah. Bo Hwan Park was exposed.
+Exposed to expose. So some house. If you, um.
+Um, this one is high definition blind. High definition HDR.
+Yeah, HDR. You see a high, um, uh, high define a definition went awry, went up on a high definition, went up by night.
+So some house they keep the details of the object, see if the lighting is too strong.
+You cannot find the details of the texture.
+And here if you click on the um, and you optimize for HDR, wondering so you can still find the details of all of them,
+it is close to our eyes if your eyes is something like that.
+So somehow you have the eyes. This is Golconda, uh, tank on on whatever battlefield trumped by Lee time.
+Okay, so you will have these kind of ideas. These are our normal eyes.
+These we perfect. So they have their HD, uh.
+And that in your in your vision. So, um, if the sunshine is too strong, they will try to have to, uh, fine tune.
+And still you can find the detail is close to our human's eyes.
+But what I have a okay. Yeah. How to implement up in the unity first.
+I know you Alps us. If they are not creating the update the 3D model you lost creator.
+You know IP is not. Um. It's nothing that you can do.
+And then, uh. Yeah, most likely when you now created you all people you are, you can select a feed and then up.
+Once you have done the project, kick on the lighting the loss of tuning date and two.
+Okay. So that's cross group. And then there's something that you can control and uh, blaze HDR.
+Now I can remember very well where is the IQ dial.
+But inside here. So there is HDR now chatbots.
+So the laziest or the easiest way to make your you have to have a better one that escape like this HDR and other is uh tech that people are saying.
+So they do some rendering before they or one time. So take these two tripods and then your graphic will be extremely important.
+Okay. And remember the um you alp Asus.
+Uh. Nothing special.
+You are LP and X, so um, honestly, they do not have lots of the relationship.
+They can have the in demand, they can exist independently.
+So you can use the, uh, x dot um format.
+You can use the you out performance. You can use both. You can use lines of them okay.
+But they serve different um, different different purpose.
+Lots of the people put them together because um, is designed for the metaverse is defined for the design device, multiple payer.
+But honestly, the relationship between them is is limited. But the relationship between the um, um, dots and the mold behavior, there is a lot.
+Okay, that's just like we have mentioned before. So I came in my slide.
+On my slide, if you find a table, put a star. So most likely the table will be the key points for your, for your, um, um, examinations.
+So all the points can be yours. Yeah.
+Uh, x and more developer. Yeah. That's it. So I guess you do not have any questions.
+Why? And then you do not need any break. So maybe I'll start the VR and I'll.
+Uh, passed, uh, five open.
+Yeah. Some of you guys have, um.
+Um. Uh, start. Oh, yeah. Quite a lot. Quite a lot.
+But most of you guys have start the extended VAT court because it's also the compulsory.
+So here in this class we will try to use a mixture or interactive mode.
+I ask I ask questions, you will answer my questions.
+Do you think it's possible to do it? Let's see.
+Okay. Let's see whether you can understand the or the concept.
+Okay. So, uh, in my point of view, uh, extent must we try to extend the reality?
+Mixed reality. So they are the superstars? Okay.
+They are the superstars. Although, uh, maybe. Which are they, uh, which are thought of?
+Which are the. Maybe he will have another approach.
+But in my part, I feel they are the same.
+Okay. They are the extended reality merge that we are the mix that we are the.
+I will say that they are almost the same. They are the super sad.
+Okay? They are so super sad. And then. And that is super sad.
+You can easily identify we are now we are and R is quite easy to understand, quite easy to separate these two kind of concept I will ask you.
+Ah okay. And then to understand the uh virtual reality of matter reality and the reality.
+So there is a nine to carry out all the things we are.
+He is our here is our physical world.
+We are okay. We are so in our reality, the main object is we guys human.
+Okay okay is we got humans so we can see our hand.
+We can see our body. We are interact with each other by using our physical human body.
+Okay, okay. Don't tell me that you use WhatsApp or WeChat to communicate with each other in our physical.
+Well, we just focus on the physical things first. Okay? We are he is the physical interaction okay.
+And Walmart is also physical okay.
+And Walmart is also physical. So that means that they say uh uh, what is physical.
+That means that they are not the object. They are not there like creativity studio math, okay.
+They are the physical object that will be object interaction between the human and then the physical world.
+They are impressive means that. For example, this one is a table.
+Why a table will label.
+This one is a table. In our physical world, most likely they will like, uh, label.
+And then when I walk close to this physical table, there is no particle event and then say that,
+hey, I can interact with this people, but in your game you will have this kind of sad thing, right?
+So when you are what calls with a bottle, this bottle can be interact.
+So they have some special particle. You have to let your note this one can be interact because in the virtual world loss of the um,
+um loss of the environment, they are not interactive, okay?
+They are decoration only. Okay. Okay.
+So in your understanding.
+So here if you go to the virtual world, virtual reality, whatever is using your orcas or whatever is using your PS5 on the screen.
+So the whole environment will be virtual, 100% virtual.
+That means all the thing is generated by these two mass, okay, they are the match data points, they are the texture and the match only.
+And then you are not going to use your physical hand body to interact.
+You are using the virtual avatar to interact.
+So when you are putting the Oculus VR display on your hatchway.
+So why is your hand yes, your will hand no is a 3D object okay, okay, so another extreme of the physical world is you are using the virtual avatar.
+You are interact with the virtual environment and all the interaction.
+Uh, expressive. Okay. Impressive. Expressive, expressive means that not all the things they are touchable.
+Most likely the interactions, uh, for the long, touchable.
+They do not have some special effect.
+Most likely the interaction that is in that entire bowl, okay, that you can interact, they will have that special effect.
+Okay. So we at least here virtual reality is full virtual of method.
+We are is empty. So what is off?
+We are. We say for now.
+So even when you sanity go with the extended VAT law definition of eight ounces or more.
+Okay, so here what is the definition of we are.
+You can find lots of different definitions, but honestly, virtual reality is put yourself into a virtual world, okay?
+Put yourself into a virtual world that is virtual reality.
+Then augmented reality is. Put the virtual object into the physical world.
+Okay. Here. Virtual reality. All the things are virtual.
+The major of the virtual reality is the virtual.
+But here of mental reality, the major of the of matter is still the physical world is still the physical world.
+We just put some virtual object on this physical world.
+For example, I put Peter on the top of Peter.
+Yeah, yeah, yeah, yeah. I put it, Peter, to say that I put a Peter out here.
+Okay. To say this one is Peter and this one partial information, this one that you make.
+So they are virtual object okay. Okay.
+So you put the virtual object into the physical world and that's call of w.r.t.
+So try to remember this kind of definition. And studying part of the we are here is to start here.
+You start M where is to start that path. So some of the student, hey, say that line to Phi Phi Phi, right?
+But honestly, you guys are highly educated. You forget all the things about the spatial, well, spatial computing.
+So the sort of pass is I just flip the slide into one point.
+When the stop point to end the point, they are at the same point distance at the shortest path.
+Okay. Why I have this kind of question.
+Because there is no perfectly correct answer for us where we should use the we are.
+Or I'll say that here a 2D graph b c yeah, yeah.
+Okay. So we'll say that A is better. B is better, C is better.
+Whatever okay. This is the definition they wanted to they're saying about this I want you to see one need to find that equally a body water.
+Well welcome. Continue at that line solar pool. 2D 2D image.
+So lots of the special. I'm sorry. Um, sexual discrimination.
+Right. Lots of the boys, lots of the men. Things that this one 2D graph is the best, honestly.
+Because once I learn how to read the information from this 2D graph, they abstract out the information and they're only limited.
+Information is cold to my brain. Do I agree with that?
+Yes. Why?
+So when you are highly attracted to when you have learn and understand how to use that to the laws of the people they love to use the 2D graph.
+Okay, okay. And always remember that I have um, give you um, at this one is iconic form by Google.
+Now, if I give you a physical paper form of the 2D map, it will be your nightmare.
+But how to vote? Hey, how to locate my cell? It may be your nightmare.
+Okay, so, um. Yeah, it takes time to learn.
+It takes time to learn. But once you have learned, the abstract information can go to your pain.
+You can go to your brain within a very short time, your house more.
+Um, so if you are a driver, if you are a driver.
+So lots of the people, um, they love this car pretty well.
+Um, go county through the whole to the war. Okay. This is a PD, Guapo.
+So you can, uh, go to, uh, detour.
+And then looking at the, uh, um, statistics. So most of drive out, they prefer this car because they have a illusion.
+Lucia is illusion. Okay. You should about the death. Which building is close to me?
+Which building is far away from me? So I little I know how far I should turn white or turn that and this pd.
+Okay, still, I need a, uh uh um, uh, more learning, a little bit learning time.
+Uh, they can piece out more information about the physical world to me,
+the crows to turn out, to present more information to me than loss of the girl.
+They love this kind of the, um, weapon. Theta. Why?
+Without learning. Like any speedy thing. I just turned on my camera when I turned on my camera.
+They put the label onto it, and then I know when I said turn that way, I took ten right?
+Extra light. So it's perfect. And when you are talking with your girlfriend and ask, hey, where are you?
+I don't know, there are lots of people they follow surrounding me. Uh, or you cannot explain where they are.
+They cannot explain where they are.
+They cannot explain where, uh, what is the, uh, direction North, east, west, south, etc. they can explain all the thing.
+But with this kind of overlap, it helps. Okay.
+So honestly, it depends on your back what some of the biology student, especially about the thought.
+They think this is the perfect. They abstract out all the thing, give you the most important information that you have to.
+You just focus on that. This part is okay.
+But some of the, um, um, especially not a lot of the, um, student, they prefer this kind of the, uh, video waffle.
+When they turn to the different angle, they understand the whole situation.
+They understand the information at the, the, um, physical structure of their, my soul feel, structure of their skeleton, etc., etc.
+So it really depends. Okay. Try to understand your audience before you decide we are application.
+Do you need not to desire a we are application for a professor Paul first.
+I always love to do things. So from our proposal, we always think that no need to pay other group only people to work inside the proposal.
+That's enough because Professor LaBrie that rather than seeing this kind of growth, I'm not sure that, um.
+Go to Toto. Um, um, find out why you need to, uh, use that.
+We are a solution to five critical, uh, um, IXI guy night for you to create a mixed up reality.
+The first one you saw. But, yeah, we'll get to know the woke if I got us.
+Broke it out. Okay, I do know, I confess.
+Yes, I Alcazar. What is the, uh.
+Um, um. How many grams of these Casas? 49.
+Last time 50. Okay. Last time 50 grand.
+So why they do this kind of thing? They have a we really good point.
+I want to do I want to focus on the comfortable okay.
+I don't want that man. This pay what I want is providing my information.
+The informations can be the audios.
+Okay. So you ask me something I try to record it. I try to get the audio for part.
+So you say must to have the wish of iPad. Maybe it's not a mass or they have some task task free path.
+Okay, but it's not a mass. But if you go, I go to have a look with the method new Alcazar.
+They will have to, uh, we show overlap. It makes the whole design more complicated.
+It makes the, um. Um, the weight of the of the icons has more heavier.
+Okay, let's see who will be. I'm not sure.
+Okay. But I think that the icons that's per house loss of the people will feel, uh,
+will try and then to use this kind of thing because the for the I casas so somehow
+they can capture all the things and then you can have the audio input for example.
+You cannot understand what I'm talking about. Why. So if you have the audio input you can have the real time translate.
+And this one is already very perfect okay. That's one. Whether it's comfortable a lot reality lies.
+One of the problem is is not comfortable. How might this be is not comfortable.
+So not all the people they love this kind of device and then they are more than one hour.
+So that's the problem. Sound fix amount of data to process.
+Today. The reality was they just captured your hand, okay?
+And had only free data to your system.
+But honestly, later on when we discussed, you can capture as many as you can.
+When I have the motion capture system, I can put 37 marker on your body, but I want to capture your, uh, your, uh uh uh microexpressions.
+Michael emotion so I can put as many points on your face.
+I can I can capture as many data as I can.
+But honestly, when you capture so my data so you come at it goes to two pop ups.
+The first pop up means you have to buy some very expensive, um, device to do the capturing.
+I. Okay, my one is about 5000 to 8000.
+And then the total, the whole, um, motion capture system is I want 200,000.
+It takes money. And now time when you collect so many data, you have to find a powerful machine to do the pause at six.
+So if you want to process all the data at the same time. So, um, now you have a, uh, yeah, you have to prepare the VR application in real time.
+Right? So less than one overnight. Second, you have to complete the render and the update cycle.
+Try to emerge that when you high you when you have the three data set to hand and one half compared with the 37.
+So how many GPU you need to prepare right is amazing right?
+So do not do that. Image the reality of the image so it's real enough or not.
+So it's very hard to say right. So if you have to animate resource after me I want to do the rendering.
+Prepare the rendering. Um um to to to the extreme.
+But more data you have to prepare. The more production pause you need to put, all the more rendering cost you need to put it into you.
+Okay, so yes, we expanded in this two last.
+We will also teach you how to do the rendering or to the 3D construction so that you can spend less money, less money for the production.
+And then you can still have to be realistic image for the boundary.
+Uh, yeah. How many object or will object you need to deal with the, uh, physical?
+Well, or given the virtual world, there's the same number of object that you want to interact.
+Okay. So if you have the special, um, um, um, um, special, uh, task that you want to do.
+So that means only this object you need to manipulate all.
+Oh, uh, to pay with the other, uh, just decoration.
+Okay. The other just decoration. Then, because the other just decoration, we show all the scenario, we show all the we show.
+Q okay, to guide the user, to pick up the bottle to start with that interaction, to continue your campaign, prepared the visual.
+Q so that is important. You will have the criteria of the exit.
+Then we will have 5.5 questions for all the we are all mixed up.
+We are very development. The first one I have mentioned about.
+So why you need feed, why you need we are if the professor can read the paper very well in 2D.
+So why I need to prepare a realistic error mama. No need.
+Right. So if you prepare a 50, we are wasting mi one.
+Definitely. You want to pay out to experience in other life,
+to experience something that rather than the paper that they cannot emerge and fill out the paper flow the better and why?
+Things they need to have some visual things for their imagination.
+Okay, try to give you one more example. Um, yeah.
+Have you heard about immersive reading in Microsoft Word?
+So in your case, you can download a, um, um, um, okay.
+So I, we have a device you can download Microsoft um, application.
+One of the Microsoft application is worth finals work.
+And with the work insight that we are.
+Why you have to do it.
+But if Microsoft sent this kind of app so that they have some reason behind the question, now is what kind of the target audience they yeah,
+they will use the we are we things we are reading means that I read the we out I read the task inside the real system.
+Not on the paper. On the paper. Yes we is.
+Why? You just know something you just read about. Open the book and then with the reading.
+But in the in the we are a moment you need to buy the whole class.
+You need to know the apps. You need to upload a file to the to the real device, and then you read the file.
+There is no more extra function in the we our readings only with the task.
+So who did it? This kind of application. There's a yo yo yo yo application.
+You wait. La la la. Plus it's. I really been content in.
+So that really meant you can people. The other campaign hot tub me or extra funtion adults as a cancer.
+To say that one that there was a licensing application Microsoft and you know you know you have to follow to the research paper.
+So you know, once I got that. Maybe I wasn't, I thought so so so so what kind of paper?
+Yeah. So they sang the paper so terrible that we haven't seen how how the kinds of thoughts is a kind of word document.
+Can you sense I can to go to a word emu Yana destaca.
+Where to. How. Well the young keyboard I that's about tots is a con.
+So this application is designed for the desire to see a student.
+So that means that they have the problem in reading Chinese or English wording, toxic or not.
+Some of us are told to say talk to see eye to eye.
+So there are lots of research papers, I think, that say that if they are in the isolated and one month isolated environment,
+and then if you can help them to focus, chase their is case by case and tend to lowercase the word thing.
+So you have um the the word things right. If the,
+if the word thing because for the to see that they have the problem and you give them the paper when they're I guess they're reading the paper.
+So they, they are one thing is flying in somewhere else.
+I'm not sure because I'm not attached. But you are in the we are and and you can trace the exact, uh, hack case.
+So the word is always organized with their eyes and that hack.
+And in inside the immersive reading Microsoft um, have pushed that, um, um,
+the effectiveness and then efficiency increased for those kind of the, the special education needs children.
+That is the situation. Okay. So no professor will read out and then read the paper in the wireless is not only a special needs a special group.
+They need this kind of setting. So the first one. Yes. Why unify the environment?
+Okay. Second, why you need to be a immersive environment?
+Okay. Honestly, not all the, um, I would say that not all the people they love the immersive environment.
+That means totally isolate yourself from a physical world.
+Apple, Bush. And both they try to they try to give another solution for the immersive.
+Even you are watching the videos,
+even you are watching the movie in the reality which we shouldn't provide when someone what what to walk close to you,
+they will try to um, I will say that have a transparency.
+Transparency. Your this um this your mum or your wife.
+The face will be display in the rendering screen. Okay.
+They on the, uh give another solution. Not all the application.
+You need to be immersive even watching movie.
+So we still need a connection between the virtual well and the physical well.
+So if you are fully design a immersive environment, I will ask you why is necessary for your application.
+And then most likely the answer is because it's a game. I want you fully immersive inside your camp.
+So you want code to put inside. The movie and you know, okay, so what I tell you,
+why don't you balance Apple Hammer with some of the 2000 that define by humans are so immersive also plays a more immersive element application.
+Okay. So, uh, how many motion sense that you need to put inside your our system last your, um, um, last motion science.
+I can't how to to do the rendering can help you to do the research can help you to do the applications.
+Okay. Lastly sparse you your application only focus on the we show the uh, um, uh, feed scene.
+So just capture the hat movement, okay.
+Do not capture it again. If your if your application is just a menu then just capture one hand.
+Don't capture to hack. So why you capture to have. Maybe there is a small.
+There is a shield.
+I'm not sure what you are fighting with each other so you need to hand etc. so you've something can be capture um um by only one dimension of data.
+So just capture by only one dimension of data and only to capture tool.
+Uh. The case of the 13 teeth high and low case on the door.
+Well, that one was creative though. So the fourth question is why?
+It's first, if you prepare. We have case on search in in all the marketplace.
+Okay. Find a similar solutions that find there are someone they have similar idea.
+Okay. You are not special. So try to try to find out something that is similar to your product.
+Otherwise though, your application will be Outram as you take time.
+It takes money is expensive if you want to create immersive environments.
+Is is not to say that um, um, only, uh, few guys and then doing 1 or 2 days and then you can compare your application.
+For example, I want to simulate the costume environment in this setting, similar to draw trees in this state.
+It takes money. It costs money. Right. 3D production scanning all the things cost money.
+If someone if you have to, uh, this kind of idea. Definitely the other have the same idea.
+Search for the existing solution. Search for the resources first.
+Okay, then the last question. Why you think that you have the ability to do the application.
+We are application. At least you can buy for group of people.
+You guys, I know that you are the programmer developer first second.
+Where is the designer? So your we are Amala and talking about some very basic primitive or we basic object to interact with each other.
+So no one will pay your wireless application.
+So definitely you need a huge group, a large group of very Moldova to do this kind of applications for one domain expert.
+So if you are doing some health care, um, um, um, we are so you need to find a doctor or a nurse to design the content.
+I don't trust that there is one person that can handle the programing arts design, content design in a one man, you know, one man band.
+Okay. Try to think, what is the strength of your team, especially when you go outside.
+If all the all the, uh, members in your team is programmer, then you have to find the designer.
+If your all your team member, they are the, uh, Pokémon designer.
+You have to find the content content developer sometime.
+You also have to find a project manager salesman because you want to sell the product.
+All right. So you have to have a full team to create these kind of real communication.
+It is expensive. Yeah. Hi.
+How are. Kind of.
+Yeah. So when you have design.
+Hey, I need to create. We are system create.
+We are system hardware.
+Software together is we defines say that if you want to just create we are and I go to top out by a Google car pot and I cook paper is only $10.
+Now is ten not two years obviously. Uh, alcohol is only $5.
+And then I use a 60 degree camera. And then I go to YouTube, perform, and then I create an interactive storytelling by using that and 60 degree video,
+all the things can be come within few hundred. I agree.
+Right. So I bought a camera. Maybe I just go outside, maybe ball a sunrise cam degree camera is only 1 or 200, right?
+Honestly, if you buy a few hundred degree camera it's only 5000 or 4000, something like that.
+If you need it, let me know. I have a lot and yeah, I have a lot.
+So, uh, cool couple is only $10 and then you use the mobile form of the others estimate, but,
+uh, the which I sent you guys to the high five, six, five K for you, uh, to have a look.
+So in our body, we have lots of key system. Some of them are led cave, some of them are.
+I won't full off projector. So this can only the hardware can by medians x.
+I remember their LED cave is 1.5m.
+The 65 CT is more than 2 million. Something like that.
+See only the hardware. You have the difference between $10 and few minutes.
+The wage is so big y, so when I need to have the we have system and then when I need to different type of reality system in uh,
+this part will have a lock and then have a lock and then um, yeah.
+Discuss about this one so we can classify the we have system in the 12344 time mobile.
+We are standing. We are walking. We are when we are.
+So when you are increasing at this size more and more money, you have to give it to the hardware,
+give it to the production and and yeah of course the effect is better but control about the money.
+So yes. And other things okay. For the mobile we are we own the device we only use is your mobile phone.
+So all of you guys have the mobile phone, right?
+So this one is seven. But if you put the mobile phone into the consideration.
+So nowadays your mobile phone is more, um, not um, yeah.
+Some of your mobile phone is more expensive than your local computer, right?
+iPhone 17 is more than 10,000. Something like that.
+More than today. Lots of the mobile phone is more than 10,000.
+But you will say that if you buy a mobile er, it's only 6000 to 7000, right?
+But we are the developer. So, uh, you guys are the little pockets.
+Maybe is more than 10,000. We spent a lot of the money in the mobile phone.
+So that's why today the mobile phone, the sensor computation power can be paced lots of the,
+um, notebook computer, and then they can use XT, uh, without device.
+Okay. Mobile. Um, we are, we are using the cool catapult.
+So later on, we have a lot with the cool couple. They can only sense your hat orientation.
+That means the rotation of your hat lock, the movement of your hat.
+Okay, so when you're watching the 60 degree video, you yell for sway.
+When you see a very beautiful girl, you want to move ADP forward to the beautiful girl.
+So is there any fat? No.
+You can only have to hold the position of your head to see the, uh, since, um, so one thing.
+Okay, so the limitation of the mobile video somehow is the, um, um, um, um, uh, number of interactions of your physical body.
+Okay. Is on either hat. Okay. Male circle can stand you in the supermarket to your bar.
+Okay. So you know that you felt way. Okay. So both ADP step forward is to standing.
+We are standing. We are. So somehow you so mostly device the okay so that we have iOS or HTC five or the pico solution.
+So they are standing we are they are using the Hemant is and the controller.
+So they are standing your hat and the hand we'll discuss later.
+And then that is pay is not uh the display. Yes. The lead has at now it has had you say fast screen.
+So if you move repeat forward. So it's okay walking we are most likely the walking we are is not uh home use.
+You may be the studio use. It may be the lab laboratory settings etcetera etcetera because it's more expensive.
+We are LPI and also the um samples.
+We are motion capture system. They are using the walking. Yeah.
+So we by the take careful you data are okay you know by the the kettle.
+You have to let you to feel these kind of effect.
+So they are using the motion capture system and then they are using the full body motion capture.
+So they can capture your gun position, you can capture the needs position etc., etc.
+And uh but still they are still using the hammer display lead hammer display and can I yeah.
+Can I just um yeah. Yes. We have uh, heavy and is very poor key.
+So can I forget the things about the, uh, without device?
+The answer is yes. So we have the one. We are we using the I mass gases.
+They don't. We we discussed we used the IMF gases and then using the motion capture together to let you to feel the, um,
+feed and at that and I mass gas us with, uh, with the, um, uh, motion capture system now, inside the cave system, inside the one we are.
+So when you move your have forward to the IMF, the and then we will have to, uh, corresponding effect to you, okay.
+When you move your hat. So somehow the screen the when the when will be change.
+So we'll discuss later. But when you are talking about this one is still is very expensive.
+Talking about millions, millions of dollars okay. So we will discuss all the things one by one.
+The first one is the mobile. Be out here. Cool.
+Cobalt have you explaining walkabout.
+If not, I'll try to find the castle and then buy two K.
+That is only $10. Why? A, um, extended vat to that.
+I think that you have to assemble, so you have to make the way out by yourself at least once.
+Okay. Make it, make it. So when you got the real castle, most likely it's a is is they haven't they haven't found a way to get a fit.
+So you try to make it by yourself. So that is a, um, um, um, lands here.
+So they try to make parts the screen. Okay.
+Make it latches, and then they divide your mobile foam into left size.
+And then why sized screen. And then they would display the information for left eyes.
+And then for your eye by eyes in your brain you become a fetal image.
+And then this go cardboard. Okay. So honestly before Google couple we have made a Google Cardboard.
+Okay. In our eyes. In our face Paul. So, uh, cool couple is 2015 something like that.
+15 years ago, we oh, a ten years ago. So we already have this kind of peanut co couple.
+It works. Okay. We have try to create a Google uh uh, at that time we call we claim mobile.
+We are mobile. We are SDK inside the mobile phone. And then we can separate the screen.
+We can detect the orientation from your mobile phone and then display the image.
+That is what we have done. Okay. So anyone can tell me what is this device.
+Or this. So this one is Samsung Global.
+This one is Google Daydream. Okay.
+Both of them you can find um um um these two divide by now, but you can find in our lab.
+I still have a lot in our lab, so it's quite still.
+But this one is $10 buy. This one is 780 HKD, but they same the similar products.
+You have to find your mobile home, put your mobile phone into the Google uh, daydream or the Samsung gear.
+The only thing you have app inside is this one menu slash one.
+And this one menu slash on is not, uh, just like your HTC control that they can, um, uh, um, and like a shell or a case.
+War torpedo camp is only a menu slash showed up by, uh, uh, up to fi, and an app can control something, uh, cancel something like that.
+So if $10 can fulfill the need.
+So we will spend 100 USD to do it. That's the reasons.
+Okay. That's the reason. So, um. Yeah.
+Uh, advantage of Google Plus is very cheap.
+It's really cheap. Second and then is, uh, um, easy to deploy because they, you just use your, uh, target audience,
+um, a mobile phone, and then you can set up your solution is very easy to do it.
+And next one is called standing. We are standing out is the home use.
+We are. So you can definitely follow the brand. All cars anymore.
+All cars. HTC.
+Peacock. Pay station.
+Okay. Okay. Some of you guys put the apple into you, which I'm Paul.
+You can also say you say I'm standing by are. But we shouldn't please be expensive.
+So I'm not sure that I should put it inside the standing we are or not standing.
+We are standing from 2000 something to a one 10,000, 2000 to 10,000.
+If you are not consider a position.
+Pole is a standing. We are okay if you consider Apple.
+Which one do you say? Standing well is 20 something okay?
+20,000 okay. So, um, yeah, most likely is.
+Um, um, uh, is this one so different from the different from, uh, mobile?
+We are. So now you have. Controller.
+You have to hand. Okay. Hand is different from the, um.
+Um, um, mobile we. Yeah. Because mobile we are. You can only sense the orientation.
+That means the rotation, right? But with the, um, standing.
+Yeah, you can detach that position also.
+Okay. You can detect the position also. So you can move forward, backward left while in a fetal environment.
+Okay. You know the difference of move and rotate.
+Why move. And oh they are two different concept.
+So um, in this kind of standing we are we say that they have the ability to detect your, uh, movement and also orientations.
+Okay. So, uh, most likely, um, you can detect your head and to have.
+So that is their design. And, uh, if you consider about abandoning.
+So almost the same. So your mobile home to the, your iPhone um, 17 is also very good.
+Right. So for the wondering so uh, more or less they are they are, they are um, got they are similar.
+And then why we standing. We are because the chasing area is the standing means that you can move a step forward and a step backward.
+So most likely the tracing area is only six meter time six meter.
+Okay. That means my home setup. I'm not so bad I.
+Yeah, I'm not so big. Right I maybe your home is back up.
+My home is not so big. So my possible walking area is I guess now is less than six meter time.
+Six better than before. I have the, um, uh uh, chase and yeah, kiss and children.
+So honestly, I can have six meter time six and now I can know what in in my different room or be my, uh, in my, at my home.
+So yeah, that's the situation. So why the standing means that you cannot walk.
+So in the real moments, how can you move in the virtual environment?
+You use the analog. Yeah.
+You use the analog okay. So most likely they can only detect your standing position.
+Step a step forward a step backward. Rotate yourself in six meter time six meter mama.
+And that is called standing we out. And that is the home use settings.
+So uh one more thing I guess, which I have tell you.
+So this is the Q&A time DLF degree of freedoms okay.
+Degree of freedoms. So you have to mostly you know in our current market you only have to deal if one is coffee DLF and now is call sex DLF.
+What is the difference between fee and 60 off? Which one you can move 60 over.
+Correct. Feed off. This one is feed us.
+Feeds us z c. They can detect your rotation of the z I see.
+Okay. Rotation of your z I see. So in your graph it's easy to understand why.
+So you have to uh uh discount for theta okay okay.
+So when you move forward there is no um, you on your resolve.
+They can only capture the voltage on off of your, uh, of your z c position x, y, z rotation and then 60 off.
+They have one more, they have xyz c movement both one.
+So you can move in xyz as y axis and also the x axis, y axis and also the c as us okay okay.
+Most likely. Car parked here.
+Google daydream. They are video app, although they have a controller.
+But these controller you can only control the manual update, etc.
+They cannot detect the positions of your controller, right?
+They cannot detect the position of your controller. So still they are video app.
+Okay. But here can you see the orcas eye and also the HTC five by one hat two hand.
+Why not 90 off. Why?
+The dwarf concept is not calculated by number of input.
+So if you put the controller of GFI on your needs y.
+So this means that you add another penalty more if you say that this one is 60 off because we have three control y.
+So this one all state. This one is already 60 off this one.
+And uh six and six. So you should be acting D off right.
+It's not the case for all of X. So you only have video after 60.
+Or if there are something call 95.
+We calculate the accelerations, but that is most likely this one is used in approach I think in the worldwide homes I think we only have two, 3 or 6.
+Okay. Three is the um, uh, rotation orientation, six is the rotation passed the um, position movement?
+Okay. So you only have these two don't that we when you have more um, um, number of input, you have more time off is not the case.
+Okay. So yeah, when you have the um taf and then previously.
+Yes. Here. Previously. So um, you only have six meter time, six meter the tracing area.
+So the standing. Yeah. And, and what the difference is only the tracing area.
+Tracing area. So um, for, for, for um the home use is six meter time, six meter.
+But now when I add. Here.
+The motion capture system. Okay. In our department computer.
+And we have at least two motion of capture system.
+And in university we have, I'm not sure maybe 20 to 30.
+These kind of motion capture system. We have a lot in our university.
+Once you have this kind of motion capture system, you have a larger, larger, largest, um, capture, uh, capture, tracing, tracing area.
+So most likely is a one 20 meter time, 20m.
+So 20 meter time centimeter means that you can do any actions in the tracing area.
+Just imagine you are paying the basketball white basketball basketball match.
+Is 20 meter time, ten meter. Lamb Coltrane JTA.
+So you try to find it by yourself. So, um.
+Yeah. The chasing area. Most likely is trying to meet that time. Charity meter.
+And then the, um, I would say that, uh, accuracy is go to 0.25.
+That means even your facial expression. I can trace expensive to power pumps of this kind of walking, which is expensive.
+So most likely one set of the motion capture system is about 200,000 hundred dollars.
+Okay, so it's not maybe you can afford at your home, but that is not football at my home.
+So in that we always say that this is the laboratory settings or this is um, um, when you go to sandbox.
+Yeah. They will also have this one. So it's a theme park setting.
+So if you have your buy this kind of motion capture system to let the people pace.
+And then for the tech catch for, for all this kind of reality, uh, we are um, um, working.
+We are. It's A12 hundred something, two 300 something per hour that take cat.
+So you need to you need a cell to take care to, um, back the development cost because.
+Yeah, this kind of. The thing is we expensive. Okay.
+But still what we are, they are still using the home and this pay ten I forget the government is pay.
+The answer is yes. So here um, using the I mess I mess Kansas I'm at Kansas.
+Data. Um, we will discuss you somehow brought your left eye and then put your way has at f uh, delta t.
+So we just pause at the image for, for for for one of your eyes, um, in each 30.
+And then we come down with the motion capture system. So they have to project out to, to image for each delta T is for left aperture for by eyes.
+And then uh, you also have the motion capture system.
+So we know the position and all the way and position of your hat and then the um, um, um, hence move on.
+And somehow if you have these kind of settings, see that?
+The whole, um, the whole visualization of your screen is affected by my my orientation and positions.
+Okay. So that is concave system, uh, in our computing.
+So at least we will point you to, to, uh, have a with without landscape.
+Have you go to educate before. Yes I cave and this 65K both of them are in, in our part of you.
+But yeah, I also encourage you guys to start the development in this kind of cases system.
+They are using unity. So you have the ability to start your uh project using these kind of cases.
+But in these two of us, no one want to develop anything in the cave system.
+I don't know why. Maybe, um. Yeah, maybe they will think that after I've developed, uh, the, uh, we have applications.
+So only only university or in our lab can visualize our our, um, application.
+No one can do the visualization, so that's okay.
+But we have the resources. We have the equivalent for you. Okay.
+Okay. So, uh, uh, we want.
+Yeah. Let me continue.
+So we have the type of PR, then we'll go to the input of the input of the we are most likely is only one thing motion sensing okay.
+Motion sensing. And for the motion that you can divide into two parts electromagnetic field and optical.
+So you only have two kinds of the motion sensing electromagnetic field means that for example here Gauss cop Gauss cop.
+Do we have the Costco Gauss cop here, Gauss cop and another one call us a when we talk a one meter.
+So ah, one penny. So when you are using your smartphone so you will all, uh, all the smartphones, they only have the couch inside with the Gauss cop.
+So you know, the orientation of your smartphone. Okay.
+So you know, whether it's, uh, vertical or horizontal, okay.
+But, uh, one, uh, this, uh, um, expert. Uh, yeah, maybe, uh, something like that.
+So nearly all the mobile phones change to accelerometer, so you cannot find the Gauss in your mobile phone.
+You can only find the answer one meter in your in your mobile phone.
+They say they serve the same purpose. That means I want to find orientation of your, uh, of your mobile device.
+Question time. Which one is better?
+So which one is cheaper? Gals call or ask me to.
+ArcelorMittal is cheaper, so that's why it's in your mobile phone right now.
+Yeah. That's true. Gauss got up here.
+So, um. Um, so they try to detect the x, y, c orientation.
+Okay. ArcelorMittal is only sensitive to your quantity.
+Quality. So they only have one sensor for your quality only.
+Okay. Okay. So why? Um, today, loss of the mobile phone.
+Not all. Not loss. Height is. Or all the mobile phone.
+They use the accelerometer so that, uh, I can say that it is few reasons.
+So I can conclude of last month. Cheaper. Cheaper because, um, Gauss cop.
+So here is versus detection. And assuming there is only one as us, they use the chips to, to um to calculate the other two.
+Okay. They use the chip to carry it out so it is cheaper. Second is the robust loss.
+Accelerometer is easy to off order.
+It's easy to book. Um, so when you are using the mobile phone at one time,
+I guess it's not that you have to use the mobile phone line and then you are not too young, right?
+Yes. Go bald maybe 15 years ago. So, um, when your mobile phone you can still use.
+But somehow Stokowski. We spoke up because.com can only be use 1 or 2 years, okay.
+1 or 2 years. So the orientation of your mobile phone is not working, but the LED screen and the auto things is still working so well.
+As I said, one meter is more or less okay.
+It's good. The reason smaller as a meter here is smaller.
+So talking with um, um, um, um iPhone 17 right.
+So how thin? Right. So definitely they cannot put the gas Kobe inside.
+They put us on meter. But when you are in the research level.
+So honestly, if you want to have a better data, also one meter is always better than the gospel.
+As a result, Costco is always better than the other one meter because you have free data inside.
+Okay, talking about the same quality, we are not talking about the price.
+That's why you can find a cheaper, cheaper gospel, uh, um, compared with the most expensive HMO meter.
+Okay. But sometimes they will use both of them together as a monitor and a gas cop.
+They can do something very special. For example, they can have a motion capture suit here.
+There are lots of Costco. If there are lots of other meter in this kind of.
+So when you wear these kind of so, so you can capture all the join rotation for your auto rotation.
+And then this kind of full data on can be put you back into the motion data.
+Okay. They have to um, um, pose their poses here.
+This one is cheaper relatively cheap.
+Up here is about a thousand um, um, um, US dollar but relatively cheap up because optical motion capture system is more expensive.
+Second one is gas Cop and then the Azure Monitor.
+They can work under that sunshine optical motion capture system.
+They cannot work under the sun shot. Okay. So if you use auto uh, auto motion capturing still this one, um, um, um, uh, yeah.
+Medical field motion capture is better than than the optical one.
+Okay. But somehow the cons is they are not, um, x across the X, the motion capture system,
+uh, optical motion capture system, optical motion capture system is still 2.25.
+Might. But this one is not, honestly, for all the cars, cop or Arsenal meter.
+So they're always around 10 to 15 degree. So they cannot trace the difference between.
+Yeah and the accuracy to yeah it's a 110 group okay.
+So they would say that there is no difference between this tool okay.
+And is not very sensitive to um all the small motion.
+When you are um um compared with that. Yeah. Tronic electro magnetic.
+So there is another motion capture system is optical here.
+Optical motion capture system. Optical motion capture system is easy to understand.
+There is an infrared camera in fact can coma.
+So they are sensitive for the distance from the object to your camera, but they are not set to the car.
+Honestly, they will forget all the things to the camera, okay?
+Only their things. Um, um, um, you want to chase will be capture done.
+So they will capture the distance between this one. So why small pole?
+We call it mocha. From the mocha to the camera.
+Okay, so when you are wearing the special suit here.
+So some house, um, only the, um, um, mocha will be capture the X like C of the mocha will capture,
+and then they will turn into this kind of the, um, um, effect and this.
+Kind of the effect will because we guys are humanoid.
+So the motion capture technician will join the motion detector automatic join the
+all the motion that takes motion capture data together and form the humanoid data.
+The humanoid data will transfer into the video object, and that is the motion capture.
+Uh, waffle or Pi night. Okay. The bass or the pulse of using the motion capture system is they.
+Are we at 0.52. 2:05 a.m.?
+The problem is they are very expensive. The cheapest motion capture system in our university most likely will use this plan of the chat i.t chat.
+So one of the chat is 5000 to 8000. Um, um, um, yeah.
+For each camera is 5000 to 8000. And then the whole um solution is I want 200,000 expensive.
+Okay. So we have lots of the motion capture system.
+So if you want to become the motion capture actor okay I'll add just let me know.
+Okay. We can, uh, doctor. Wrong. And then, um, intellectual to do the motion capture like I do.
+Lila. Finding food out survey la USC.
+I want the council. Yeah, that in terms of the meal, you know how you how far you can take a motion capture if you.
+Yeah. How about a gel pen selfie. Yes. How you how far there are.
+Yeah. I saw the while you wait. Yeah. That's the whole, um, uh, motion capture that addition.
+So we want more. You can add some more yellow.
+So I taught ABCd, uh, ABCd, the side library, the claim to the like.
+Yeah. Motion capture. That's a request to.
+Why do you want your team, Cassie, with saying, um, without details.
+As far as how slow the transition. If you hold each other.
+If we say one quarter. Yeah. How do you want to see that there?
+If we go, you can wait outside event. Yeah.
+Give me. Hi. As I said, uh, you know, it has a hunting, the hunting, the evil, you know, to allow evil to do the motion capture autocannon.
+So you go kung fu. I see that you into the actions that I set the body to work.
+I want almost all the ocean fish. And I told you how to live with all of that.
+Okay, I have a okay. If you want to try, let me know.
+Uh, I will book the motion capture studio for you, and then you can catch her, y'all more more on ocean data and then put it in your game.
+Okay. So this character is are handled by me okay.
+So that is very good. And then yeah, just, uh, do some selfie in your hand and in your WeChat and then, uh, you can do it.
+Okay. So I will be fast. Just one few more slide and then I will stop motion capture.
+The hardware is caught up to chat okay. Up to you. Charter sends out the camera and then the software is combative.
+Okay. When you open the motive, the first one you need to do the calibration.
+Use this kind of the sensor to Wolf. I saw one once.
+I saw so. So to answer yourself okay. To what food or feed it and what my of your training area.
+And then um, the mode if we say to hey, you have complete the calibration, then you can start the motion capture for all the motion capture,
+most likely you need to wear a special suit and then put the mocha on your body.
+Most likely is 37. And then, uh, put it into the main joint and then, uh, this kind of mixture.
+And we try to use the software to match with the scat and data on yourself.
+Okay. The starting pose is always the T pose. People start seeing that pose.
+Okay. Starting pose after the, um, um, assigning pose.
+And then the technician will say that actions and then you will try to do your motion and um, all the information will be worked on in the motive.
+So you should be excited. Remember, you should be 200ft per second, 200ft per second.
+But of course, when you put it into your games, we will cut the data into 10 or 15, something like that, 10 or 15ft per second.
+But what? Capture capture summary sizes are one 200, and then the technician will help you to cut the starting point,
+to cut the impulse, and then will, uh, compress all the things for you to, for you.
+And that is the motion data. And then you can apply into scanned and data.
+You can put that into that. Or if you are lazy, just put it back into the unit and your boss.
+And that is the waffle of the motion capture okay.
+So yeah, that is the, you know, implementation.
+Uh, put the motion data and then push the apply slightly human like data, uh, start to apply then all the things done.
+Okay. Okay. So yeah, if you want to do it.
+So we will uh yeah. Let me know okay. Yeah.
+And then we will try to stop our cars here next week.
+We will try to finish all the VR and all things, uh, see, one woman call you.
+Okay. Okay, so that is, um, yeah, the cast by now.
+So if you have questions, stay. If you do not have the questions. See you next week.
